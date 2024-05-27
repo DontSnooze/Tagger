@@ -418,6 +418,7 @@ var locationsC2 = {
             title: "Maitland St, Beacon St to Dead End",
             coords: [ 
                 { lat: 42.34751399955248, lng: -71.10180756541749 },
+                { lat: 42.34711240401689, lng: -71.10155892410411 },
                 { lat: 42.346940145720396, lng: -71.1012490680481 }
             ]
         },
