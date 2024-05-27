@@ -5,7 +5,7 @@ const taggerMapId = "2f1208d17811f870"
 const testMapId = "e70c456f1629620a"
 
 async function initMap() {
-    const { Map } = await google.maps.importLibrary("maps");
+    const { Map, InfoWindow } = await google.maps.importLibrary("maps");
     const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
 
     map = new Map(document.getElementById("map"), {
@@ -14,15 +14,17 @@ async function initMap() {
         mapTypeControl: false,
         mapId: testMapId,
     });
-
+    
+    // Create an info window to share between markers.
+    const infoWindow = new InfoWindow();
+    
     var colorIndex = 0
-
     for (let i in includedLocations) {
         let locations = includedLocations[i]
 
         // add markers
         let color = colors[colorIndex]
-        addMarkers(locations, color)
+        addMarkers(locations, color, infoWindow)
 
         colorIndex++
         if (colorIndex == colors.length) {
@@ -31,7 +33,7 @@ async function initMap() {
     }
 }
 
-function addMarkers(locations, color) {
+function addMarkers(locations, color, infoWindow) {
     var colorIndex = 0
     for (let i in locations.route) {
         let path = locations.route[i]
@@ -39,7 +41,7 @@ function addMarkers(locations, color) {
         for (let i in path.coords) {
             let position = path.coords[i]
             let title = "[" + locations.name + "] " + path.title 
-            addMarker(position, title, color)
+            addMarker(position, title, color, infoWindow)
         }
 
         drawLines(path.coords, colors[colorIndex])
@@ -50,7 +52,7 @@ function addMarkers(locations, color) {
     }
 }
 
-async function addMarker(location, title, color) {
+async function addMarker(location, title, color, infoWindow) {
     const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
     
     const pinBackground = new PinElement({
@@ -62,6 +64,15 @@ async function addMarker(location, title, color) {
       map: map,
       title: title,
       content: pinBackground.element,
+      gmpClickable: true,
+    });
+
+    marker.addListener("click", ({ domEvent, latLng }) => {
+        const { target } = domEvent;
+      
+        infoWindow.close();
+        infoWindow.setContent(marker.title);
+        infoWindow.open(marker.map, marker);
     });
 }
 
