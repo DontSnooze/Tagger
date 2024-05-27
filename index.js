@@ -317,9 +317,231 @@ var locationsB11 = {
     ]
 }
 
+var locationsC1 = {
+    name: "C1",
+    route: [
+        {
+            title: "Deerfield, Comm Ave (Outbound) to Dead End",
+            coords: [ 
+                { lat: 42.34901362009631, lng: -71.09715399448872 },
+                { lat: 42.350597432113325, lng: -71.09777310691526 }
+            ]
+        },
+        {
+            title: "Comm Ave (Outbound), Deerfield St to University Road",
+            coords: [ 
+                { lat: 42.34901339179426, lng: -71.09715915239265 },
+                { lat: 42.350515755250555, lng: -71.10966630257896 }
+            ]
+        },
+        {
+            title: "Comm Ave (IN), Mountfort to Beacon St",
+            coords: [ 
+                { lat: 42.35042969652931, lng: -71.11088399863364 },
+                { lat: 42.34882617240611, lng: -71.09746174920998 }
+            ]
+        },
+        {
+            title: "Bay State Road, Deerfield to Granby St",
+            coords: [ 
+                { lat: 42.35011955090093, lng: -71.09768269347401 },
+                { lat: 42.35065923193126, lng: -71.1034273040822 }
+            ]
+        },
+        {
+            title: "Silber Way, Comm Ave to Dead End",
+            coords: [ 
+                { lat: 42.34939929929193, lng: -71.10056494829894 },
+                { lat: 42.35077314990106, lng: -71.10028797368888 }
+            ]
+        },
+        {
+            title: "Granby St, Comm Ave to Dead End",
+            coords: [ 
+                { lat: 42.34986099004203, lng: -71.10362087324668 },
+                { lat: 42.35097265291431, lng: -71.1033131956898 }
+            ]
+        },
+        {
+            title: "University Road, Comm Ave to Storrow Drive",
+            coords: [ 
+                { lat: 42.35050969534677, lng: -71.10967596327004 },
+                { lat: 42.35138231842755, lng: -71.10950679932142 }
+            ]
+        },
+    ]
+}
+
+var locationsC2 = {
+    name: "C2",
+    route: [
+        {
+            title: "Park Drive, Beacon St to Mountfort",
+            coords: [ 
+                { lat: 42.3479116515225, lng: -71.07876779863503 },
+                { lat: 42.34539394680277, lng: -71.08174339004772 }
+            ]
+        },
+        {
+            title: "Buswell Drive, St Marys to Mountfort",
+            coords: [ 
+                { lat: 42.346441559059315, lng: -71.07895787896923 },
+                { lat: 42.34481792126827, lng: -71.08092782546558 }
+            ]
+        },
+        {
+            title: "Arundel St, Mountfort to Beacon St",
+            coords: [ 
+                { lat: 42.345917829734994, lng: -71.07532449320308 },
+                { lat: 42.343250968610256, lng: -71.07859611359251 }
+            ]
+        },
+        {
+            title: "Beacon St, St Marys to Brookline Line",
+            coords: [ 
+                { lat: 42.34535423710304, lng: -71.08025261191207 },
+                { lat: 42.34482647088192, lng: -71.07948299049313 }
+            ]
+        },
+        {
+            title: "Maitland St, Beacon St to Dead End",
+            coords: [ 
+                { lat: 42.346344506962815, lng: -71.08025340783618 },
+                { lat: 42.345706787462476, lng: -71.07926394578763 }
+            ]
+        },
+        {
+            title: "Miner St, Beacon St to Dead End",
+            coords: [ 
+                { lat: 42.34689130434067, lng: -71.07955859922704 },
+                { lat: 42.346520501460134, lng: -71.0789473924236 }
+            ]
+        },
+        {
+            title: "Aberdeen St, Beacon St to Dead End",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+        {
+            title: "Keswick St, Beacon St to Medfield St",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+        {
+            title: "Medfield St, Park Drive to St Marys",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+        {
+            title: "Mountfort, Beacon St to St Marys",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+    ]
+}
+
+var locationsC3 = {
+    name: "C3",
+    route: [
+        {
+            title: "Boylston St, Park Drive to Park Drive",
+            coords: [ 
+                { lat: 42.3479116515225, lng: -71.07876779863503 },
+                { lat: 42.34539394680277, lng: -71.08174339004772 }
+            ]
+        },
+        {
+            title: "Peterborough St, Park Drive to Park Drive",
+            coords: [ 
+                { lat: 42.346441559059315, lng: -71.07895787896923 },
+                { lat: 42.34481792126827, lng: -71.08092782546558 }
+            ]
+        },
+        {
+            title: "Queensberry St, Park Drive to Park Drive",
+            coords: [ 
+                { lat: 42.345917829734994, lng: -71.07532449320308 },
+                { lat: 42.343250968610256, lng: -71.07859611359251 }
+            ]
+        },
+        {
+            title: "Kilmarnock St, Brookline Ave to Park Drive",
+            coords: [ 
+                { lat: 42.34535423710304, lng: -71.08025261191207 },
+                { lat: 42.34482647088192, lng: -71.07948299049313 }
+            ]
+        },
+        {
+            title: "Jersey St, Park Drive to Brookline Ave",
+            coords: [ 
+                { lat: 42.346344506962815, lng: -71.08025340783618 },
+                { lat: 42.345706787462476, lng: -71.07926394578763 }
+            ]
+        },
+        {
+            title: "Van Ness, Kilmarnock St to Ipswich St",
+            coords: [ 
+                { lat: 42.34689130434067, lng: -71.07955859922704 },
+                { lat: 42.346520501460134, lng: -71.0789473924236 }
+            ]
+        },
+        {
+            title: "Brookline Ave, Park Drive to Comm Ave",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+        {
+            title: "Overland St, Brookline Ave to Dead End",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+        {
+            title: "Burlington St, Brookline Ave to Dead End",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+        {
+            title: "Fullerton St, Brookline Ave to Dead End",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+        {
+            title: "Lansdowne St, Brookline Ave to Ipswich St",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+        {
+            title: "Ipswich St, Boylston St to Boylston St",
+            coords: [ 
+                { lat: 42.343793691773215, lng: -71.07797016375741 },
+                { lat: 42.34465479751293, lng: -71.07918142790867 }
+            ]
+        },
+    ]
+}
+
 var includedLocations = [
     locationsB9,
-    locationsB11
+    locationsB11,
+    locationsC1
 ]
 
 initMap();
