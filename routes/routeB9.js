@@ -1,35 +1,4 @@
-let map;
-const position = { lat: 42.3507752636, lng: -71.0748797005 };
-const taggerMapId = "2f1208d17811f870"
-const testMapId = "e70c456f1629620a"
-
-async function initMap() {
-    const position = { lat: 42.3507752636, lng: -71.0748797005 };
-    const { Map } = await google.maps.importLibrary("maps");
-    const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
-
-    map = new Map(document.getElementById("map"), {
-        center: position,
-        zoom: 15,
-        mapTypeControl: false,
-        mapId: testMapId,
-    });
-
-    for (let i in locations) {
-        for (let x in locations[i]) {
-            let lat = locations[i][x][0]
-            let lng = locations[i][x][1]
-            let position = { lat: lat, lng: lng };
-
-            const marker = new AdvancedMarkerElement({
-                map: map,
-                position: position,
-                title: "Worx!"
-            });
-        }
-    }
-}
-
+// B9
 var locations = [
     [[42.34681070122661, -71.08915855071963], [42.34777010948075, -71.0856120428559]],      // Boylston (SS), Hemenway tp Dalton
     [[42.34698908122273, -71.08917544164402], [42.347342329249074, -71.08790657569338]],    // Boylston (NS), Ipswitch to Mass Ave
@@ -50,5 +19,3 @@ var locations = [
     [[42.34723376485494, -71.08760673690448], [42.34290594350567, -71.08508654721513]],    // Mass Ave, Boylston to Huntington Ave
     [[42.347797652580766, -71.08553527833178], [42.34626908105676, -71.08471350834871]]    // Dalton, Boylston to Belvidere
 ]
-
-initMap();
