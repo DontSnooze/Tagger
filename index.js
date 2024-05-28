@@ -1,7 +1,6 @@
 let map;
 
 const initialPosition = { lat: 42.3507752636, lng: -71.0748797005 };
-// const taggerMapId = "2f1208d17811f870"
 const taggerMapId = "67a3f6d5605a8cd"
 
 async function initMap() {
@@ -35,6 +34,7 @@ async function initMap() {
 
 function addMarkers(locations, color, infoWindow) {
     var colorIndex = 0
+    var areaMarkers = []
     for (let i in locations.route) {
         let path = locations.route[i]
 
@@ -42,6 +42,7 @@ function addMarkers(locations, color, infoWindow) {
             let position = path.coords[i]
             let title = "[" + locations.name + "] " + path.title 
             addMarker(position, title, color, infoWindow)
+            areaMarkers.push(position)
         }
 
         drawLines(path.coords, colors[colorIndex])
@@ -50,6 +51,7 @@ function addMarkers(locations, color, infoWindow) {
             colorIndex = 0
         }
     }
+    drawArea(areaMarkers, color, locations.name, infoWindow)
 }
 
 async function addMarker(location, title, color, infoWindow) {
@@ -82,10 +84,31 @@ function drawLines(coordinates, color) {
         geodesic: true,
         strokeColor: color,
         strokeOpacity: 1.0,
-        strokeWeight: 2
+        strokeWeight: 5
     });
     
     line.setMap(map);
+}
+
+function drawArea(coordinates, color, title, infoWindow) {
+    const areaShade = new google.maps.Polygon({
+        paths: coordinates,
+        strokeColor: color,
+        strokeOpacity: 0.1,
+        strokeWeight: 0.5,
+        fillColor: color,
+        fillOpacity: 0.3,
+      });
+    
+      areaShade.setMap(map);
+
+      areaShade.addListener("click", ({ domEvent, latLng }) => {
+        const { target } = domEvent;
+        console.log("click")
+        infoWindow.close();
+        infoWindow.setContent(title);
+        infoWindow.open(areaShade.map, areaShade.placeId);
+    });
 }
 
 var colors = [
