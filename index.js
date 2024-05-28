@@ -145,8 +145,8 @@ function drawLines(coordinates, color) {
         path: coordinates,
         geodesic: true,
         strokeColor: color,
-        strokeOpacity: 1.0,
-        strokeWeight: 5
+        strokeOpacity: 0.6,
+        strokeWeight: 3
     });
     
     line.setMap(map);
@@ -175,10 +175,8 @@ function drawArea(coordinates, color, title, infoWindow) {
 }
 
 function setupGetCurrentPosition() {
-    const locationButton = document.createElement("button");
-
-    locationButton.textContent = "Current Location";
-    locationButton.classList.add("custom-map-control-button");
+    const locationButton = document.createElement("img");
+    locationButton.setAttribute("class", "current-location-button")
     map.controls[google.maps.ControlPosition.RIGHT_TOP].push(locationButton);
 
     locationButton.addEventListener("click", () => {
