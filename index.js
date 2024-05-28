@@ -18,8 +18,15 @@ async function initMap() {
     const infoWindow = new InfoWindow();
     
     var colorIndex = 0
+
+    let locationsFromQuery = getLocationsFromQuery()
+
     for (let i in includedLocations) {
         let locations = includedLocations[i]
+
+        if (locationsFromQuery.length && !locationsFromQuery.includes(locations.name)) {
+            continue
+        }
 
         // add markers
         let color = colors[colorIndex]
@@ -30,6 +37,61 @@ async function initMap() {
             colorIndex = 0
         }
     }
+
+    setupSideNav()
+    setupGetCurrentPosition()
+    monitor_position(map)
+}
+
+function setupSideNav() {
+    var routeForm = document.getElementById("route-form-checkboxes")
+    const locationsFromQuery = getLocationsFromQuery()
+
+    for (let i in includedLocations) {
+        let locations = includedLocations[i]
+        
+        var labelElement = document.createElement("label")
+
+        var checkboxElement = document.createElement("input")
+        checkboxElement.setAttribute("id", locations.name)
+        checkboxElement.setAttribute("type", "checkbox")
+        checkboxElement.setAttribute("value", locations.name)
+        checkboxElement.setAttribute("name", "locations")
+        if (locationsFromQuery.includes(locations.name) || !locationsFromQuery.length) {
+            checkboxElement.setAttribute("checked", "true")
+        }
+
+        var titleDivElement = document.createElement("div")
+        titleDivElement.setAttribute("class", "navCheckBoxDiv")
+        titleDivElement.innerHTML += locations.name
+
+        labelElement.appendChild(checkboxElement)
+        labelElement.appendChild(titleDivElement)
+
+        routeForm.appendChild(labelElement)
+        addLineBreak(routeForm)
+    }
+
+    // Add controls to the map, allowing users to hide/show features.
+    const navControl = document.getElementById("left-nav-control");
+
+    map.controls[google.maps.ControlPosition.TOP_LEFT].push(navControl);
+}
+
+function addLineBreak(element) {
+    linebreak = document.createElement("br");
+    element.appendChild(linebreak);
+}
+
+function getLocationsFromQuery() {
+    const searchParams = new URLSearchParams(window.location.search)
+    var locations = searchParams.getAll("locations")
+
+    if (!locations) {
+        locations = []
+    }
+
+    return locations
 }
 
 function addMarkers(locations, color, infoWindow) {
@@ -107,9 +169,65 @@ function drawArea(coordinates, color, title, infoWindow) {
         console.log("click")
         infoWindow.close();
         infoWindow.setContent(title);
+        // bug fix needed: location is off.. window opens at last position it was opened (doesnt show up if wasnt open b4)
         infoWindow.open(areaShade.map, areaShade.placeId);
     });
 }
+
+function setupGetCurrentPosition() {
+    const locationButton = document.createElement("button");
+
+    locationButton.textContent = "Current Location";
+    locationButton.classList.add("custom-map-control-button");
+    map.controls[google.maps.ControlPosition.RIGHT_TOP].push(locationButton);
+
+    locationButton.addEventListener("click", () => {
+        if (current_lat && current_lng) {
+            const pos = { lat: current_lat, lng: current_lng }
+            map.panTo(pos)
+        }
+    })
+}
+
+var bluedot_maker = null;
+var current_lat, current_lng;
+const monitor_position = async (map) => {
+    const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+    var geolocation_options = {
+        enableHighAccuracy: true,
+        timeout: 10000,
+        maximumAge: 0,
+    };
+    navigator.geolocation.watchPosition( (position) => {
+        var coordinates = position.coords;
+        current_lat = coordinates.latitude;
+        current_lng = coordinates.longitude;
+        if (bluedot_maker == null) {
+            const blueDotImg = document.createElement("img");
+            blueDotImg.width = 21
+            blueDotImg.height = 21
+            blueDotImg.src = 'https://upload.wikimedia.org/wikipedia/commons/8/8b/GAudit_BlueDot.png';
+            bluedot_maker = new AdvancedMarkerElement({
+                map: map,
+                content: blueDotImg,
+                position: {
+                    lat: current_lat,
+                    lng: current_lng,
+                },
+             });
+        } else {
+            bluedot_maker.position = {
+                lat: current_lat,
+                lng: current_lng,
+            };
+        }
+    },
+    (err) => {
+        console.error(err);
+    },
+    geolocation_options
+    );
+};
 
 var colors = [
     "Blue",
