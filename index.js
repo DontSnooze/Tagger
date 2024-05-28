@@ -1,8 +1,8 @@
 let map;
 
 const initialPosition = { lat: 42.3507752636, lng: -71.0748797005 };
-const taggerMapId = "2f1208d17811f870"
-const testMapId = "e70c456f1629620a"
+// const taggerMapId = "2f1208d17811f870"
+const taggerMapId = "67a3f6d5605a8cd"
 
 async function initMap() {
     const { Map, InfoWindow } = await google.maps.importLibrary("maps");
@@ -12,7 +12,7 @@ async function initMap() {
         center: initialPosition,
         zoom: 15,
         mapTypeControl: false,
-        mapId: testMapId,
+        mapId: taggerMapId,
     });
     
     // Create an info window to share between markers.
