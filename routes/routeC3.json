@@ -1,0 +1,173 @@
+{
+  "name": "C3",
+  "route": [
+    {
+      "title": "Boylston St, Park Drive to Park Drive",
+      "coords": [
+        {
+          "lat": 42.34333774598236,
+          "lng": -71.10253848437131
+        },
+        {
+          "lat": 42.34552053089145,
+          "lng": -71.09438686954492
+        }
+      ]
+    },
+    {
+      "title": "Peterborough St, Park Drive to Park Drive",
+      "coords": [
+        {
+          "lat": 42.34251493835198,
+          "lng": -71.1018001881368
+        },
+        {
+          "lat": 42.34443502427732,
+          "lng": -71.09469593283106
+        }
+      ]
+    },
+    {
+      "title": "Queensberry St, Park Drive to Park Drive",
+      "coords": [
+        {
+          "lat": 42.34176216988335,
+          "lng": -71.10104444862289
+        },
+        {
+          "lat": 42.343466127693326,
+          "lng": -71.09459045907212
+        }
+      ]
+    },
+    {
+      "title": "Kilmarnock St, Brookline Ave to Park Drive",
+      "coords": [
+        {
+          "lat": 42.344917538785396,
+          "lng": -71.10098711978169
+        },
+        {
+          "lat": 42.34472913904342,
+          "lng": -71.10043564659227
+        },
+        {
+          "lat": 42.340930519889646,
+          "lng": -71.09852104284101
+        }
+      ]
+    },
+    {
+      "title": "Jersey St, Park Drive to Brookline Ave",
+      "coords": [
+        {
+          "lat": 42.34195087456678,
+          "lng": -71.09654162371245
+        },
+        {
+          "lat": 42.34681494212804,
+          "lng": -71.098955455558
+        }
+      ]
+    },
+    {
+      "title": "Van Ness, Kilmarnock St to Ipswich St",
+      "coords": [
+        {
+          "lat": 42.34477985245983,
+          "lng": -71.10045607571752
+        },
+        {
+          "lat": 42.34601974783107,
+          "lng": -71.09574894172592
+        }
+      ]
+    },
+    {
+      "title": "Brookline Ave, Park Drive to Comm Ave",
+      "coords": [
+        {
+          "lat": 42.34338297899702,
+          "lng": -71.10263622200006
+        },
+        {
+          "lat": 42.34870858321632,
+          "lng": -71.09709670648743
+        }
+      ]
+    },
+    {
+      "title": "Overland St, Brookline Ave to Dead End",
+      "coords": [
+        {
+          "lat": 42.34609924880648,
+          "lng": -71.09977319301542
+        },
+        {
+          "lat": 42.34690056566813,
+          "lng": -71.10118145792123
+        }
+      ]
+    },
+    {
+      "title": "Burlington Ave, Brookline Ave to Dead End",
+      "coords": [
+        {
+          "lat": 42.345506618258305,
+          "lng": -71.10038236785341
+        },
+        {
+          "lat": 42.34639677382428,
+          "lng": -71.101939096633
+        }
+      ]
+    },
+    {
+      "title": "Fullerton St, Brookline Ave to Dead End",
+      "coords": [
+        {
+          "lat": 42.34492962731468,
+          "lng": -71.10099953252025
+        },
+        {
+          "lat": 42.34538747601117,
+          "lng": -71.10178710832295
+        }
+      ]
+    },
+    {
+      "title": "Lansdowne St, Brookline Ave to Ipswich St",
+      "coords": [
+        {
+          "lat": 42.347223867933245,
+          "lng": -71.0985037576922
+        },
+        {
+          "lat": 42.34717034042794,
+          "lng": -71.09449941907238
+        }
+      ]
+    },
+    {
+      "title": "Ipswich St, Boylston St to Boylston St",
+      "coords": [
+        {
+          "lat": 42.345248511297626,
+          "lng": -71.09533710009013
+        },
+        {
+          "lat": 42.34601477988076,
+          "lng": -71.09567334859854
+        },
+        {
+          "lat": 42.347511047688265,
+          "lng": -71.0939640853475
+        },
+        {
+          "lat": 42.34753693436113,
+          "lng": -71.09238792046435
+        }
+      ]
+    }
+  ]
+}

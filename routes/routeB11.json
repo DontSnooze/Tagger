@@ -1,0 +1,148 @@
+{
+  "name": "B11",
+  "route": [
+    {
+      "title": "Huntington Ave, Exeter to West Newton",
+      "coords": [
+        {
+          "lat": 42.3479116515225,
+          "lng": -71.07876779863503
+        },
+        {
+          "lat": 42.34539394680277,
+          "lng": -71.08174339004772
+        }
+      ]
+    },
+    {
+      "title": "St Botolph, Harcourt to West Newton",
+      "coords": [
+        {
+          "lat": 42.346441559059315,
+          "lng": -71.07895787896923
+        },
+        {
+          "lat": 42.34481792126827,
+          "lng": -71.08092782546558
+        }
+      ]
+    },
+    {
+      "title": "Columbus Ave (NS), Dartmouth to West Newton",
+      "coords": [
+        {
+          "lat": 42.345917829734994,
+          "lng": -71.07532449320308
+        },
+        {
+          "lat": 42.343250968610256,
+          "lng": -71.07859611359251
+        }
+      ]
+    },
+    {
+      "title": "Follen, St Botolph to Dead End",
+      "coords": [
+        {
+          "lat": 42.34535423710304,
+          "lng": -71.08025261191207
+        },
+        {
+          "lat": 42.34482647088192,
+          "lng": -71.07948299049313
+        }
+      ]
+    },
+    {
+      "title": "Garrison, Huntington to Dead End",
+      "coords": [
+        {
+          "lat": 42.346344506962815,
+          "lng": -71.08025340783618
+        },
+        {
+          "lat": 42.345706787462476,
+          "lng": -71.07926394578763
+        }
+      ]
+    },
+    {
+      "title": "Harcourt, Huntington to Dead End",
+      "coords": [
+        {
+          "lat": 42.34689130434067,
+          "lng": -71.07955859922704
+        },
+        {
+          "lat": 42.346520501460134,
+          "lng": -71.0789473924236
+        }
+      ]
+    },
+    {
+      "title": "Braddock, Columbus Ave to Dead End",
+      "coords": [
+        {
+          "lat": 42.343793691773215,
+          "lng": -71.07797016375741
+        },
+        {
+          "lat": 42.34465479751293,
+          "lng": -71.07918142790867
+        }
+      ]
+    },
+    {
+      "title": "Holyoke, Columbus Ave to Dead End",
+      "coords": [
+        {
+          "lat": 42.344348315753265,
+          "lng": -71.07727561871434
+        },
+        {
+          "lat": 42.345178894583476,
+          "lng": -71.07849763408936
+        }
+      ]
+    },
+    {
+      "title": "West Canton, Columbus Ave to Dead End",
+      "coords": [
+        {
+          "lat": 42.34488615084444,
+          "lng": -71.07659092166129
+        },
+        {
+          "lat": 42.3458015147466,
+          "lng": -71.07793304428343
+        }
+      ]
+    },
+    {
+      "title": "Yarmouth, Columbus Ave to Dead End",
+      "coords": [
+        {
+          "lat": 42.345438152264386,
+          "lng": -71.07592804358433
+        },
+        {
+          "lat": 42.34630847057417,
+          "lng": -71.07725103580538
+        }
+      ]
+    },
+    {
+      "title": "West Newton (ES), Columbus Ave to Sparrow Park",
+      "coords": [
+        {
+          "lat": 42.34328503542355,
+          "lng": -71.07857914821415
+        },
+        {
+          "lat": 42.34421135705598,
+          "lng": -71.0799554327784
+        }
+      ]
+    }
+  ]
+}
