@@ -103,7 +103,7 @@ function createSnippet() {
         routeObjects.push(routeObject)
     }
 
-    locationsObject.routes = routeObjects
+    locationsObject.route = routeObjects
 
     let resultsDiv = document.getElementById("results")
     resultsDiv.textContent = JSON.stringify(locationsObject, undefined, 2);    
