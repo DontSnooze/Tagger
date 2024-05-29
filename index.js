@@ -170,7 +170,6 @@ function drawArea(coordinates, color, title, infoWindow) {
 
       areaShade.addListener("click", ({ domEvent, latLng }) => {
         const { target } = domEvent;
-        console.log("click")
         infoWindow.close();
         infoWindow.setContent(title);
         // bug fix needed: location is off.. window opens at last position it was opened (doesnt show up if wasnt open b4)
@@ -187,6 +186,7 @@ function setupGetCurrentPosition() {
         if (current_lat && current_lng) {
             const pos = { lat: current_lat, lng: current_lng }
             map.panTo(pos)
+            geocodeLatLng()
         }
     })
 }
@@ -241,13 +241,13 @@ function geocodeLatLng() {
         .then((response) => {
             if (response.results[0]) {
                 const formattedAddress = response.results[0].formatted_address
-                const consoleDiv = document.getElementById("consoleText");
-                consoleDiv.innerHTML = formattedAddress
+                const consoleText = document.getElementById("consoleText");
+                consoleText.innerHTML = formattedAddress
             } else {
                 // do nothing
             }
         })
-        .catch((e) => window.alert("Geocoder failed due to: " + e));
+        .catch((e) => console.log("Geocoder failed due to: " + e));
 }
 
 var colors = [
