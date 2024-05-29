@@ -157,13 +157,22 @@ function drawLines(coordinates, color) {
 }
 
 function drawArea(coordinates, color, title, infoWindow) {
+    var bounds = new google.maps.LatLngBounds();
+    for (let i in coordinates) {
+        bounds.extend(coordinates[i]);
+    }
+      
+      // The Center of the Bermuda Triangle - (25.3939245, -72.473816)
+      let paths = polygon_paths_from_bounds(bounds)
+
     const areaShade = new google.maps.Polygon({
-        paths: coordinates,
+        // paths: coordinates,
+        paths: paths,
         strokeColor: color,
         strokeOpacity: 0.1,
         strokeWeight: 0.5,
         fillColor: color,
-        fillOpacity: 0.3,
+        fillOpacity: 0.2,
       });
     
       areaShade.setMap(map);
@@ -173,8 +182,22 @@ function drawArea(coordinates, color, title, infoWindow) {
         infoWindow.close();
         infoWindow.setContent(title);
         // bug fix needed: location is off.. window opens at last position it was opened (doesnt show up if wasnt open b4)
-        infoWindow.open(areaShade.map, areaShade.placeId);
+        infoWindow.setPosition(bounds.getCenter())
+        infoWindow.open(areaShade.map);
     });
+}
+
+var polygon_paths_from_bounds = function(bounds){
+    var paths = new google.maps.MVCArray();
+    var path = new google.maps.MVCArray();
+    var ne = bounds.getNorthEast();
+    var sw = bounds.getSouthWest();
+    path.push(ne);
+    path.push(new google.maps.LatLng(sw.lat(), ne.lng()));
+    path.push(sw);
+    path.push(new google.maps.LatLng(ne.lat(), sw.lng()));
+    paths.push(path);
+    return paths;
 }
 
 function setupGetCurrentPosition() {
@@ -251,10 +274,8 @@ function geocodeLatLng() {
 }
 
 var colors = [
-    "Blue",
     "Orange",
     "Green",
-    "#50BFE6",
     "#FF5349",
     "#5946B2",
     "#FF007C",
@@ -274,7 +295,9 @@ var colors = [
     "#8FD400",
     "#D98695",
     "#757575",
-    "#0081AB"
+    "#0081AB",
+    "#50BFE6",
+    "Blue"
 ]
 
 var includedLocations = []
