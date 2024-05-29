@@ -172,7 +172,7 @@ function drawArea(coordinates, color, title, infoWindow) {
         strokeOpacity: 0.1,
         strokeWeight: 0.5,
         fillColor: color,
-        fillOpacity: 0.2,
+        fillOpacity: 0.1,
       });
     
       areaShade.setMap(map);
