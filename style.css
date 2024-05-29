@@ -51,6 +51,14 @@ body {
     background-position: center;
 }
 
+.console {
+    text-align: center;
+}
+
+.consoleHighlighted {
+    font-weight: bold;
+}
+
 input[type='checkbox'] {
     -webkit-appearance:none;
     width:30px;
