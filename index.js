@@ -1,4 +1,5 @@
-let map;
+var map;
+var geocoder;
 
 const initialPosition = { lat: 42.3507752636, lng: -71.0748797005 };
 const taggerMapId = "67a3f6d5605a8cd"
@@ -16,6 +17,9 @@ async function initMap() {
     
     // Create an info window to share between markers.
     const infoWindow = new InfoWindow();
+
+    // initialize the goecoder
+    geocoder = new google.maps.Geocoder();
     
     var colorIndex = 0
 
@@ -219,6 +223,8 @@ const monitor_position = async (map) => {
                 lng: current_lng,
             };
         }
+
+        geocodeLatLng()
     },
     (err) => {
         console.error(err);
@@ -226,6 +232,23 @@ const monitor_position = async (map) => {
     geolocation_options
     );
 };
+
+function geocodeLatLng() {
+    const latlng = { lat: current_lat, lng: current_lng };
+  
+    geocoder
+        .geocode({ location: latlng })
+        .then((response) => {
+            if (response.results[0]) {
+                const formattedAddress = response.results[0].formatted_address
+                const consoleDiv = document.getElementById("consoleText");
+                consoleDiv.innerHTML = formattedAddress
+            } else {
+                // do nothing
+            }
+        })
+        .catch((e) => window.alert("Geocoder failed due to: " + e));
+}
 
 var colors = [
     "Blue",
