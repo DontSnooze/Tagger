@@ -1,0 +1,278 @@
+{
+  "name": "D2",
+  "route": [
+    {
+      "title": "GAINESBOROUGH ST, HEMENWAY ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3426284,
+          "lng": -71.090266
+        },
+        {
+          "lat": 42.3426284,
+          "lng": -71.090266
+        }
+      ]
+    },
+    {
+      "title": "FORSYTH ST, HEMENWAY ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3408224,
+          "lng": -71.0912396
+        },
+        {
+          "lat": 42.3408224,
+          "lng": -71.0912396
+        }
+      ]
+    },
+    {
+      "title": "ST BOTOLPH ST, MASS AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3422192,
+          "lng": -71.0840411
+        },
+        {
+          "lat": 42.3422192,
+          "lng": -71.0840411
+        }
+      ]
+    },
+    {
+      "title": "ST STEPHEN ST, MASS AVE to OPERA PLACE",
+      "coords": [
+        {
+          "lat": 42.3433339,
+          "lng": -71.0857463
+        },
+        {
+          "lat": 42.3410366,
+          "lng": -71.0893591
+        }
+      ]
+    },
+    {
+      "title": "LEON ST, RUGGLES ST to GREENLEAF ST",
+      "coords": [
+        {
+          "lat": 42.3360607,
+          "lng": -71.0913199
+        },
+        {
+          "lat": 42.3384974,
+          "lng": -71.0909203
+        }
+      ]
+    },
+    {
+      "title": "FORSYTH WAY, HUNTINGTON AVE to STATE LINE",
+      "coords": [
+        {
+          "lat": 42.3388334,
+          "lng": -71.0924964
+        },
+        {
+          "lat": 42.3398473,
+          "lng": -71.0927847
+        }
+      ]
+    },
+    {
+      "title": "MUSEUM ROAD, HUNTINGTON AVE to FENWAY",
+      "coords": [
+        {
+          "lat": 42.3381173,
+          "lng": -71.09477180000002
+        },
+        {
+          "lat": 42.33906409999999,
+          "lng": -71.09684639999999
+        }
+      ]
+    },
+    {
+      "title": "WESTLAND AVE SS, HEMENWAY ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.343641,
+          "lng": -71.0878426
+        },
+        {
+          "lat": 42.343641,
+          "lng": -71.0878426
+        }
+      ]
+    },
+    {
+      "title": "RUGGLES ST, HUNTINGTON AVE to FORYSTH ST",
+      "coords": [
+        {
+          "lat": 42.337739,
+          "lng": -71.0957317
+        },
+        {
+          "lat": 42.3389927,
+          "lng": -71.0902645
+        }
+      ]
+    },
+    {
+      "title": "FIELD ST, RUGGLES ST to PARKER ST",
+      "coords": [
+        {
+          "lat": 42.3365084,
+          "lng": -71.0925129
+        },
+        {
+          "lat": 42.3380101,
+          "lng": -71.0929879
+        }
+      ]
+    },
+    {
+      "title": "PARKER ST, RUGGLES ST to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3369504,
+          "lng": -71.09365489999999
+        },
+        {
+          "lat": 42.3388334,
+          "lng": -71.0924964
+        }
+      ]
+    },
+    {
+      "title": "SYMPHONY ROAD, HEMENWAY ST to ST STEPHEN ST",
+      "coords": [
+        {
+          "lat": 42.3432317,
+          "lng": -71.0900985
+        },
+        {
+          "lat": 42.34262,
+          "lng": -71.08659209999999
+        }
+      ]
+    },
+    {
+      "title": "GREENLEAF ST, FORYSTH WAY to LEON ST",
+      "coords": [
+        {
+          "lat": 42.3384588,
+          "lng": -71.09000329999999
+        },
+        {
+          "lat": 42.3384974,
+          "lng": -71.0909203
+        }
+      ]
+    },
+    {
+      "title": "TAVERN ROAD, RUGGLES ST to FIELD",
+      "coords": [
+        {
+          "lat": 42.3367251,
+          "lng": -71.09307989999999
+        },
+        {
+          "lat": 42.337164,
+          "lng": -71.0928935
+        }
+      ]
+    },
+    {
+      "title": "HUNTINGTON AVE NS, EVANS WAY to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3384957,
+          "lng": -71.0938271
+        },
+        {
+          "lat": 42.3384957,
+          "lng": -71.0938271
+        }
+      ]
+    },
+    {
+      "title": "HEMENWAY ST, FORYSTH WAY to WESTLAND AVE",
+      "coords": [
+        {
+          "lat": 42.3408224,
+          "lng": -71.0912396
+        },
+        {
+          "lat": 42.343955,
+          "lng": -71.0899088
+        }
+      ]
+    },
+    {
+      "title": "LOUIS PRANG, FENWAY to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3386513,
+          "lng": -71.0976539
+        },
+        {
+          "lat": 42.337739,
+          "lng": -71.0957317
+        }
+      ]
+    },
+    {
+      "title": "VANCOUVER, LOUIS PRANG to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.33805419999999,
+          "lng": -71.0964095
+        },
+        {
+          "lat": 42.3372784,
+          "lng": -71.0968827
+        }
+      ]
+    },
+    {
+      "title": "MASS AVE WS, ST STEPHEN ST to MASS AVE T STATION",
+      "coords": [
+        {
+          "lat": 42.3414982,
+          "lng": -71.08342
+        },
+        {
+          "lat": 42.4014632,
+          "lng": -71.1370282
+        }
+      ]
+    },
+    {
+      "title": "OPERA PLACE, ST STEPHEN ST to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3410366,
+          "lng": -71.0893591
+        },
+        {
+          "lat": 42.3404398,
+          "lng": -71.0889704
+        }
+      ]
+    },
+    {
+      "title": "HUNTINGTON AVE SS, MASS AVE to ST ALPHONSUS",
+      "coords": [
+        {
+          "lat": 42.3384957,
+          "lng": -71.0938271
+        },
+        {
+          "lat": 42.3384957,
+          "lng": -71.0938271
+        }
+      ]
+    }
+  ]
+}
