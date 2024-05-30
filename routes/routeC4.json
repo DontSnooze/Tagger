@@ -1,0 +1,122 @@
+{
+  "name": "C4",
+  "route": [
+    {
+      "title": "BROOKLINE AVE, LANSDOWNE ST to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3472268,
+          "lng": -71.0985446
+        },
+        {
+          "lat": 42.3487707,
+          "lng": -71.09717289999999
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, CHARLESGATE ST to 660 BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3502545,
+          "lng": -71.0916355
+        },
+        {
+          "lat": 42.3492687,
+          "lng": -71.0962492
+        }
+      ]
+    },
+    {
+      "title": "NEWBURY ST EXT, CHARLESGATE ST to BROOKLINE AVE",
+      "coords": [
+        {
+          "lat": 42.3484203,
+          "lng": -71.0922793
+        },
+        {
+          "lat": 42.34929,
+          "lng": -71.0836812
+        }
+      ]
+    },
+    {
+      "title": "KENMORE ST, COMM AVE to NEWBURY ST EXT",
+      "coords": [
+        {
+          "lat": 42.348802,
+          "lng": -71.09497569999999
+        },
+        {
+          "lat": 42.34803290000001,
+          "lng": -71.0949399
+        }
+      ]
+    },
+    {
+      "title": "BAY STATE ROAD, COMM AVE to DEERFIELD ST",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3501227,
+          "lng": -71.0976678
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE, BROOKLINE AVE to CHARLESGATE (W)",
+      "coords": [
+        {
+          "lat": 42.3487707,
+          "lng": -71.09717289999999
+        },
+        {
+          "lat": 42.34918769999999,
+          "lng": -71.0915891
+        }
+      ]
+    },
+    {
+      "title": "RALEIGH ST, BAY STATE ROAD to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.350446,
+          "lng": -71.1013854
+        },
+        {
+          "lat": 42.3493623,
+          "lng": -71.0949986
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (OB), 660 BEACON ST to DEERFIELD ST",
+      "coords": [
+        {
+          "lat": 42.3492687,
+          "lng": -71.0962492
+        },
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (IN), CHARLESGATE ST to 497 COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        },
+        {
+          "lat": 42.3492973,
+          "lng": -71.0947016
+        }
+      ]
+    }
+  ]
+}

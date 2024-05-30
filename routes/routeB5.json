@@ -1,0 +1,109 @@
+{
+  "name": "B5",
+  "route": [
+    {
+      "title": "COMM AVE (OUT), EXETER ST to FAIRFIELD ST",
+      "coords": [
+        {
+          "lat": 42.3506094,
+          "lng": -71.080035
+        },
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        }
+      ]
+    },
+    {
+      "title": "NEWBURY ST, EXETER ST to FAIRFIELD ST",
+      "coords": [
+        {
+          "lat": 42.35030760000001,
+          "lng": -71.0798829
+        },
+        {
+          "lat": 42.3496915,
+          "lng": -71.08218889999999
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (IN), EXETER ST to FAIRFIELD ST",
+      "coords": [
+        {
+          "lat": 42.3506094,
+          "lng": -71.080035
+        },
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, EXETER ST to FAIRFIELD ST",
+      "coords": [
+        {
+          "lat": 42.3530681,
+          "lng": -71.0812804
+        },
+        {
+          "lat": 42.3524435,
+          "lng": -71.08354829999999
+        }
+      ]
+    },
+    {
+      "title": "EXETER ST (WS), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3230308,
+          "lng": -71.1686304
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST , EXETER ST to FAIRFIELD ST",
+      "coords": [
+        {
+          "lat": 42.349507,
+          "lng": -71.0794992
+        },
+        {
+          "lat": 42.3488891,
+          "lng": -71.08178869999999
+        }
+      ]
+    },
+    {
+      "title": "MARLBOROUGHT ST, EXETER ST to FAIRFIELD ST",
+      "coords": [
+        {
+          "lat": 42.352276,
+          "lng": -71.0808655
+        },
+        {
+          "lat": 42.3516577,
+          "lng": -71.0831525
+        }
+      ]
+    },
+    {
+      "title": "FAIRFIELD ST (ES), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3468819,
+          "lng": -71.0902222
+        },
+        {
+          "lat": 42.350859,
+          "lng": -71.082748
+        }
+      ]
+    }
+  ]
+}

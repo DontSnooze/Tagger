@@ -1,0 +1,109 @@
+{
+  "name": "B3",
+  "route": [
+    {
+      "title": "COMM AVE (IN), CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3485196,
+          "lng": -71.0765708
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST (NS), CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3485196,
+          "lng": -71.0765708
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (OUT), CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3485196,
+          "lng": -71.0765708
+        }
+      ]
+    },
+    {
+      "title": "NEWBURY ST, CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.351469,
+          "lng": -71.07559599999999
+        },
+        {
+          "lat": 42.3508853,
+          "lng": -71.0777275
+        }
+      ]
+    },
+    {
+      "title": "CLARENDON ST (WS), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    },
+    {
+      "title": "MARLBOROUGH ST, CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3534452,
+          "lng": -71.0765612
+        },
+        {
+          "lat": 42.3528733,
+          "lng": -71.0787038
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3542301,
+          "lng": -71.07695249999999
+        },
+        {
+          "lat": 42.3536527,
+          "lng": -71.0790835
+        }
+      ]
+    },
+    {
+      "title": "DARTMOUTH ST (ES), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3485196,
+          "lng": -71.0765708
+        },
+        {
+          "lat": 42.3485196,
+          "lng": -71.0765708
+        }
+      ]
+    }
+  ]
+}

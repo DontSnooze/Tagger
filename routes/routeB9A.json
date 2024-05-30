@@ -1,0 +1,135 @@
+{
+  "name": "B9A",
+  "route": [
+    {
+      "title": "BOYLSTON ST (NS), IPSWICH ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3475172,
+          "lng": -71.0921301
+        },
+        {
+          "lat": 42.3529238,
+          "lng": -71.064504
+        }
+      ]
+    },
+    {
+      "title": "MASS AVE (WS), BOYLSTON ST to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3414982,
+          "lng": -71.08342
+        },
+        {
+          "lat": 42.3414982,
+          "lng": -71.08342
+        }
+      ]
+    },
+    {
+      "title": "HAVILAND, HEMENWAY to EDGERLY",
+      "coords": [
+        {
+          "lat": 42.3463141,
+          "lng": -71.0892611
+        },
+        {
+          "lat": 42.3464093,
+          "lng": -71.0882146
+        }
+      ]
+    },
+    {
+      "title": "STONEHOLM, NORWAY to EDGERLY",
+      "coords": [
+        {
+          "lat": 42.3453015,
+          "lng": -71.0886936
+        },
+        {
+          "lat": 42.3458781,
+          "lng": -71.087955
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST (SS), HEMENWAY to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3430999,
+          "lng": -71.0901352
+        },
+        {
+          "lat": 42.3529238,
+          "lng": -71.064504
+        }
+      ]
+    },
+    {
+      "title": "NORWAY, HEMENWAY to EDGERLY",
+      "coords": [
+        {
+          "lat": 42.3454247,
+          "lng": -71.089508
+        },
+        {
+          "lat": 42.3452216,
+          "lng": -71.08761249999999
+        }
+      ]
+    },
+    {
+      "title": "EDGERLY, HAVILAND to WESTLAND AVE",
+      "coords": [
+        {
+          "lat": 42.3464093,
+          "lng": -71.0882146
+        },
+        {
+          "lat": 42.3437827,
+          "lng": -71.0868988
+        }
+      ]
+    },
+    {
+      "title": "BURBANK, HEMENWAY to EDGERLY",
+      "coords": [
+        {
+          "lat": 42.3446071,
+          "lng": -71.0897361
+        },
+        {
+          "lat": 42.3443709,
+          "lng": -71.0871911
+        }
+      ]
+    },
+    {
+      "title": "HEMENWAY, BOYLSTON ST to WESTLAND AVE",
+      "coords": [
+        {
+          "lat": 42.3469092,
+          "lng": -71.0891443
+        },
+        {
+          "lat": 42.343955,
+          "lng": -71.0899088
+        }
+      ]
+    },
+    {
+      "title": "WESTLAND AVE (NS), HEMENWAY to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.344161,
+          "lng": -71.089637
+        },
+        {
+          "lat": 42.343641,
+          "lng": -71.0878426
+        }
+      ]
+    }
+  ]
+}

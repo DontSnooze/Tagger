@@ -1,0 +1,499 @@
+{
+  "name": "D4",
+  "route": [
+    {
+      "title": "ELLINGWOOD, 6 ESTEY to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3281802,
+          "lng": -71.1080839
+        },
+        {
+          "lat": 42.3281802,
+          "lng": -71.1080839
+        }
+      ]
+    },
+    {
+      "title": "SHEPHARD AVE, HUNTINGTON AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3332457,
+          "lng": -71.1090476
+        },
+        {
+          "lat": 42.3332457,
+          "lng": -71.1090476
+        }
+      ]
+    },
+    {
+      "title": "WAIT ST, HUNTINGTON AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3334629,
+          "lng": -71.10621300000001
+        },
+        {
+          "lat": 42.3334629,
+          "lng": -71.10621300000001
+        }
+      ]
+    },
+    {
+      "title": "CALUMET ST, TREMONT ST to PARKER HILL AVE",
+      "coords": [
+        {
+          "lat": 42.33406060000001,
+          "lng": -71.1048529
+        },
+        {
+          "lat": 42.3282844,
+          "lng": -71.1003264
+        }
+      ]
+    },
+    {
+      "title": "LAWN ST, HEATH ST to HEATH ST",
+      "coords": [
+        {
+          "lat": 42.3261295,
+          "lng": -71.1040524
+        },
+        {
+          "lat": 42.3261295,
+          "lng": -71.1040524
+        }
+      ]
+    },
+    {
+      "title": "TORPIE ST, TREMONT ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3334426,
+          "lng": -71.1026744
+        },
+        {
+          "lat": 42.3334426,
+          "lng": -71.1026744
+        }
+      ]
+    },
+    {
+      "title": "SO WHITNEY ST, TREMONT ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3331993,
+          "lng": -71.1019797
+        },
+        {
+          "lat": 42.3331993,
+          "lng": -71.1019797
+        }
+      ]
+    },
+    {
+      "title": "DELLE AVE, PARKER ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3306919,
+          "lng": -71.097655
+        },
+        {
+          "lat": 42.3306919,
+          "lng": -71.097655
+        }
+      ]
+    },
+    {
+      "title": "HUNTINGTON AVE SS, ST ALPHONSUS ST to SO HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3333165,
+          "lng": -71.1011142
+        },
+        {
+          "lat": 42.329418,
+          "lng": -71.1108436
+        }
+      ]
+    },
+    {
+      "title": "DARLING ST, HILLSIDE to CALUMET ST",
+      "coords": [
+        {
+          "lat": 42.3311967,
+          "lng": -71.1058803
+        },
+        {
+          "lat": 42.33240869999999,
+          "lng": -71.1056231
+        }
+      ]
+    },
+    {
+      "title": "PEQUOT ST, CALUMET to WAIT ST",
+      "coords": [
+        {
+          "lat": 42.33240869999999,
+          "lng": -71.1056231
+        },
+        {
+          "lat": 42.3325637,
+          "lng": -71.1063164
+        }
+      ]
+    },
+    {
+      "title": "ELDORA ST, SUNSET ST to HILLSIDE",
+      "coords": [
+        {
+          "lat": 42.3315045,
+          "lng": -71.1085251
+        },
+        {
+          "lat": 42.3315429,
+          "lng": -71.10720409999999
+        }
+      ]
+    },
+    {
+      "title": "ESTEY ST, FISHER ST to LAWN ST",
+      "coords": [
+        {
+          "lat": 42.328459,
+          "lng": -71.1073287
+        },
+        {
+          "lat": 42.32773,
+          "lng": -71.107903
+        }
+      ]
+    },
+    {
+      "title": "ST ALPHONSUS ST, TREMONT ST to CALUMET ST",
+      "coords": [
+        {
+          "lat": 42.332972,
+          "lng": -71.10133970000001
+        },
+        {
+          "lat": 42.3311337,
+          "lng": -71.1026967
+        }
+      ]
+    },
+    {
+      "title": "HAYDEN, HEATH ST to FISHER AVE",
+      "coords": [
+        {
+          "lat": 42.3260904,
+          "lng": -71.1044948
+        },
+        {
+          "lat": 42.3279108,
+          "lng": -71.1044392
+        }
+      ]
+    },
+    {
+      "title": "HILLSIDE ST, PARKER HILL AVE to PARKER ST",
+      "coords": [
+        {
+          "lat": 42.3321646,
+          "lng": -71.1095809
+        },
+        {
+          "lat": 42.3291505,
+          "lng": -71.0989434
+        }
+      ]
+    },
+    {
+      "title": "OSWALD ST, CALUMET to HILLSIDE",
+      "coords": [
+        {
+          "lat": 42.3316556,
+          "lng": -71.1038978
+        },
+        {
+          "lat": 42.33083,
+          "lng": -71.1043742
+        }
+      ]
+    },
+    {
+      "title": "COLBURN ST, HUNTINGTON AVE to SO HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3325095,
+          "lng": -71.11118739999999
+        },
+        {
+          "lat": 42.3307876,
+          "lng": -71.1115849
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST, CALUMET to PARKER",
+      "coords": [
+        {
+          "lat": 42.33406060000001,
+          "lng": -71.1048529
+        },
+        {
+          "lat": 42.3317836,
+          "lng": -71.0971856
+        }
+      ]
+    },
+    {
+      "title": "MISSION ST, HUNTINGTON AVE to STOCKWELL ST",
+      "coords": [
+        {
+          "lat": 42.3332632,
+          "lng": -71.10707
+        },
+        {
+          "lat": 42.3321421,
+          "lng": -71.1072701
+        }
+      ]
+    },
+    {
+      "title": "FRAWLEY ST, HUNTINGTON AVE to HILLSIDE",
+      "coords": [
+        {
+          "lat": 42.3332684,
+          "lng": -71.107905
+        },
+        {
+          "lat": 42.3317522,
+          "lng": -71.10802819999999
+        }
+      ]
+    },
+    {
+      "title": "IROQUOIS ST, CALUMET to SACHEM ST",
+      "coords": [
+        {
+          "lat": 42.3297445,
+          "lng": -71.10272730000001
+        },
+        {
+          "lat": 42.3308841,
+          "lng": -71.1069224
+        }
+      ]
+    },
+    {
+      "title": "STOCKWELL ST, FRAWLEY ST to WAIT ST",
+      "coords": [
+        {
+          "lat": 42.3323899,
+          "lng": -71.10796979999999
+        },
+        {
+          "lat": 42.3319471,
+          "lng": -71.1065093
+        }
+      ]
+    },
+    {
+      "title": "CHEROKEE ST, PONTIAC ST to HILLSIDE",
+      "coords": [
+        {
+          "lat": 42.33097009999999,
+          "lng": -71.10173809999999
+        },
+        {
+          "lat": 42.3298526,
+          "lng": -71.1005019
+        }
+      ]
+    },
+    {
+      "title": "PONTIAC ST, TREMONT ST to HILLSIDE",
+      "coords": [
+        {
+          "lat": 42.3326737,
+          "lng": -71.100574
+        },
+        {
+          "lat": 42.3303449,
+          "lng": -71.102299
+        }
+      ]
+    },
+    {
+      "title": "SUNSET ST, HILLSIDE to PARKER HILL AVE",
+      "coords": [
+        {
+          "lat": 42.3318486,
+          "lng": -71.1083651
+        },
+        {
+          "lat": 42.3307084,
+          "lng": -71.10889949999999
+        }
+      ]
+    },
+    {
+      "title": "SEWALL ST, TREMONT ST to DELLE AVE",
+      "coords": [
+        {
+          "lat": 42.33190279999999,
+          "lng": -71.0978882
+        },
+        {
+          "lat": 42.3309641,
+          "lng": -71.0983524
+        }
+      ]
+    },
+    {
+      "title": "SMITH ST, WIGGLESWORTH ST to WORTHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3338605,
+          "lng": -71.0992693
+        },
+        {
+          "lat": 42.3347357,
+          "lng": -71.1018627
+        }
+      ]
+    },
+    {
+      "title": "WIGGLESWORTH ST, TREMONT ST to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3336766,
+          "lng": -71.10332850000002
+        },
+        {
+          "lat": 42.3349257,
+          "lng": -71.1026476
+        }
+      ]
+    },
+    {
+      "title": "LONGWOOD AVE, HUNTINGTON AVE to ST ALPHONSUS ST",
+      "coords": [
+        {
+          "lat": 42.3359381,
+          "lng": -71.100352
+        },
+        {
+          "lat": 42.3356014,
+          "lng": -71.0995439
+        }
+      ]
+    },
+    {
+      "title": "WORTHINGTON ST, TREMONT ST to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3334426,
+          "lng": -71.1026744
+        },
+        {
+          "lat": 42.3352844,
+          "lng": -71.1015979
+        }
+      ]
+    },
+    {
+      "title": "SACHEM ST, CALUMET to PARKER HILL AVE",
+      "coords": [
+        {
+          "lat": 42.3320258,
+          "lng": -71.1047552
+        },
+        {
+          "lat": 42.3305868,
+          "lng": -71.10845139999999
+        }
+      ]
+    },
+    {
+      "title": "CARMEL ST, TREMONT ST to DELLE AVE",
+      "coords": [
+        {
+          "lat": 42.3324782,
+          "lng": -71.1000346
+        },
+        {
+          "lat": 42.3317519,
+          "lng": -71.1004554
+        }
+      ]
+    },
+    {
+      "title": "FISHER AVE, PARKER HILL AVE to PARKER ST",
+      "coords": [
+        {
+          "lat": 42.33060709999999,
+          "lng": -71.1085378
+        },
+        {
+          "lat": 42.32708760000001,
+          "lng": -71.0996545
+        }
+      ]
+    },
+    {
+      "title": "PARKER HILL AVE, HUNTINGTON AVE to PARKER ST",
+      "coords": [
+        {
+          "lat": 42.3331907,
+          "lng": -71.1095766
+        },
+        {
+          "lat": 42.32799480000001,
+          "lng": -71.09936189999999
+        }
+      ]
+    },
+    {
+      "title": "BURNEY ST, TREMONT ST to DELLE AVE",
+      "coords": [
+        {
+          "lat": 42.3322708,
+          "lng": -71.0993065
+        },
+        {
+          "lat": 42.3314922,
+          "lng": -71.0997776
+        }
+      ]
+    },
+    {
+      "title": "HARLESTON ST, CALUMET to PARKER HILL AVE",
+      "coords": [
+        {
+          "lat": 42.3295808,
+          "lng": -71.1020068
+        },
+        {
+          "lat": 42.3288589,
+          "lng": -71.102312
+        }
+      ]
+    },
+    {
+      "title": "HUNTINGTON AVE NS, SO HUNTINGTON AVE to LONGWOOD AVE",
+      "coords": [
+        {
+          "lat": 42.329418,
+          "lng": -71.1108436
+        },
+        {
+          "lat": 42.3384957,
+          "lng": -71.0938271
+        }
+      ]
+    }
+  ]
+}

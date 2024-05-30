@@ -1,0 +1,122 @@
+{
+  "name": "B2",
+  "route": [
+    {
+      "title": "MARLBOROUGH ST **, BERKELEY ST (WS) to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3520133,
+          "lng": -71.0818371
+        },
+        {
+          "lat": 42.3520133,
+          "lng": -71.0818371
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (OUT), BERKELEY ST (WS) to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (IN), BERKELEY ST (WS) to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    },
+    {
+      "title": "NEWBURY ST, BERKELEY ST (WS) to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.35205819999999,
+          "lng": -71.0734575
+        },
+        {
+          "lat": 42.351469,
+          "lng": -71.07559599999999
+        }
+      ]
+    },
+    {
+      "title": "CLARENDON ST (ES), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3468819,
+          "lng": -71.0902222
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST (NS), BERKELEY ST (WS) to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    },
+    {
+      "title": "BERKELEY ST  , BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3512376,
+          "lng": -71.07306799999999
+        },
+        {
+          "lat": 42.3548068,
+          "lng": -71.0747999
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST (SS), BERKELEY ST (WS) to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    },
+    {
+      "title": "BERKELEY ST (WS), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    }
+  ]
+}

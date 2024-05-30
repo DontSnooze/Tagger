@@ -1,0 +1,161 @@
+{
+  "name": "B10",
+  "route": [
+    {
+      "title": "MASS AVE (ES), HUNTINGTON AVE to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3414982,
+          "lng": -71.08342
+        },
+        {
+          "lat": 42.3414982,
+          "lng": -71.08342
+        }
+      ]
+    },
+    {
+      "title": "GREENWICH ST, COLUMBUS AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        },
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        }
+      ]
+    },
+    {
+      "title": "ALBERMARLE, ST BOTOLPH ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3430405,
+          "lng": -71.0830508
+        },
+        {
+          "lat": 42.3430405,
+          "lng": -71.0830508
+        }
+      ]
+    },
+    {
+      "title": "BLACKWOOD, ST BOTOLPH ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3430405,
+          "lng": -71.0830508
+        },
+        {
+          "lat": 42.3430405,
+          "lng": -71.0830508
+        }
+      ]
+    },
+    {
+      "title": "DURHAM, ST BOTOLPH ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3430405,
+          "lng": -71.0830508
+        },
+        {
+          "lat": 42.3430405,
+          "lng": -71.0830508
+        }
+      ]
+    },
+    {
+      "title": "CUMBERLAND ST, HUNTINGTON AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.34428339999999,
+          "lng": -71.0829699
+        },
+        {
+          "lat": 42.34428339999999,
+          "lng": -71.0829699
+        }
+      ]
+    },
+    {
+      "title": "WEST RUTLAND, COLUMBUS AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3426871,
+          "lng": -71.07917309999999
+        },
+        {
+          "lat": 42.3426871,
+          "lng": -71.07917309999999
+        }
+      ]
+    },
+    {
+      "title": "WELLINGTON ST, COLUMBUS AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3411198,
+          "lng": -71.081115
+        },
+        {
+          "lat": 42.3411198,
+          "lng": -71.081115
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS AVE (NS), MASS AVE to NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        },
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        }
+      ]
+    },
+    {
+      "title": "HUNTINGTON AVE, NEWTON ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3453347,
+          "lng": -71.0816759
+        },
+        {
+          "lat": 42.3428473,
+          "lng": -71.08501129999999
+        }
+      ]
+    },
+    {
+      "title": "NEWTON ST (WS), HUNTINGTON AVE to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3390328,
+          "lng": -71.0914021
+        },
+        {
+          "lat": 42.3429519,
+          "lng": -71.0781449
+        }
+      ]
+    },
+    {
+      "title": "ST BOTOLPH ST, MASS AVE to NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3422192,
+          "lng": -71.0840411
+        },
+        {
+          "lat": 42.34480629999999,
+          "lng": -71.0809172
+        }
+      ]
+    }
+  ]
+}

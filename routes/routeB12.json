@@ -1,0 +1,148 @@
+{
+  "name": "B12",
+  "route": [
+    {
+      "title": "CLARENDON ST (WS), COLUMBUS AVE to BOYLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    },
+    {
+      "title": "EXETER ST, BOYLSTON ST to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.349507,
+          "lng": -71.0794992
+        },
+        {
+          "lat": 42.347869,
+          "lng": -71.0787132
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST (SS), CLARENDON ST to EXETER ST",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3506094,
+          "lng": -71.080035
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS AVE (NS), CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        },
+        {
+          "lat": 42.3485196,
+          "lng": -71.0765708
+        }
+      ]
+    },
+    {
+      "title": "HUNTINGTON AVE, DARTMOUTH ST to EXETER ST",
+      "coords": [
+        {
+          "lat": 42.3492706,
+          "lng": -71.0769302
+        },
+        {
+          "lat": 42.347869,
+          "lng": -71.0787132
+        }
+      ]
+    },
+    {
+      "title": "BLAGDEN ST, DARTMOUTH ST to EXETER ST",
+      "coords": [
+        {
+          "lat": 42.3489386,
+          "lng": -71.0781895
+        },
+        {
+          "lat": 42.3486992,
+          "lng": -71.07910749999999
+        }
+      ]
+    },
+    {
+      "title": "STUART ST, CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3489346,
+          "lng": -71.0743578
+        },
+        {
+          "lat": 42.3483033,
+          "lng": -71.0763848
+        }
+      ]
+    },
+    {
+      "title": "NEW STUART ST, HUNTINGTON AVE to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3479407,
+          "lng": -71.0780286
+        },
+        {
+          "lat": 42.3483033,
+          "lng": -71.0763848
+        }
+      ]
+    },
+    {
+      "title": "DARTMOUTH ST, BOYLSTON ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3500926,
+          "lng": -71.0773371
+        },
+        {
+          "lat": 42.3458766,
+          "lng": -71.0752538
+        }
+      ]
+    },
+    {
+      "title": "ST JAMES AVE, CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.3498492,
+          "lng": -71.0748
+        },
+        {
+          "lat": 42.3492706,
+          "lng": -71.0769302
+        }
+      ]
+    },
+    {
+      "title": "TRINITY PLACE, STUART ST to ST JAMES AVE",
+      "coords": [
+        {
+          "lat": 42.3485838,
+          "lng": -71.07538749999999
+        },
+        {
+          "lat": 42.34957139999999,
+          "lng": -71.07585759999999
+        }
+      ]
+    }
+  ]
+}

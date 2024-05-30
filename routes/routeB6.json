@@ -1,0 +1,109 @@
+{
+  "name": "B6",
+  "route": [
+    {
+      "title": "BOYLSTON ST, FAIRFIELD ST to GLOUCESTER ST",
+      "coords": [
+        {
+          "lat": 42.3488891,
+          "lng": -71.08178869999999
+        },
+        {
+          "lat": 42.3483614,
+          "lng": -71.0837413
+        }
+      ]
+    },
+    {
+      "title": "FAIRFIELD ST (WS), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3230308,
+          "lng": -71.1686304
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (IN), FAIRFIELD ST to GLOUCESTER ST",
+      "coords": [
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        },
+        {
+          "lat": 42.3503257,
+          "lng": -71.0847101
+        }
+      ]
+    },
+    {
+      "title": "GLOUCESTER ST (ES), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3468819,
+          "lng": -71.0902222
+        },
+        {
+          "lat": 42.3503257,
+          "lng": -71.0847101
+        }
+      ]
+    },
+    {
+      "title": "MARLBOROUGH ST, FAIRFIELD ST to GLOUCESTER ST",
+      "coords": [
+        {
+          "lat": 42.3516577,
+          "lng": -71.0831525
+        },
+        {
+          "lat": 42.3511402,
+          "lng": -71.085105
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (OUT), FAIRFIELD ST to GLOUCESTER ST",
+      "coords": [
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        },
+        {
+          "lat": 42.3503257,
+          "lng": -71.0847101
+        }
+      ]
+    },
+    {
+      "title": "NEWBURY ST, FAIRFIELD ST to GLOUCESTER ST",
+      "coords": [
+        {
+          "lat": 42.3496915,
+          "lng": -71.08218889999999
+        },
+        {
+          "lat": 42.3491671,
+          "lng": -71.084138
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, FAIRFIELD ST to GLOUCESTER ST",
+      "coords": [
+        {
+          "lat": 42.3524435,
+          "lng": -71.08354829999999
+        },
+        {
+          "lat": 42.3519192,
+          "lng": -71.0854911
+        }
+      ]
+    }
+  ]
+}

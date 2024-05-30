@@ -1,0 +1,187 @@
+{
+  "name": "B14",
+  "route": [
+    {
+      "title": "BOYLSTON ST (SS), CHARLES ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3525917,
+          "lng": -71.0646778
+        },
+        {
+          "lat": 42.3301327,
+          "lng": -71.1258976
+        }
+      ]
+    },
+    {
+      "title": "ELIOT ST, COLUMBUS AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3514311,
+          "lng": -71.068361
+        },
+        {
+          "lat": 42.3514311,
+          "lng": -71.068361
+        }
+      ]
+    },
+    {
+      "title": "ARLINGTON ST  , BOYLSTON ST to PROVIDENCE ST",
+      "coords": [
+        {
+          "lat": 42.35195400000001,
+          "lng": -71.0707209
+        },
+        {
+          "lat": 42.3514034,
+          "lng": -71.0704526
+        }
+      ]
+    },
+    {
+      "title": "BERKELEY ST, BOYLSTON ST to PROVIDENCE ST",
+      "coords": [
+        {
+          "lat": 42.3512376,
+          "lng": -71.07306799999999
+        },
+        {
+          "lat": 42.3507679,
+          "lng": -71.0728204
+        }
+      ]
+    },
+    {
+      "title": "ARLINGTON ST (ES), PROVIDENCE ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3510638,
+          "lng": -71.0717181
+        },
+        {
+          "lat": 42.3516522,
+          "lng": -71.0705653
+        }
+      ]
+    },
+    {
+      "title": "BROADWAY, STUART ST to ELIOT ST",
+      "coords": [
+        {
+          "lat": 42.3500269,
+          "lng": -71.0703664
+        },
+        {
+          "lat": 42.3117411,
+          "lng": -71.1175703
+        }
+      ]
+    },
+    {
+      "title": "PROVIDENCE ST, ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3514034,
+          "lng": -71.0704526
+        },
+        {
+          "lat": 42.3507679,
+          "lng": -71.0728204
+        }
+      ]
+    },
+    {
+      "title": "CHARLES ST  , BOYLSTON ST to GARDEN WALK **",
+      "coords": [
+        {
+          "lat": 42.3528234,
+          "lng": -71.0675807
+        },
+        {
+          "lat": 42.3003975,
+          "lng": -71.0624575
+        }
+      ]
+    },
+    {
+      "title": "CHURCH ST, STUART ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3505059,
+          "lng": -71.0686541
+        },
+        {
+          "lat": 42.3510362,
+          "lng": -71.0688285
+        }
+      ]
+    },
+    {
+      "title": "STUART ST (NS), CHARLES ST to ARLINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3500269,
+          "lng": -71.0703664
+        },
+        {
+          "lat": 42.3500269,
+          "lng": -71.0703664
+        }
+      ]
+    },
+    {
+      "title": "HADASSAH WAY, BOYLSTON ST to PARK PLAZA",
+      "coords": [
+        {
+          "lat": 42.3522026,
+          "lng": -71.069172
+        },
+        {
+          "lat": 42.3516005,
+          "lng": -71.068945
+        }
+      ]
+    },
+    {
+      "title": "PARK PLAZA, CHARLES ST SO to ARLINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3518259,
+          "lng": -71.0672357
+        },
+        {
+          "lat": 42.35107379999999,
+          "lng": -71.07029829999999
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS AVE, CHARLES ST SO to ARLINGTON ST",
+      "coords": [
+        {
+          "lat": 42.350714,
+          "lng": -71.066796
+        },
+        {
+          "lat": 42.3501959,
+          "lng": -71.0699274
+        }
+      ]
+    },
+    {
+      "title": "CHARLES ST SO, BOYLSTON ST to STUART ST",
+      "coords": [
+        {
+          "lat": 42.3525054,
+          "lng": -71.0674873
+        },
+        {
+          "lat": 42.350941,
+          "lng": -71.0668638
+        }
+      ]
+    }
+  ]
+}

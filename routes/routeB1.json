@@ -1,0 +1,109 @@
+{
+  "name": "B1",
+  "route": [
+    {
+      "title": "COMM AVE (OUT), ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        },
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3553923,
+          "lng": -71.0727118
+        },
+        {
+          "lat": 42.3548068,
+          "lng": -71.0747999
+        }
+      ]
+    },
+    {
+      "title": "MARLBOROUGH ST, ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3546543,
+          "lng": -71.0720656
+        },
+        {
+          "lat": 42.3540229,
+          "lng": -71.0744155
+        }
+      ]
+    },
+    {
+      "title": "NEWBURY ST, ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3526813,
+          "lng": -71.0710849
+        },
+        {
+          "lat": 42.35205819999999,
+          "lng": -71.0734575
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (IN), ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        },
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        }
+      ]
+    },
+    {
+      "title": "BERKELEY ST (ES), BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3468819,
+          "lng": -71.0902222
+        },
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST (NS), ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3516522,
+          "lng": -71.0705653
+        },
+        {
+          "lat": 42.3301327,
+          "lng": -71.1258976
+        }
+      ]
+    },
+    {
+      "title": "ARLINGTON ST, BOYLSTON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.35195400000001,
+          "lng": -71.0707209
+        },
+        {
+          "lat": 42.3553923,
+          "lng": -71.0727118
+        }
+      ]
+    }
+  ]
+}

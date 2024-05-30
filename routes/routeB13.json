@@ -1,0 +1,109 @@
+{
+  "name": "B13",
+  "route": [
+    {
+      "title": "COLUMBUS AVE (NS), ARLINGTON ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        },
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        }
+      ]
+    },
+    {
+      "title": "CLARENDON ST (ES), COLUMBUS AVE to BOYLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3468819,
+          "lng": -71.0902222
+        }
+      ]
+    },
+    {
+      "title": "BERKELEY ST (WS), COLUMBUS AVE to BOYLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        },
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST (SS), BERKELEY ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3301327,
+          "lng": -71.1258976
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    },
+    {
+      "title": "ST JAMES AVE, ARLINGTON ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.35107379999999,
+          "lng": -71.07029829999999
+        },
+        {
+          "lat": 42.3498492,
+          "lng": -71.0748
+        }
+      ]
+    },
+    {
+      "title": "STUART ST, ARLINGTON ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3501267,
+          "lng": -71.0698893
+        },
+        {
+          "lat": 42.3489346,
+          "lng": -71.0743578
+        }
+      ]
+    },
+    {
+      "title": "ARLINGTON ST (WS), COLUMBUS AVE to PROVIDENCE ST",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        },
+        {
+          "lat": 42.3510638,
+          "lng": -71.0717181
+        }
+      ]
+    },
+    {
+      "title": "BERKELEY ST (ES), COLUMBUS AVE to PROVIDENCE ST",
+      "coords": [
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        },
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        }
+      ]
+    }
+  ]
+}

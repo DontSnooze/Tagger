@@ -1,0 +1,564 @@
+{
+  "name": "D5",
+  "route": [
+    {
+      "title": "COLUMBUS AVE, MASS AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3405881,
+          "lng": -71.08180949999999
+        },
+        {
+          "lat": 42.3350081,
+          "lng": -71.08856639999999
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST, MASS AVE to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.339276,
+          "lng": -71.0802703
+        },
+        {
+          "lat": 42.3350081,
+          "lng": -71.08856639999999
+        }
+      ]
+    },
+    {
+      "title": "HARRISON AVE, MASS AVE to MELNEA CASS BLVD",
+      "coords": [
+        {
+          "lat": 42.3350078,
+          "lng": -71.07506400000001
+        },
+        {
+          "lat": 42.3320189,
+          "lng": -71.0794098
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST, MASS AVE to MELNEA CASS BLVD",
+      "coords": [
+        {
+          "lat": 42.3364645,
+          "lng": -71.0770129
+        },
+        {
+          "lat": 42.3329463,
+          "lng": -71.0809886
+        }
+      ]
+    },
+    {
+      "title": "SHAWMUT AVE, MASS AVE to MELNEA CASS BLVD",
+      "coords": [
+        {
+          "lat": 42.3373814,
+          "lng": -71.0779822
+        },
+        {
+          "lat": 42.333741,
+          "lng": -71.0825809
+        }
+      ]
+    },
+    {
+      "title": "MASS AVE, T STATION to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3414982,
+          "lng": -71.08342
+        },
+        {
+          "lat": 42.3405881,
+          "lng": -71.08180949999999
+        }
+      ]
+    },
+    {
+      "title": "RUGGLES ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3345519,
+          "lng": -71.0895203
+        },
+        {
+          "lat": 42.3310574,
+          "lng": -71.0827276
+        }
+      ]
+    },
+    {
+      "title": "WHITTIER ST, CABOT ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.33299969999999,
+          "lng": -71.087841
+        },
+        {
+          "lat": 42.3345519,
+          "lng": -71.0895203
+        }
+      ]
+    },
+    {
+      "title": "WEAVER WAY, ACADEMY RD to ACADEMY TWO HOMES LINE",
+      "coords": [
+        {
+          "lat": 42.32062519999999,
+          "lng": -71.09681499999999
+        },
+        {
+          "lat": 42.3213086,
+          "lng": -71.09631
+        }
+      ]
+    },
+    {
+      "title": "ACADEMY CT, ACADEMY RD to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3206166,
+          "lng": -71.09787850000001
+        },
+        {
+          "lat": 42.3206166,
+          "lng": -71.09787850000001
+        }
+      ]
+    },
+    {
+      "title": "BENTON ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3371217,
+          "lng": -71.0843263
+        },
+        {
+          "lat": 42.3380146,
+          "lng": -71.08517359999999
+        }
+      ]
+    },
+    {
+      "title": "ACADEMY ROAD, TREMONT ST to WEAVER WAY",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.32062519999999,
+          "lng": -71.09681499999999
+        }
+      ]
+    },
+    {
+      "title": "E LENOX ST, HARRISON AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3335957,
+          "lng": -71.0770218
+        },
+        {
+          "lat": 42.3378989,
+          "lng": -71.0829495
+        }
+      ]
+    },
+    {
+      "title": "HAMMOND ST, SHAWMUT AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.334418,
+          "lng": -71.0819446
+        },
+        {
+          "lat": 42.3373484,
+          "lng": -71.0839543
+        }
+      ]
+    },
+    {
+      "title": "DAVENPORT ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3374234,
+          "lng": -71.0838229
+        },
+        {
+          "lat": 42.3383369,
+          "lng": -71.0846782
+        }
+      ]
+    },
+    {
+      "title": "BURKE ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3368438,
+          "lng": -71.0848279
+        },
+        {
+          "lat": 42.3377067,
+          "lng": -71.0856658
+        }
+      ]
+    },
+    {
+      "title": "ROXBURY ST, ELMWOOD ST to CENTRE ST",
+      "coords": [
+        {
+          "lat": 42.3309545,
+          "lng": -71.0940886
+        },
+        {
+          "lat": 42.3300474,
+          "lng": -71.09147899999999
+        }
+      ]
+    },
+    {
+      "title": "NEW HEATH ST, CENTRE ST to HEATH ST",
+      "coords": [
+        {
+          "lat": 42.3262036,
+          "lng": -71.09653449999999
+        },
+        {
+          "lat": 42.3262845,
+          "lng": -71.0985693
+        }
+      ]
+    },
+    {
+      "title": "NORTHAMPTON ST, ALBANY ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3328277,
+          "lng": -71.0743292
+        },
+        {
+          "lat": 42.3328277,
+          "lng": -71.0743292
+        }
+      ]
+    },
+    {
+      "title": "POMPEII ST, MASS AVE to ALLERTON ST",
+      "coords": [
+        {
+          "lat": 42.3300718,
+          "lng": -71.0696263
+        },
+        {
+          "lat": 42.3291842,
+          "lng": -71.0711224
+        }
+      ]
+    },
+    {
+      "title": "ELIOT ST, CENTRE ST to ROXBURY ST",
+      "coords": [
+        {
+          "lat": 42.3096971,
+          "lng": -71.1155143
+        },
+        {
+          "lat": 42.3300474,
+          "lng": -71.09147899999999
+        }
+      ]
+    },
+    {
+      "title": "CAMDEN ST, ALBANY ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3383401,
+          "lng": -71.0818672
+        },
+        {
+          "lat": 42.3393171,
+          "lng": -71.08331369999999
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS AVE, TREMONT ST to DIMMOCK ST",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.08856639999999
+        },
+        {
+          "lat": 42.3195531,
+          "lng": -71.09829479999999
+        }
+      ]
+    },
+    {
+      "title": "NEWCOMB ST, HARRISON AVE to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3332473,
+          "lng": -71.0775534
+        },
+        {
+          "lat": 42.3346267,
+          "lng": -71.0793182
+        }
+      ]
+    },
+    {
+      "title": "ST CYPRIAN PLACE, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3360005,
+          "lng": -71.0864053
+        },
+        {
+          "lat": 42.3367729,
+          "lng": -71.0871595
+        }
+      ]
+    },
+    {
+      "title": "ACADEMY TER, ACADEMY RD to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3206261,
+          "lng": -71.0973217
+        },
+        {
+          "lat": 42.3206261,
+          "lng": -71.0973217
+        }
+      ]
+    },
+    {
+      "title": "ALLERTON ST, GERALD ST to MAGAZINE ST",
+      "coords": [
+        {
+          "lat": 42.3299173,
+          "lng": -71.07228719999999
+        },
+        {
+          "lat": 42.32755179999999,
+          "lng": -71.0691586
+        }
+      ]
+    },
+    {
+      "title": "WEAVER CT, WEAVER WAY to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3212935,
+          "lng": -71.0968197
+        },
+        {
+          "lat": 42.3212935,
+          "lng": -71.0968197
+        }
+      ]
+    },
+    {
+      "title": "ANITA TERRACE, GARDNER ST to PRIVATE PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3303257,
+          "lng": -71.0945802
+        },
+        {
+          "lat": 42.3301992,
+          "lng": -71.0950092
+        }
+      ]
+    },
+    {
+      "title": "SLAYTON WAY, RITCHIE ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3223651,
+          "lng": -71.0978775
+        },
+        {
+          "lat": 42.3223651,
+          "lng": -71.0978775
+        }
+      ]
+    },
+    {
+      "title": "ELMWOOD ST, MALCOMB X BLVD to ROXBURY ST",
+      "coords": [
+        {
+          "lat": 42.3313417,
+          "lng": -71.09378699999999
+        },
+        {
+          "lat": 42.3309545,
+          "lng": -71.0940886
+        }
+      ]
+    },
+    {
+      "title": "MALCOMB X BLVD, TREMONT ST to SHAWMUT AVE",
+      "coords": [
+        {
+          "lat": 42.3314162,
+          "lng": -71.0943995
+        },
+        {
+          "lat": 42.3294383,
+          "lng": -71.0859964
+        }
+      ]
+    },
+    {
+      "title": "RITCHIE ST, TREMONT ST to MARCELLA ST",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.3220644,
+          "lng": -71.0953281
+        }
+      ]
+    },
+    {
+      "title": "CABOT ST, RUGGLES ST to WHITTIER ST",
+      "coords": [
+        {
+          "lat": 42.3338555,
+          "lng": -71.0870182
+        },
+        {
+          "lat": 42.33299969999999,
+          "lng": -71.087841
+        }
+      ]
+    },
+    {
+      "title": "DOUGLAS PARK HP ONLY, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3388272,
+          "lng": -71.08356669999999
+        },
+        {
+          "lat": 42.3388272,
+          "lng": -71.08356669999999
+        }
+      ]
+    },
+    {
+      "title": "WESTMINSTER ST, HAMMOND AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.2269652,
+          "lng": -70.8003461
+        },
+        {
+          "lat": 42.2269652,
+          "lng": -70.8003461
+        }
+      ]
+    },
+    {
+      "title": "THORNDIKE ST, HARRISON AVE to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3328275,
+          "lng": -71.0781944
+        },
+        {
+          "lat": 42.3341814,
+          "lng": -71.0799346
+        }
+      ]
+    },
+    {
+      "title": "REED ST, E LENOX ST to NEWCOMB ST",
+      "coords": [
+        {
+          "lat": 42.3340752,
+          "lng": -71.0775675
+        },
+        {
+          "lat": 42.3337162,
+          "lng": -71.0780917
+        }
+      ]
+    },
+    {
+      "title": "RUSFIELD ST, MASS AVE to ALLERTON ST",
+      "coords": [
+        {
+          "lat": 42.3290898,
+          "lng": -71.0687982
+        },
+        {
+          "lat": 42.3284837,
+          "lng": -71.0701026
+        }
+      ]
+    },
+    {
+      "title": "COVENTRY ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3365538,
+          "lng": -71.08536699999999
+        },
+        {
+          "lat": 42.3373756,
+          "lng": -71.08618229999999
+        }
+      ]
+    },
+    {
+      "title": "CUNARD ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3362686,
+          "lng": -71.0859218
+        },
+        {
+          "lat": 42.33705080000001,
+          "lng": -71.0867
+        }
+      ]
+    },
+    {
+      "title": "WARNER ST, HAMMOND AVE to MELNEA CASS BLVD",
+      "coords": [
+        {
+          "lat": 42.2951951,
+          "lng": -71.0800286
+        },
+        {
+          "lat": 42.3328264,
+          "lng": -71.0807731
+        }
+      ]
+    },
+    {
+      "title": "LENOX ST, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3350525,
+          "lng": -71.0788031
+        },
+        {
+          "lat": 42.3378989,
+          "lng": -71.0829495
+        }
+      ]
+    }
+  ]
+}

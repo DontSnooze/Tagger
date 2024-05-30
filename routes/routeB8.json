@@ -1,0 +1,109 @@
+{
+  "name": "B8",
+  "route": [
+    {
+      "title": "NEWBURY ST, MASS AVE to CHARLESGATE",
+      "coords": [
+        {
+          "lat": 42.3481248,
+          "lng": -71.0881732
+        },
+        {
+          "lat": 42.34822459999999,
+          "lng": -71.09157549999999
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (OUT), CHARLESGATE to HEREFORD ST",
+      "coords": [
+        {
+          "lat": 42.3487414,
+          "lng": -71.0834598
+        },
+        {
+          "lat": 42.3499074,
+          "lng": -71.0862162
+        }
+      ]
+    },
+    {
+      "title": "MARLBOROUGH ST, CHARLESGATE to HEREFORD ST",
+      "coords": [
+        {
+          "lat": 42.3497301,
+          "lng": -71.0916136
+        },
+        {
+          "lat": 42.3507283,
+          "lng": -71.0866284
+        }
+      ]
+    },
+    {
+      "title": "HEREFORD ST (WS), COMM AVE to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3499074,
+          "lng": -71.0862162
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, CHARLESGATE to HEREFORD ST",
+      "coords": [
+        {
+          "lat": 42.3502545,
+          "lng": -71.0916355
+        },
+        {
+          "lat": 42.3515157,
+          "lng": -71.086996
+        }
+      ]
+    },
+    {
+      "title": "MASS AVE (WS), BOYLSTON ST to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3414982,
+          "lng": -71.08342
+        },
+        {
+          "lat": 42.3414982,
+          "lng": -71.08342
+        }
+      ]
+    },
+    {
+      "title": "MASS AVE  , COMM AVE to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3492621,
+          "lng": -71.088697
+        },
+        {
+          "lat": 42.3508399,
+          "lng": -71.08947839999999
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST (NS), MASS AVE to IPSWICH ST",
+      "coords": [
+        {
+          "lat": 42.3529238,
+          "lng": -71.064504
+        },
+        {
+          "lat": 42.3475172,
+          "lng": -71.0921301
+        }
+      ]
+    }
+  ]
+}

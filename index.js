@@ -1,5 +1,6 @@
 var map;
 var geocoder;
+var shouldShowAreaHighlight = false
 
 const initialPosition = { lat: 42.3507752636, lng: -71.0748797005 };
 const taggerMapId = "67a3f6d5605a8cd"
@@ -24,6 +25,7 @@ async function initMap() {
     var colorIndex = 0
 
     let locationsFromQuery = getLocationsFromQuery()
+    getSettingsFromQuery()
 
     for (let i in includedLocations) {
         let locations = includedLocations[i]
@@ -98,6 +100,16 @@ function getLocationsFromQuery() {
     return locations
 }
 
+function getSettingsFromQuery() {
+    const searchParams = new URLSearchParams(window.location.search)
+    const shadeAreaSettingsCheckbox = document.getElementById("settings-showAreaShade")
+    var showAreaString = searchParams.get("showArea")
+    if (showAreaString == "true") {
+        shouldShowAreaHighlight = true
+        shadeAreaSettingsCheckbox.setAttribute("checked", "true")
+    }
+}
+
 function addMarkers(locations, color, infoWindow) {
     var colorIndex = 0
     var areaMarkers = []
@@ -117,7 +129,9 @@ function addMarkers(locations, color, infoWindow) {
             colorIndex = 0
         }
     }
-    drawArea(areaMarkers, color, locations.name, infoWindow)
+    if (shouldShowAreaHighlight) {
+        drawArea(areaMarkers, color, locations.name, infoWindow)
+    }
 }
 
 async function addMarker(location, title, color, infoWindow) {
