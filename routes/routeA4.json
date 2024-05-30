@@ -1,0 +1,161 @@
+{
+  "name": "A4",
+  "route": [
+    {
+      "title": "FRIEND ST, CAUSEWAY ST to MARKET ST",
+      "coords": [
+        {
+          "lat": 42.3651317,
+          "lng": -71.06176169999999
+        },
+        {
+          "lat": 42.3642174,
+          "lng": -71.0607479
+        }
+      ]
+    },
+    {
+      "title": "NASHUA ST, LOMASNEY WAY to MDC",
+      "coords": [
+        {
+          "lat": 42.3655001,
+          "lng": -71.0646536
+        },
+        {
+          "lat": 42.3665659,
+          "lng": -71.0670198
+        }
+      ]
+    },
+    {
+      "title": "MARKET ST, FRIEND ST to CANAL ST",
+      "coords": [
+        {
+          "lat": 42.3642174,
+          "lng": -71.0607479
+        },
+        {
+          "lat": 42.3644759,
+          "lng": -71.0600298
+        }
+      ]
+    },
+    {
+      "title": "CAUSEWAY ST, X-WAY RAMP to STANIFORD ST",
+      "coords": [
+        {
+          "lat": 42.3657946,
+          "lng": -71.0607206
+        },
+        {
+          "lat": 42.3642238,
+          "lng": -71.063453
+        }
+      ]
+    },
+    {
+      "title": "AMY COURT, MARTHA ROAD to PRIVATE PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3660086,
+          "lng": -71.06613469999999
+        },
+        {
+          "lat": 42.3658289,
+          "lng": -71.0661902
+        }
+      ]
+    },
+    {
+      "title": "LANCASTER ST, CAUSEWAY ST to MERRIMAC ST",
+      "coords": [
+        {
+          "lat": 42.3645024,
+          "lng": -71.0629015
+        },
+        {
+          "lat": 42.3635473,
+          "lng": -71.0620369
+        }
+      ]
+    },
+    {
+      "title": "LOMASNEY WAY, STANIFORD ST to MARTHA ROAD",
+      "coords": [
+        {
+          "lat": 42.3642238,
+          "lng": -71.063453
+        },
+        {
+          "lat": 42.3655001,
+          "lng": -71.0646536
+        }
+      ]
+    },
+    {
+      "title": "PORTLAND ST, CAUSEWAY ST to MERRIMAC ST",
+      "coords": [
+        {
+          "lat": 42.364815,
+          "lng": -71.0623301
+        },
+        {
+          "lat": 42.3633266,
+          "lng": -71.06076159999999
+        }
+      ]
+    },
+    {
+      "title": "MARTHA ROAD, LEVERETT CIRC to LOMASNEY WAY",
+      "coords": [
+        {
+          "lat": 42.3664116,
+          "lng": -71.0676112
+        },
+        {
+          "lat": 42.3655001,
+          "lng": -71.0646536
+        }
+      ]
+    },
+    {
+      "title": "MERRIMAC (NS), STANIFORD ST to MARKET ST",
+      "coords": [
+        {
+          "lat": 42.3638472,
+          "lng": -71.0616666
+        },
+        {
+          "lat": 42.3538906,
+          "lng": -71.1505131
+        }
+      ]
+    },
+    {
+      "title": "CANAL ST, CAUSEWAY ST to MARKET ST",
+      "coords": [
+        {
+          "lat": 42.3654553,
+          "lng": -71.0611383
+        },
+        {
+          "lat": 42.3644759,
+          "lng": -71.0600298
+        }
+      ]
+    },
+    {
+      "title": "VALENTI WAY, MERRIMAC to CANAL ST",
+      "coords": [
+        {
+          "lat": 42.3634579,
+          "lng": -71.0613162
+        },
+        {
+          "lat": 42.3643522,
+          "lng": -71.0598897
+        }
+      ]
+    }
+  ]
+}

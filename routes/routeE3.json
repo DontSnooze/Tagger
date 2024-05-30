@@ -1,0 +1,187 @@
+{
+  "name": "E3",
+  "route": [
+    {
+      "title": "MARGINAL ROAD, TREMONT ST to HUDSON ST",
+      "coords": [
+        {
+          "lat": 42.3479984,
+          "lng": -71.0680094
+        },
+        {
+          "lat": 42.3470699,
+          "lng": -71.0629775
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST (ES), STUART ST to OAK ST - WEST SIDE",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.3484221,
+          "lng": -71.0641969
+        }
+      ]
+    },
+    {
+      "title": "HUDSON ST, KNEELAND ST to MARGINAL ROAD",
+      "coords": [
+        {
+          "lat": 42.3502958,
+          "lng": -71.06026109999999
+        },
+        {
+          "lat": 42.3470699,
+          "lng": -71.0629775
+        }
+      ]
+    },
+    {
+      "title": "SHAWMUT AVE (ES), OAK ST WEST to MARGINAL ROAD",
+      "coords": [
+        {
+          "lat": 42.3484221,
+          "lng": -71.0641969
+        },
+        {
+          "lat": 42.3389581,
+          "lng": -71.0756059
+        }
+      ]
+    },
+    {
+      "title": "HARRISON AVE, KNEELAND ST to MARGINAL ROAD",
+      "coords": [
+        {
+          "lat": 42.3506396,
+          "lng": -71.0615198
+        },
+        {
+          "lat": 42.3470699,
+          "lng": -71.0629775
+        }
+      ]
+    },
+    {
+      "title": "TYLER ST, KNEELAND ST to OAK ST  ",
+      "coords": [
+        {
+          "lat": 42.350469,
+          "lng": -71.0608663
+        },
+        {
+          "lat": 42.3480303,
+          "lng": -71.06184929999999
+        }
+      ]
+    },
+    {
+      "title": "KNEELAND ST (SS), WASHINGTON ST to HUDSON ST",
+      "coords": [
+        {
+          "lat": 42.2858098,
+          "lng": -71.1284956
+        },
+        {
+          "lat": 42.3501859,
+          "lng": -71.0598846
+        }
+      ]
+    },
+    {
+      "title": "OAK ST  , WASHINGTON ST to TYLER ST",
+      "coords": [
+        {
+          "lat": 42.34842769999999,
+          "lng": -71.0640782
+        },
+        {
+          "lat": 42.3480303,
+          "lng": -71.06184929999999
+        }
+      ]
+    },
+    {
+      "title": "TAI TUNG, TYLER ST to HUDSON ST",
+      "coords": [
+        {
+          "lat": 42.3482624,
+          "lng": -71.0617532
+        },
+        {
+          "lat": 42.348123,
+          "lng": -71.06112159999999
+        }
+      ]
+    },
+    {
+      "title": "JOHNNY COURT, HARRISON AVE to MAPLE ST",
+      "coords": [
+        {
+          "lat": 42.3478109,
+          "lng": -71.0626308
+        },
+        {
+          "lat": 42.3479745,
+          "lng": -71.0633663
+        }
+      ]
+    },
+    {
+      "title": "PINE ST, HARRISON AVE to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.34724689999999,
+          "lng": -71.0628773
+        },
+        {
+          "lat": 42.3478067,
+          "lng": -71.06425229999999
+        }
+      ]
+    },
+    {
+      "title": "HAVARD ST, HARRISON AVE to HUDSON ST",
+      "coords": [
+        {
+          "lat": 42.3497492,
+          "lng": -71.0618703
+        },
+        {
+          "lat": 42.3492563,
+          "lng": -71.0606698
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST, KNEELAND ST to MARGINAL ROAD",
+      "coords": [
+        {
+          "lat": 42.3508767,
+          "lng": -71.06302219999999
+        },
+        {
+          "lat": 42.3473187,
+          "lng": -71.06439019999999
+        }
+      ]
+    },
+    {
+      "title": "OAK ST - WEST SIDE, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3484221,
+          "lng": -71.0641969
+        },
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "A16",
+  "route": [
+    {
+      "title": "HIGH, SUMMER to CONGRESS",
+      "coords": [
+        {
+          "lat": 42.276161,
+          "lng": -71.1622041
+        },
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        }
+      ]
+    },
+    {
+      "title": "SUMMER (NS), ARCH to HIGH",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "DEVONSHIRE, SUMMER  to FRANKLIN",
+      "coords": [
+        {
+          "lat": 42.3537016,
+          "lng": -71.05802419999999
+        },
+        {
+          "lat": 42.3554346,
+          "lng": -71.0573155
+        }
+      ]
+    },
+    {
+      "title": "FEDERAL, HIGH to FRANKLIN",
+      "coords": [
+        {
+          "lat": 42.3554962,
+          "lng": -71.0565191
+        },
+        {
+          "lat": 42.3554962,
+          "lng": -71.0565191
+        }
+      ]
+    },
+    {
+      "title": "CONGRESS (WS), FRANKLIN to HIGH",
+      "coords": [
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        },
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        }
+      ]
+    },
+    {
+      "title": "FRANKLIN (SS), ARCH to CONGRESS",
+      "coords": [
+        {
+          "lat": 42.3564526,
+          "lng": -71.05172139999999
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "ARCH (ES), SUMMER to FRANKLIN",
+      "coords": [
+        {
+          "lat": 42.3623645,
+          "lng": -71.0527977
+        },
+        {
+          "lat": 42.3609918,
+          "lng": -71.0992597
+        }
+      ]
+    },
+    {
+      "title": "OTIS, WINTHROP SQ to SUMMER",
+      "coords": [
+        {
+          "lat": 42.3550007,
+          "lng": -71.0577476
+        },
+        {
+          "lat": 42.3541079,
+          "lng": -71.05862739999999
+        }
+      ]
+    },
+    {
+      "title": "MATTHEW ST, FEDERAL to CONGRESS",
+      "coords": [
+        {
+          "lat": 42.3545244,
+          "lng": -71.05634479999999
+        },
+        {
+          "lat": 42.3548951,
+          "lng": -71.05491900000001
+        }
+      ]
+    }
+  ]
+}

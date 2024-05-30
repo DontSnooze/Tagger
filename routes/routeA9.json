@@ -1,0 +1,122 @@
+{
+  "name": "A9",
+  "route": [
+    {
+      "title": "MOUNT VERNON ST, CHARLES ST (ES) to JOY **",
+      "coords": [
+        {
+          "lat": 42.3577769,
+          "lng": -71.0702888
+        },
+        {
+          "lat": 42.3583987,
+          "lng": -71.0644474
+        }
+      ]
+    },
+    {
+      "title": "CHARLES ST (ES), MOUNT VERNON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.35790009999999,
+          "lng": -71.0705505
+        },
+        {
+          "lat": 42.3662886,
+          "lng": -71.0681788
+        }
+      ]
+    },
+    {
+      "title": "JOY **, MOUNT VERNON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3583987,
+          "lng": -71.0644474
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    },
+    {
+      "title": "BRANCH, CHARLES ST (ES) to SPRUCE",
+      "coords": [
+        {
+          "lat": 42.3662886,
+          "lng": -71.0681788
+        },
+        {
+          "lat": 42.3569723,
+          "lng": -71.0677676
+        }
+      ]
+    },
+    {
+      "title": "WILLOW, MOUNT VERNON ST to CHESTNUT",
+      "coords": [
+        {
+          "lat": 42.3583987,
+          "lng": -71.0644474
+        },
+        {
+          "lat": 42.3573701,
+          "lng": -71.0682564
+        }
+      ]
+    },
+    {
+      "title": "CHESTNUT, CHARLES ST (ES) to WALNUT",
+      "coords": [
+        {
+          "lat": 42.3662886,
+          "lng": -71.0681788
+        },
+        {
+          "lat": 42.35784,
+          "lng": -71.0661077
+        }
+      ]
+    },
+    {
+      "title": "WALNUT, MOUNT VERNON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3583987,
+          "lng": -71.0644474
+        },
+        {
+          "lat": 42.3569919,
+          "lng": -71.0657952
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, CHARLES ST (ES) to JOY **",
+      "coords": [
+        {
+          "lat": 42.356218,
+          "lng": -71.06942769999999
+        },
+        {
+          "lat": 42.3571502,
+          "lng": -71.06508629999999
+        }
+      ]
+    },
+    {
+      "title": "SPRUCE, CHESTNUT to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3574391,
+          "lng": -71.0679396
+        },
+        {
+          "lat": 42.3565726,
+          "lng": -71.0676185
+        }
+      ]
+    }
+  ]
+}

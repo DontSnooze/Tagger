@@ -1,0 +1,187 @@
+{
+  "name": "A1",
+  "route": [
+    {
+      "title": "NORTH , CROSS  to FLEET ",
+      "coords": [
+        {
+          "lat": 42.3530727,
+          "lng": -71.0574378
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "ATLANTIC , FLEET  to CROSS ",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3609535,
+          "lng": -71.05282919999999
+        }
+      ]
+    },
+    {
+      "title": "HANOVER (ES), CROSS  to FLEET ",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "FLEET (SS), HANOVER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3639617,
+          "lng": -71.0542931
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "FULTON , CROSS  to LEWIS ",
+      "coords": [
+        {
+          "lat": 42.361551,
+          "lng": -71.0539134
+        },
+        {
+          "lat": 42.2510193,
+          "lng": -71.1239107
+        }
+      ]
+    },
+    {
+      "title": "CROSS , ATLANTIC  to HANOVER ",
+      "coords": [
+        {
+          "lat": 42.3609535,
+          "lng": -71.05282919999999
+        },
+        {
+          "lat": 42.3625486,
+          "lng": -71.0557948
+        }
+      ]
+    },
+    {
+      "title": "COMMERCIAL , ATLANTIC  to CROSS ",
+      "coords": [
+        {
+          "lat": 42.3637241,
+          "lng": -71.0510724
+        },
+        {
+          "lat": 42.36122599999999,
+          "lng": -71.0532941
+        }
+      ]
+    },
+    {
+      "title": "SUN COURT, MOON  to NORTH ",
+      "coords": [
+        {
+          "lat": 42.3639405,
+          "lng": -71.0530994
+        },
+        {
+          "lat": 42.3636986,
+          "lng": -71.0529007
+        }
+      ]
+    },
+    {
+      "title": "PRINCE , HANOVER  to NORTH SQ",
+      "coords": [
+        {
+          "lat": 42.3639617,
+          "lng": -71.0542931
+        },
+        {
+          "lat": 42.3640638,
+          "lng": -71.0534316
+        }
+      ]
+    },
+    {
+      "title": "NORTH SQ, NORTH  to PRINCE ",
+      "coords": [
+        {
+          "lat": 42.3638943,
+          "lng": -71.0531821
+        },
+        {
+          "lat": 42.3640638,
+          "lng": -71.0534316
+        }
+      ]
+    },
+    {
+      "title": "GARDEN CT, NORTH SQ to FLEET ",
+      "coords": [
+        {
+          "lat": 42.3640638,
+          "lng": -71.0534316
+        },
+        {
+          "lat": 42.3646732,
+          "lng": -71.0531694
+        }
+      ]
+    },
+    {
+      "title": "RICHMOND , HANOVER  to ATLANTIC ",
+      "coords": [
+        {
+          "lat": 42.3639617,
+          "lng": -71.0542931
+        },
+        {
+          "lat": 42.3616757,
+          "lng": -71.0519473
+        }
+      ]
+    },
+    {
+      "title": "LEWIS , MOON  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3640652,
+          "lng": -71.0529006
+        },
+        {
+          "lat": 42.3630533,
+          "lng": -71.051688
+        }
+      ]
+    },
+    {
+      "title": "MOON , NORTH SQ to FLEET ",
+      "coords": [
+        {
+          "lat": 42.3638943,
+          "lng": -71.0531821
+        },
+        {
+          "lat": 42.3643921,
+          "lng": -71.0523633
+        }
+      ]
+    }
+  ]
+}

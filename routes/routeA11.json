@@ -1,0 +1,226 @@
+{
+  "name": "A11",
+  "route": [
+    {
+      "title": "CHATHAM ROW, STATE ST to CHATHAM",
+      "coords": [
+        {
+          "lat": 42.3592519,
+          "lng": -71.0542921
+        },
+        {
+          "lat": 42.35966680000001,
+          "lng": -71.0544108
+        }
+      ]
+    },
+    {
+      "title": "CONGRESS ST, SUDBURY to STATE ST",
+      "coords": [
+        {
+          "lat": 42.3624715,
+          "lng": -71.05836579999999
+        },
+        {
+          "lat": 42.3588726,
+          "lng": -71.0568983
+        }
+      ]
+    },
+    {
+      "title": "COMMERCIAL ST, STATE ST to CHATHAM",
+      "coords": [
+        {
+          "lat": 42.3593368,
+          "lng": -71.0535584
+        },
+        {
+          "lat": 42.3597322,
+          "lng": -71.0536314
+        }
+      ]
+    },
+    {
+      "title": "STATE ST (NS), CONGRESS ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.358818,
+          "lng": -71.057611
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "CLINTON, SURFACE ROAD to NORTH",
+      "coords": [
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        },
+        {
+          "lat": 42.3607065,
+          "lng": -71.0547387
+        }
+      ]
+    },
+    {
+      "title": "CHATHAM ST, COMMERCIAL ST to MERCHANTS ROW",
+      "coords": [
+        {
+          "lat": 42.3597322,
+          "lng": -71.0536314
+        },
+        {
+          "lat": 42.3595389,
+          "lng": -71.0557024
+        }
+      ]
+    },
+    {
+      "title": "SUDBURY, CONGRESS ST to BLACKSTONE",
+      "coords": [
+        {
+          "lat": 42.3624715,
+          "lng": -71.05836579999999
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "SURFACE ROAD, STATE ST to NORTH",
+      "coords": [
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "MARSHALL, HANOVER ST to UNION",
+      "coords": [
+        {
+          "lat": 42.3639617,
+          "lng": -71.0542931
+        },
+        {
+          "lat": 42.3610278,
+          "lng": -71.0569524
+        }
+      ]
+    },
+    {
+      "title": "HANOVER ST, CONGRESS ST to BLACKSTONE",
+      "coords": [
+        {
+          "lat": 42.3615442,
+          "lng": -71.05759789999999
+        },
+        {
+          "lat": 42.3620139,
+          "lng": -71.0567301
+        }
+      ]
+    },
+    {
+      "title": "SALT LANE, UNION to CREEK SQUARE",
+      "coords": [
+        {
+          "lat": 42.3611584,
+          "lng": -71.056431
+        },
+        {
+          "lat": 42.3611584,
+          "lng": -71.056431
+        }
+      ]
+    },
+    {
+      "title": "NORTH, CONGRESS ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "CREEK SQUARE, MARSHALL to BLACKSTONE",
+      "coords": [
+        {
+          "lat": 42.3615911,
+          "lng": -71.05692619999999
+        },
+        {
+          "lat": 42.3613037,
+          "lng": -71.055852
+        }
+      ]
+    },
+    {
+      "title": "BLACKSTONE ST, NEW SUDBURY to NORTH",
+      "coords": [
+        {
+          "lat": 42.3615338,
+          "lng": -71.056178
+        },
+        {
+          "lat": 42.3615338,
+          "lng": -71.056178
+        }
+      ]
+    },
+    {
+      "title": "MERCHANTS ROW, STATE ST to CHATHAM",
+      "coords": [
+        {
+          "lat": 42.3590618,
+          "lng": -71.0554477
+        },
+        {
+          "lat": 42.3595389,
+          "lng": -71.0557024
+        }
+      ]
+    },
+    {
+      "title": "UNION, NORTH ST to HANOVER ST",
+      "coords": [
+        {
+          "lat": 42.3603787,
+          "lng": -71.0567063
+        },
+        {
+          "lat": 42.3617013,
+          "lng": -71.05730199999999
+        }
+      ]
+    },
+    {
+      "title": "SCOTT ALLEY, CREEK SQUARE to PRIVATE PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3611584,
+          "lng": -71.056431
+        },
+        {
+          "lat": 42.3610557,
+          "lng": -71.0568568
+        }
+      ]
+    }
+  ]
+}

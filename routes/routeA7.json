@@ -1,0 +1,187 @@
+{
+  "name": "A7",
+  "route": [
+    {
+      "title": "CAMBRIDGE ST, WEST CEDAR to BOWDOIN",
+      "coords": [
+        {
+          "lat": 42.36102,
+          "lng": -71.0700533
+        },
+        {
+          "lat": 42.361179,
+          "lng": -71.06287669999999
+        }
+      ]
+    },
+    {
+      "title": "ANDERSON, CAMBRIDGE ST to MYRTLE",
+      "coords": [
+        {
+          "lat": 42.3621199,
+          "lng": -71.06614669999999
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "CHARLES ST (ES), CAMBRIDGE ST to REVERE ",
+      "coords": [
+        {
+          "lat": 42.3611203,
+          "lng": -71.0655398
+        },
+        {
+          "lat": 42.3662886,
+          "lng": -71.0681788
+        }
+      ]
+    },
+    {
+      "title": "GARDEN, CAMBRIDGE ST to MYRTLE",
+      "coords": [
+        {
+          "lat": 42.3611203,
+          "lng": -71.0655398
+        },
+        {
+          "lat": 42.3593079,
+          "lng": -71.0668368
+        }
+      ]
+    },
+    {
+      "title": "MYRTLE, REVERE to HANCOCK ST",
+      "coords": [
+        {
+          "lat": 42.35950829999999,
+          "lng": -71.06973479999999
+        },
+        {
+          "lat": 42.3593513,
+          "lng": -71.06438299999999
+        }
+      ]
+    },
+    {
+      "title": "PHILLIPS, WEST CEDAR to IRVING",
+      "coords": [
+        {
+          "lat": 42.3590281,
+          "lng": -71.0700012
+        },
+        {
+          "lat": 42.3603319,
+          "lng": -71.06637510000002
+        }
+      ]
+    },
+    {
+      "title": "REVERE ST (WS), CHARLES ST (ES) to IRVING",
+      "coords": [
+        {
+          "lat": 42.3662886,
+          "lng": -71.0681788
+        },
+        {
+          "lat": 42.3595189,
+          "lng": -71.0693706
+        }
+      ]
+    },
+    {
+      "title": "IRVING ST, CAMBRIDGE ST to MYRTLE",
+      "coords": [
+        {
+          "lat": 42.3612428,
+          "lng": -71.0663228
+        },
+        {
+          "lat": 42.35932649999999,
+          "lng": -71.0663591
+        }
+      ]
+    },
+    {
+      "title": "JOY ST, CAMBRIDGE ST to MYRTLE",
+      "coords": [
+        {
+          "lat": 42.3611271,
+          "lng": -71.0651543
+        },
+        {
+          "lat": 42.3593492,
+          "lng": -71.0650354
+        }
+      ]
+    },
+    {
+      "title": "WEST CEDAR, CAMBRIDGE ST to REVERE ",
+      "coords": [
+        {
+          "lat": 42.36102,
+          "lng": -71.0700533
+        },
+        {
+          "lat": 42.359497,
+          "lng": -71.0701401
+        }
+      ]
+    },
+    {
+      "title": "BOWDOIN, DERNE to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3594839,
+          "lng": -71.06283239999999
+        },
+        {
+          "lat": 42.361179,
+          "lng": -71.06287669999999
+        }
+      ]
+    },
+    {
+      "title": "GROVE ST, CAMBRIDGE ST to MYRTLE",
+      "coords": [
+        {
+          "lat": 42.3610814,
+          "lng": -71.068741
+        },
+        {
+          "lat": 42.3592883,
+          "lng": -71.068606
+        }
+      ]
+    },
+    {
+      "title": "HANCOCK ST, CAMBRIDGE ST to DERNE",
+      "coords": [
+        {
+          "lat": 42.3611532,
+          "lng": -71.0645613
+        },
+        {
+          "lat": 42.3593834,
+          "lng": -71.064385
+        }
+      ]
+    },
+    {
+      "title": "SOUTH RUSSELL, CAMBRIDGE ST to MYRTLE",
+      "coords": [
+        {
+          "lat": 42.3611253,
+          "lng": -71.06599419999999
+        },
+        {
+          "lat": 42.3593328,
+          "lng": -71.0659639
+        }
+      ]
+    }
+  ]
+}

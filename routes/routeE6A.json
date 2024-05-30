@@ -1,0 +1,239 @@
+{
+  "name": "E6A",
+  "route": [
+    {
+      "title": "WEST DEDHAM ST, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3407293,
+          "lng": -71.0707892
+        },
+        {
+          "lat": 42.3428113,
+          "lng": -71.0737802
+        }
+      ]
+    },
+    {
+      "title": "SHAWMUT AVE, WEST DEDHAM ST to HERALD ST",
+      "coords": [
+        {
+          "lat": 42.3413012,
+          "lng": -71.07205739999999
+        },
+        {
+          "lat": 42.3468958,
+          "lng": -71.06585419999999
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST (ES), WEST DEDHAM ST to HERALD ST",
+      "coords": [
+        {
+          "lat": 42.3415809,
+          "lng": -71.0723885
+        },
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        }
+      ]
+    },
+    {
+      "title": "UNION PARK, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3413311,
+          "lng": -71.06964909999999
+        },
+        {
+          "lat": 42.3436022,
+          "lng": -71.0723281
+        }
+      ]
+    },
+    {
+      "title": "UPTON ST, TREMONT ST to SHAWMUT AVE",
+      "coords": [
+        {
+          "lat": 42.34316829999999,
+          "lng": -71.0731402
+        },
+        {
+          "lat": 42.3416988,
+          "lng": -71.07140190000001
+        }
+      ]
+    },
+    {
+      "title": "WALTHAM ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.34401219999999,
+          "lng": -71.0715651
+        },
+        {
+          "lat": 42.34166949999999,
+          "lng": -71.06876849999999
+        }
+      ]
+    },
+    {
+      "title": "MILFORD, SHAWMUT AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3434072,
+          "lng": -71.068438
+        },
+        {
+          "lat": 42.3445444,
+          "lng": -71.07058119999999
+        }
+      ]
+    },
+    {
+      "title": "BRADFORD ST, WALTHAM ST to SHAWMUT AVE",
+      "coords": [
+        {
+          "lat": 42.3422581,
+          "lng": -71.0695015
+        },
+        {
+          "lat": 42.3434072,
+          "lng": -71.068438
+        }
+      ]
+    },
+    {
+      "title": "BOND ST, MILFORD ST to HANSON ST",
+      "coords": [
+        {
+          "lat": 42.3437296,
+          "lng": -71.0690552
+        },
+        {
+          "lat": 42.3432821,
+          "lng": -71.0695684
+        }
+      ]
+    },
+    {
+      "title": "DWIGHT ST, SHAWMUT AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3438568,
+          "lng": -71.0677061
+        },
+        {
+          "lat": 42.3448735,
+          "lng": -71.0701955
+        }
+      ]
+    },
+    {
+      "title": "IVANHOE ST, WEST DEDHAM ST to UPTON ST",
+      "coords": [
+        {
+          "lat": 42.3424299,
+          "lng": -71.0734009
+        },
+        {
+          "lat": 42.342847,
+          "lng": -71.0727828
+        }
+      ]
+    },
+    {
+      "title": "RINGGOLD ST, WALTHAM ST to HANSON ST",
+      "coords": [
+        {
+          "lat": 42.342906,
+          "lng": -71.0702751
+        },
+        {
+          "lat": 42.3433368,
+          "lng": -71.0696507
+        }
+      ]
+    },
+    {
+      "title": "HANSON ST, SHAWMUT AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3430003,
+          "lng": -71.06916869999999
+        },
+        {
+          "lat": 42.3442759,
+          "lng": -71.0710699
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST (ES), HERALD ST to WEST DEDHAM ST",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.3415809,
+          "lng": -71.0723885
+        }
+      ]
+    },
+    {
+      "title": "HERALD ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.34749240000001,
+          "lng": -71.0686183
+        },
+        {
+          "lat": 42.3466111,
+          "lng": -71.0646032
+        }
+      ]
+    },
+    {
+      "title": "TAYLOR ST, DWIGHT ST to MILFORD ST",
+      "coords": [
+        {
+          "lat": 42.3441216,
+          "lng": -71.0683009
+        },
+        {
+          "lat": 42.3436002,
+          "lng": -71.0687715
+        }
+      ]
+    },
+    {
+      "title": "EAST BERKELEY ST, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3439662,
+          "lng": -71.0659957
+        },
+        {
+          "lat": 42.3452651,
+          "lng": -71.0698391
+        }
+      ]
+    },
+    {
+      "title": "PUBLIC ALLEY 705, SHAWMUT AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3441127,
+          "lng": -71.06727289999999
+        },
+        {
+          "lat": 42.3450667,
+          "lng": -71.0700082
+        }
+      ]
+    }
+  ]
+}

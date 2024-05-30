@@ -195,7 +195,6 @@ function drawArea(coordinates, color, title, infoWindow) {
         const { target } = domEvent;
         infoWindow.close();
         infoWindow.setContent(title);
-        // bug fix needed: location is off.. window opens at last position it was opened (doesnt show up if wasnt open b4)
         infoWindow.setPosition(bounds.getCenter())
         infoWindow.open(areaShade.map);
     });

@@ -1,0 +1,135 @@
+{
+  "name": "A7A",
+  "route": [
+    {
+      "title": "CHESTNUT, CHARLES ST (WS) to MUGAR WAY",
+      "coords": [
+        {
+          "lat": 42.3662886,
+          "lng": -71.0681788
+        },
+        {
+          "lat": 42.35637140000001,
+          "lng": -71.0729296
+        }
+      ]
+    },
+    {
+      "title": "BRIMMER, PINCKNEY to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3587735,
+          "lng": -71.0717165
+        },
+        {
+          "lat": 42.3557419,
+          "lng": -71.07131249999999
+        }
+      ]
+    },
+    {
+      "title": "LIME, BRIMMER to RIVER",
+      "coords": [
+        {
+          "lat": 42.3570864,
+          "lng": -71.0718645
+        },
+        {
+          "lat": 42.3573782,
+          "lng": -71.0705388
+        }
+      ]
+    },
+    {
+      "title": "RIVER, MOUNT VERNON ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3194676,
+          "lng": -71.0461164
+        },
+        {
+          "lat": 42.3560696,
+          "lng": -71.06993229999999
+        }
+      ]
+    },
+    {
+      "title": "PINCKNEY, CHARLES ST (WS) to MUGAR WAY",
+      "coords": [
+        {
+          "lat": 42.3587858,
+          "lng": -71.0707192
+        },
+        {
+          "lat": 42.3587899,
+          "lng": -71.072312
+        }
+      ]
+    },
+    {
+      "title": "BEAVER PLACE, BEACON ST to BEAVER PLACE",
+      "coords": [
+        {
+          "lat": 42.3555843,
+          "lng": -71.0720546
+        },
+        {
+          "lat": 42.3560812,
+          "lng": -71.07229199999999
+        }
+      ]
+    },
+    {
+      "title": "MOUNT VERNON, CHARLES ST (WS) to MUGAR WAY",
+      "coords": [
+        {
+          "lat": 42.3577769,
+          "lng": -71.0702888
+        },
+        {
+          "lat": 42.3573015,
+          "lng": -71.0726463
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, CHARLES ST (WS) to MUGAR WAY",
+      "coords": [
+        {
+          "lat": 42.356218,
+          "lng": -71.06942769999999
+        },
+        {
+          "lat": 42.3553741,
+          "lng": -71.0727821
+        }
+      ]
+    },
+    {
+      "title": "MOUNT VERNON SQ, MOUNT VERNON ST to PINCKNEY",
+      "coords": [
+        {
+          "lat": 42.3759298,
+          "lng": -71.0587318
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "CHARLES ST (WS), CAMBRIDGE ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3611203,
+          "lng": -71.0655398
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    }
+  ]
+}

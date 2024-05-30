@@ -1,0 +1,109 @@
+{
+  "name": "E5",
+  "route": [
+    {
+      "title": "WEST NEWTON ST, COLUMBUS AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3432108,
+          "lng": -71.0785535
+        },
+        {
+          "lat": 42.3413308,
+          "lng": -71.0765447
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST, WEST NEWTON ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3413308,
+          "lng": -71.0765447
+        },
+        {
+          "lat": 42.339276,
+          "lng": -71.0802703
+        }
+      ]
+    },
+    {
+      "title": "MASS AVE, COLUMBUS AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3405881,
+          "lng": -71.08180949999999
+        },
+        {
+          "lat": 42.339276,
+          "lng": -71.0802703
+        }
+      ]
+    },
+    {
+      "title": "WORCESTER ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3401342,
+          "lng": -71.07884969999999
+        },
+        {
+          "lat": 42.3416177,
+          "lng": -71.0804757
+        }
+      ]
+    },
+    {
+      "title": "RUTLAND SQUARE, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3409295,
+          "lng": -71.0773135
+        },
+        {
+          "lat": 42.3426871,
+          "lng": -71.07917309999999
+        }
+      ]
+    },
+    {
+      "title": "CONCORD SQUARE, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3405202,
+          "lng": -71.0780659
+        },
+        {
+          "lat": 42.34216079999999,
+          "lng": -71.0798135
+        }
+      ]
+    },
+    {
+      "title": "WEST SPRINGFIELD ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.339656,
+          "lng": -71.079551
+        },
+        {
+          "lat": 42.339656,
+          "lng": -71.079551
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS AVE (SS), WEST NEWTON ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3422638,
+          "lng": -71.0774708
+        },
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "name": "A17",
+  "route": [
+    {
+      "title": "EAST INDIA ROW, ATLANTIC AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3578944,
+          "lng": -71.051315
+        },
+        {
+          "lat": 42.3578944,
+          "lng": -71.051315
+        }
+      ]
+    },
+    {
+      "title": "BINFORD ST, A ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3469725,
+          "lng": -71.05110669999999
+        },
+        {
+          "lat": 42.3469725,
+          "lng": -71.05110669999999
+        }
+      ]
+    },
+    {
+      "title": "ATLANTIC AVE, CONGRESS ST to EAST INDIA ROW",
+      "coords": [
+        {
+          "lat": 42.3536687,
+          "lng": -71.0536315
+        },
+        {
+          "lat": 42.3578944,
+          "lng": -71.051315
+        }
+      ]
+    },
+    {
+      "title": "EAST SERVICE, NEW NORTHERN AVE to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3494001,
+          "lng": -71.0401412
+        },
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        }
+      ]
+    },
+    {
+      "title": "SUMMER ST, ATLANTIC AVE to D ST",
+      "coords": [
+        {
+          "lat": 42.3525886,
+          "lng": -71.0554465
+        },
+        {
+          "lat": 42.3463359,
+          "lng": -71.0421475
+        }
+      ]
+    },
+    {
+      "title": "CONGRESS ST, ATLANTIC AVE to B ST",
+      "coords": [
+        {
+          "lat": 42.3536687,
+          "lng": -71.0536315
+        },
+        {
+          "lat": 42.3494079,
+          "lng": -71.0436474
+        }
+      ]
+    },
+    {
+      "title": "FARGO ST, E ST to D ST",
+      "coords": [
+        {
+          "lat": 42.34455,
+          "lng": -71.0414237
+        },
+        {
+          "lat": 42.3455608,
+          "lng": -71.0430346
+        }
+      ]
+    },
+    {
+      "title": "NORTHERN AVE, ATLANTIC AVE to SEAPORT BLVD",
+      "coords": [
+        {
+          "lat": 42.3576194,
+          "lng": -71.0511537
+        },
+        {
+          "lat": 42.3491483,
+          "lng": -71.0395316
+        }
+      ]
+    },
+    {
+      "title": "NEW NORTHERN AVE, SLEEPER ST to SEAPORT BLVD",
+      "coords": [
+        {
+          "lat": 42.3538985,
+          "lng": -71.0478153
+        },
+        {
+          "lat": 42.3491483,
+          "lng": -71.0395316
+        }
+      ]
+    },
+    {
+      "title": "SLEEPER ST, SEAPORT BLVD to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3530627,
+          "lng": -71.0484352
+        },
+        {
+          "lat": 42.35125860000001,
+          "lng": -71.0498595
+        }
+      ]
+    },
+    {
+      "title": "MELCHER ST, SUMMER ST to A ST",
+      "coords": [
+        {
+          "lat": 42.3506106,
+          "lng": -71.0509553
+        },
+        {
+          "lat": 42.3490678,
+          "lng": -71.0494738
+        }
+      ]
+    },
+    {
+      "title": "MEDALLION AVE, BINFORD ST to P.O. PARKING LOT",
+      "coords": [
+        {
+          "lat": 42.346502,
+          "lng": -71.050111
+        },
+        {
+          "lat": 42.3447108,
+          "lng": -71.0515112
+        }
+      ]
+    },
+    {
+      "title": "PIER 4 BLVD, SEAPORT BLVD to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3509957,
+          "lng": -71.043965
+        },
+        {
+          "lat": 42.3492729,
+          "lng": -71.0453817
+        }
+      ]
+    },
+    {
+      "title": "D ST, SUMMER ST to FARGO ST",
+      "coords": [
+        {
+          "lat": 42.3463359,
+          "lng": -71.0421475
+        },
+        {
+          "lat": 42.3455608,
+          "lng": -71.0430346
+        }
+      ]
+    },
+    {
+      "title": "B ST, CONGRESS ST to SEAPORT BLVD",
+      "coords": [
+        {
+          "lat": 42.3494079,
+          "lng": -71.0436474
+        },
+        {
+          "lat": 42.3504652,
+          "lng": -71.0427244
+        }
+      ]
+    },
+    {
+      "title": "A ST, MT WASHINGTON to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3465194,
+          "lng": -71.05147649999999
+        },
+        {
+          "lat": 42.3503576,
+          "lng": -71.04845519999999
+        }
+      ]
+    },
+    {
+      "title": "DORCHESTER AVE, CONGRESS ST to SUMMER ST",
+      "coords": [
+        {
+          "lat": 42.3523691,
+          "lng": -71.05224249999999
+        },
+        {
+          "lat": 42.3514898,
+          "lng": -71.0528599
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "name": "E8",
+  "route": [
+    {
+      "title": "WASHINGTON ST, MASS AVE to EAST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3364645,
+          "lng": -71.0770129
+        },
+        {
+          "lat": 42.3388596,
+          "lng": -71.07360249999999
+        }
+      ]
+    },
+    {
+      "title": "MASS AVE, ALBANY ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3335024,
+          "lng": -71.0734049
+        },
+        {
+          "lat": 42.3364645,
+          "lng": -71.0770129
+        }
+      ]
+    },
+    {
+      "title": "EAST NEWTON ST, WASHINGTON ST to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3388596,
+          "lng": -71.07360249999999
+        },
+        {
+          "lat": 42.3359278,
+          "lng": -71.0700821
+        }
+      ]
+    },
+    {
+      "title": "EAST NEWTON ST, WASHINGTON ST to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3388596,
+          "lng": -71.07360249999999
+        },
+        {
+          "lat": 42.3359278,
+          "lng": -71.0700821
+        }
+      ]
+    },
+    {
+      "title": "EAST SPRINGFIELD ST, WASHINGTON ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.336972,
+          "lng": -71.0763053
+        },
+        {
+          "lat": 42.3354679,
+          "lng": -71.074494
+        }
+      ]
+    },
+    {
+      "title": "FR GILDAY, EAST CONCORD ST to EAST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3371532,
+          "lng": -71.0740249
+        },
+        {
+          "lat": 42.3380736,
+          "lng": -71.0726541
+        }
+      ]
+    },
+    {
+      "title": "EAST CONCORD ST, WASHINGTON ST to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.337936,
+          "lng": -71.0749768
+        },
+        {
+          "lat": 42.3349586,
+          "lng": -71.07145249999999
+        }
+      ]
+    },
+    {
+      "title": "HARRISON AVE, EAST NEWTON ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3374887,
+          "lng": -71.07195759999999
+        },
+        {
+          "lat": 42.3350078,
+          "lng": -71.07506400000001
+        }
+      ]
+    },
+    {
+      "title": "WORCESTER SQUARE, WASHINGTON ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.3374431,
+          "lng": -71.0756485
+        },
+        {
+          "lat": 42.3359782,
+          "lng": -71.0738669
+        }
+      ]
+    },
+    {
+      "title": "ALABANY ST, EAST NEWTON ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3359278,
+          "lng": -71.0700821
+        },
+        {
+          "lat": 42.3335024,
+          "lng": -71.0734049
+        }
+      ]
+    }
+  ]
+}

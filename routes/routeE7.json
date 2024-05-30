@@ -1,0 +1,213 @@
+{
+  "name": "E7",
+  "route": [
+    {
+      "title": "HERALD ST, WASHINGTON ST to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3466111,
+          "lng": -71.0646032
+        },
+        {
+          "lat": 42.3459376,
+          "lng": -71.0612783
+        }
+      ]
+    },
+    {
+      "title": "EAST BERKELEY ST, WASHINGTON ST to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3439662,
+          "lng": -71.0659957
+        },
+        {
+          "lat": 42.3430229,
+          "lng": -71.06255399999999
+        }
+      ]
+    },
+    {
+      "title": "UNION PARK, WASHINGTON ST to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3413311,
+          "lng": -71.06964909999999
+        },
+        {
+          "lat": 42.3395876,
+          "lng": -71.06500989999999
+        }
+      ]
+    },
+    {
+      "title": "WALTHAM ST, WASHINGTON ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.34166949999999,
+          "lng": -71.06876849999999
+        },
+        {
+          "lat": 42.340815,
+          "lng": -71.06778800000001
+        }
+      ]
+    },
+    {
+      "title": "ALBANY ST, HERALD ST to UNION PARK",
+      "coords": [
+        {
+          "lat": 42.3459376,
+          "lng": -71.0612783
+        },
+        {
+          "lat": 42.3395876,
+          "lng": -71.06500989999999
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST, MSG REYNOLDS to HERALD ST",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.3466111,
+          "lng": -71.0646032
+        }
+      ]
+    },
+    {
+      "title": "HARRISON AVE, MSG REYNOLDS to HERALD ST",
+      "coords": [
+        {
+          "lat": 42.3388083,
+          "lng": -71.0703149
+        },
+        {
+          "lat": 42.346307,
+          "lng": -71.0631113
+        }
+      ]
+    },
+    {
+      "title": "THAYER ST, HARRISON AVE to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3427248,
+          "lng": -71.06533950000001
+        },
+        {
+          "lat": 42.3419835,
+          "lng": -71.0630225
+        }
+      ]
+    },
+    {
+      "title": "ROLLINS ST, WASHINGTON ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.3418741,
+          "lng": -71.068296
+        },
+        {
+          "lat": 42.34112220000001,
+          "lng": -71.06739019999999
+        }
+      ]
+    },
+    {
+      "title": "FAY ST, EAST BERKELEY ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.3438046,
+          "lng": -71.0653792
+        },
+        {
+          "lat": 42.3431157,
+          "lng": -71.0648113
+        }
+      ]
+    },
+    {
+      "title": "SAVOY ST, WASHINGTON ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.342125,
+          "lng": -71.067928
+        },
+        {
+          "lat": 42.3416483,
+          "lng": -71.06672150000001
+        }
+      ]
+    },
+    {
+      "title": "PAUL SULLIVAN WAY, HARRISON AVE to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3429496,
+          "lng": -71.0650409
+        },
+        {
+          "lat": 42.3423623,
+          "lng": -71.0628409
+        }
+      ]
+    },
+    {
+      "title": "RANDOLPH ST, HARRISON AVE to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3419156,
+          "lng": -71.0663762
+        },
+        {
+          "lat": 42.340971,
+          "lng": -71.0635078
+        }
+      ]
+    },
+    {
+      "title": "TRAVELER ST, WASHINGTON ST to ALBANY ST",
+      "coords": [
+        {
+          "lat": 42.3449895,
+          "lng": -71.0653505
+        },
+        {
+          "lat": 42.3440362,
+          "lng": -71.0620929
+        }
+      ]
+    },
+    {
+      "title": "WILLIAM MULLINS WAY, WASHINGTON ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.3457225,
+          "lng": -71.0649083
+        },
+        {
+          "lat": 42.34544959999999,
+          "lng": -71.0636325
+        }
+      ]
+    },
+    {
+      "title": "PERRY ST, WASHINGTON ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.3428239,
+          "lng": -71.06704719999999
+        },
+        {
+          "lat": 42.3423294,
+          "lng": -71.065854
+        }
+      ]
+    }
+  ]
+}

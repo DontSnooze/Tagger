@@ -1,0 +1,148 @@
+{
+  "name": "A15",
+  "route": [
+    {
+      "title": "MILK ST (SS), CONGRESS ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3575531,
+          "lng": -71.0545985
+        },
+        {
+          "lat": 42.2858098,
+          "lng": -71.1284956
+        }
+      ]
+    },
+    {
+      "title": "DEVONSHIRE, MILK ST to FRANKLIN ST",
+      "coords": [
+        {
+          "lat": 42.3567595,
+          "lng": -71.05731329999999
+        },
+        {
+          "lat": 42.3554346,
+          "lng": -71.0573155
+        }
+      ]
+    },
+    {
+      "title": "HAWLEY, SUMMER ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3549395,
+          "lng": -71.05975
+        },
+        {
+          "lat": 42.3549395,
+          "lng": -71.05975
+        }
+      ]
+    },
+    {
+      "title": "FRANKLIN ST (NS), ARCH ST to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.35538,
+          "lng": -71.0581262
+        },
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST (ES), MILK ST to SUMMER ST",
+      "coords": [
+        {
+          "lat": 42.3575531,
+          "lng": -71.0545985
+        },
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        }
+      ]
+    },
+    {
+      "title": "CONGRESS ST (WS), FRANKLIN ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        },
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        }
+      ]
+    },
+    {
+      "title": "NEW HAWLEY PLACE, HAWLEY to ARCH ST",
+      "coords": [
+        {
+          "lat": 42.3560392,
+          "lng": -71.05855729999999
+        },
+        {
+          "lat": 42.3559242,
+          "lng": -71.05780299999999
+        }
+      ]
+    },
+    {
+      "title": "ARCH ST, SUMMER ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3544981,
+          "lng": -71.0591457
+        },
+        {
+          "lat": 42.3567506,
+          "lng": -71.0578075
+        }
+      ]
+    },
+    {
+      "title": "SUMMER ST (NS), WASHINGTON ST to ARCH ST",
+      "coords": [
+        {
+          "lat": 42.358818,
+          "lng": -71.057611
+        },
+        {
+          "lat": 42.35538,
+          "lng": -71.0581262
+        }
+      ]
+    },
+    {
+      "title": "FRANKLIN ST   , WASHINGTON ST to ARCH ST",
+      "coords": [
+        {
+          "lat": 42.3563674,
+          "lng": -71.0594644
+        },
+        {
+          "lat": 42.3554119,
+          "lng": -71.0580824
+        }
+      ]
+    },
+    {
+      "title": "FEDERAL ST, MILK ST to FRANKLIN ST",
+      "coords": [
+        {
+          "lat": 42.3567901,
+          "lng": -71.05674479999999
+        },
+        {
+          "lat": 42.3554962,
+          "lng": -71.0565191
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "name": "A17A",
+  "route": [
+    {
+      "title": "NORTHERN AVE, ATLANTIC AVE to SEAPORT BLVD",
+      "coords": [
+        {
+          "lat": 42.3576194,
+          "lng": -71.0511537
+        },
+        {
+          "lat": 42.3491483,
+          "lng": -71.0395316
+        }
+      ]
+    },
+    {
+      "title": "NEW NORTHERN AVE, SLEEPER ST to SEAPORT BLVD",
+      "coords": [
+        {
+          "lat": 42.3538985,
+          "lng": -71.0478153
+        },
+        {
+          "lat": 42.3491483,
+          "lng": -71.0395316
+        }
+      ]
+    },
+    {
+      "title": "EAST INDIA ROW, ATLANTIC AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3578944,
+          "lng": -71.051315
+        },
+        {
+          "lat": 42.3578944,
+          "lng": -71.051315
+        }
+      ]
+    },
+    {
+      "title": "EAST SERVICE, NEW NORTHERN AVE to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3494001,
+          "lng": -71.0401412
+        },
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        }
+      ]
+    },
+    {
+      "title": "SLEEPER ST, SEAPORT BLVD to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3530627,
+          "lng": -71.0484352
+        },
+        {
+          "lat": 42.35125860000001,
+          "lng": -71.0498595
+        }
+      ]
+    },
+    {
+      "title": "PIER 4 BLVD, SEAPORT BLVD to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3509957,
+          "lng": -71.043965
+        },
+        {
+          "lat": 42.3492729,
+          "lng": -71.0453817
+        }
+      ]
+    },
+    {
+      "title": "CONGRESS ST, ATLANTIC AVE to B ST",
+      "coords": [
+        {
+          "lat": 42.3536687,
+          "lng": -71.0536315
+        },
+        {
+          "lat": 42.3494079,
+          "lng": -71.0436474
+        }
+      ]
+    },
+    {
+      "title": "ATLANTIC AVE, CONGRESS ST to EAST INDIA ROW",
+      "coords": [
+        {
+          "lat": 42.3536687,
+          "lng": -71.0536315
+        },
+        {
+          "lat": 42.3578944,
+          "lng": -71.051315
+        }
+      ]
+    },
+    {
+      "title": "B ST, CONGRESS ST to SEAPORT BLVD",
+      "coords": [
+        {
+          "lat": 42.3494079,
+          "lng": -71.0436474
+        },
+        {
+          "lat": 42.3504652,
+          "lng": -71.0427244
+        }
+      ]
+    },
+    {
+      "title": "SEAPORT BLVD, SEAPORT BLVD to SEAPORT BLVD",
+      "coords": [
+        {
+          "lat": 42.3495605,
+          "lng": -71.04076770000002
+        },
+        {
+          "lat": 42.3495605,
+          "lng": -71.04076770000002
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "name": "A6",
+  "route": [
+    {
+      "title": "LYNDE, CAMBRIDGE ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3612733,
+          "lng": -71.0643773
+        },
+        {
+          "lat": 42.3612733,
+          "lng": -71.0643773
+        }
+      ]
+    },
+    {
+      "title": "CAMBRIDGE ST, CHARLES ST to STANIFORD ST",
+      "coords": [
+        {
+          "lat": 42.360796,
+          "lng": -71.0708897
+        },
+        {
+          "lat": 42.3611721,
+          "lng": -71.0637875
+        }
+      ]
+    },
+    {
+      "title": "BLOSSOM COURT, BLOSSOM to BLOSSOM",
+      "coords": [
+        {
+          "lat": 42.36400769999999,
+          "lng": -71.06745819999999
+        },
+        {
+          "lat": 42.36400769999999,
+          "lng": -71.06745819999999
+        }
+      ]
+    },
+    {
+      "title": "STANIFORD ST (WS), CAMBRIDGE ST to CAUSEWAY ST",
+      "coords": [
+        {
+          "lat": 42.3628394,
+          "lng": -71.0638364
+        },
+        {
+          "lat": 42.3628394,
+          "lng": -71.0638364
+        }
+      ]
+    },
+    {
+      "title": "BLOSSOM, CAMBRIDGE ST to CHARLES ST",
+      "coords": [
+        {
+          "lat": 42.3611199,
+          "lng": -71.06696079999999
+        },
+        {
+          "lat": 42.3003975,
+          "lng": -71.0624575
+        }
+      ]
+    },
+    {
+      "title": "NO GROVE, CAMBRIDGE ST to FRUIT ST",
+      "coords": [
+        {
+          "lat": 42.3610814,
+          "lng": -71.068741
+        },
+        {
+          "lat": 42.3623254,
+          "lng": -71.0686479
+        }
+      ]
+    },
+    {
+      "title": "FRUIT ST, NO GROVE to CHARLES ST",
+      "coords": [
+        {
+          "lat": 42.3623254,
+          "lng": -71.0686479
+        },
+        {
+          "lat": 42.3625422,
+          "lng": -71.0706615
+        }
+      ]
+    },
+    {
+      "title": "NO ANDERSON, CAMBRIDGE ST to PARKMAN ST",
+      "coords": [
+        {
+          "lat": 42.3612198,
+          "lng": -71.0678598
+        },
+        {
+          "lat": 42.3621844,
+          "lng": -71.0679211
+        }
+      ]
+    },
+    {
+      "title": "PARKMAN ST, NO GROVE to BLOSSOM",
+      "coords": [
+        {
+          "lat": 42.3622077,
+          "lng": -71.0686363
+        },
+        {
+          "lat": 42.3621876,
+          "lng": -71.0668725
+        }
+      ]
+    },
+    {
+      "title": "CARDINAL O'CONNELL WAY, STANFORD ST to BLOSSOM",
+      "coords": [
+        {
+          "lat": 42.3622188,
+          "lng": -71.0638704
+        },
+        {
+          "lat": 42.3634073,
+          "lng": -71.0670251
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "name": "A18",
+  "route": [
+    {
+      "title": "AVERY, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST (WS), WINTER ST to STUART ST",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST  , BOYLSTON ST to WINTER ST",
+      "coords": [
+        {
+          "lat": 42.3523772,
+          "lng": -71.0645524
+        },
+        {
+          "lat": 42.3562686,
+          "lng": -71.06227539999999
+        }
+      ]
+    },
+    {
+      "title": "TAMWORTH, BOYLSTON ST to LA GRANGE ST",
+      "coords": [
+        {
+          "lat": 42.3523354,
+          "lng": -71.0641361
+        },
+        {
+          "lat": 42.3515868,
+          "lng": -71.0636287
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST (ES), STUART ST to BOYLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.3468819,
+          "lng": -71.0902222
+        }
+      ]
+    },
+    {
+      "title": "MASON ST, WEST ST to AVERY",
+      "coords": [
+        {
+          "lat": 42.3548448,
+          "lng": -71.0626691
+        },
+        {
+          "lat": 42.2477873,
+          "lng": -71.1269846
+        }
+      ]
+    },
+    {
+      "title": "WINTER ST (SS), TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3484915,
+          "lng": -71.0668156
+        },
+        {
+          "lat": 42.2858098,
+          "lng": -71.1284956
+        }
+      ]
+    },
+    {
+      "title": "WEST ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.35515900000001,
+          "lng": -71.06335949999999
+        },
+        {
+          "lat": 42.3543595,
+          "lng": -71.0617037
+        }
+      ]
+    },
+    {
+      "title": "TEMPLE, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3556401,
+          "lng": -71.0629016
+        },
+        {
+          "lat": 42.3547807,
+          "lng": -71.0612433
+        }
+      ]
+    },
+    {
+      "title": "STUART ST (NS), TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.358818,
+          "lng": -71.057611
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3523772,
+          "lng": -71.0645524
+        },
+        {
+          "lat": 42.3523896,
+          "lng": -71.0626032
+        }
+      ]
+    },
+    {
+      "title": "LA GRANGE ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3517191,
+          "lng": -71.06472509999999
+        },
+        {
+          "lat": 42.27281929999999,
+          "lng": -71.1437088
+        }
+      ]
+    }
+  ]
+}

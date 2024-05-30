@@ -1,0 +1,148 @@
+{
+  "name": "A21",
+  "route": [
+    {
+      "title": "BEACH, SURFACE RD to ATLANTIC",
+      "coords": [
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "ATLANTIC, SUMMER to KNEELAND",
+      "coords": [
+        {
+          "lat": 42.3525886,
+          "lng": -71.0554465
+        },
+        {
+          "lat": 42.3495345,
+          "lng": -71.0570384
+        }
+      ]
+    },
+    {
+      "title": "KNEELAND, SURFACE RD to ATLANTIC",
+      "coords": [
+        {
+          "lat": 42.3501482,
+          "lng": -71.0597556
+        },
+        {
+          "lat": 42.3495345,
+          "lng": -71.0570384
+        }
+      ]
+    },
+    {
+      "title": "ESSEX, LINCOLN to ATLANTIC",
+      "coords": [
+        {
+          "lat": 42.3523716,
+          "lng": -71.05799209999999
+        },
+        {
+          "lat": 42.3518603,
+          "lng": -71.0558506
+        }
+      ]
+    },
+    {
+      "title": "SURFACE RD (ES), KNEELAND to SUMMER",
+      "coords": [
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "LINCOLN, SUMMER to KNEELAND",
+      "coords": [
+        {
+          "lat": 42.3534342,
+          "lng": -71.0576208
+        },
+        {
+          "lat": 42.3501859,
+          "lng": -71.0598846
+        }
+      ]
+    },
+    {
+      "title": "UTICA, TUFTS to KNEELAND",
+      "coords": [
+        {
+          "lat": 42.35164779999999,
+          "lng": -71.0578563
+        },
+        {
+          "lat": 42.3498253,
+          "lng": -71.0583536
+        }
+      ]
+    },
+    {
+      "title": "SOUTH , SUMMER to KNEELAND",
+      "coords": [
+        {
+          "lat": 42.2951319,
+          "lng": -71.1224877
+        },
+        {
+          "lat": 42.3496691,
+          "lng": -71.05765869999999
+        }
+      ]
+    },
+    {
+      "title": "EAST, SOUTH  to ATLANTIC",
+      "coords": [
+        {
+          "lat": 42.3516501,
+          "lng": -71.05724219999999
+        },
+        {
+          "lat": 42.3512399,
+          "lng": -71.0561853
+        }
+      ]
+    },
+    {
+      "title": "TUFTS, LINCOLN to SOUTH",
+      "coords": [
+        {
+          "lat": 42.3517176,
+          "lng": -71.05821399999999
+        },
+        {
+          "lat": 42.3515466,
+          "lng": -71.0572589
+        }
+      ]
+    },
+    {
+      "title": "1 FINANCIAL, ATLANTIC to LINCOLN",
+      "coords": [
+        {
+          "lat": 42.3522427,
+          "lng": -71.05637639999999
+        },
+        {
+          "lat": 42.3522427,
+          "lng": -71.05637639999999
+        }
+      ]
+    }
+  ]
+}

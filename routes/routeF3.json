@@ -1,0 +1,330 @@
+{
+  "name": "F3",
+  "route": [
+    {
+      "title": "HARVARD AVE, COMM AVE to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.3502784,
+          "lng": -71.1309528
+        },
+        {
+          "lat": 42.3363499,
+          "lng": -71.1231058
+        }
+      ]
+    },
+    {
+      "title": "ALLSTON ST, WASHINGTON ST to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3431947,
+          "lng": -71.14192229999999
+        },
+        {
+          "lat": 42.3483343,
+          "lng": -71.13779199999999
+        }
+      ]
+    },
+    {
+      "title": "COMM COURT, COMM AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3464096,
+          "lng": -71.1408268
+        },
+        {
+          "lat": 42.3464096,
+          "lng": -71.1408268
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (IB), WASHINGTON ST to FULLER ST",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        }
+      ]
+    },
+    {
+      "title": "WOODSTOCK AVE, KELTON ST to SUMMIT AVE",
+      "coords": [
+        {
+          "lat": 42.3467698,
+          "lng": -71.1366231
+        },
+        {
+          "lat": 42.3446272,
+          "lng": -71.13903069999999
+        }
+      ]
+    },
+    {
+      "title": "BRAINERD ROAD, HARVARD AVE to KELTON ST",
+      "coords": [
+        {
+          "lat": 42.3492075,
+          "lng": -71.1300274
+        },
+        {
+          "lat": 42.346234,
+          "lng": -71.1356107
+        }
+      ]
+    },
+    {
+      "title": "MELVIN ST, COMM AVE to ALLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3394812,
+          "lng": -71.1578146
+        },
+        {
+          "lat": 42.3481426,
+          "lng": -71.137905
+        }
+      ]
+    },
+    {
+      "title": "FENENO TERR, BRAINERD ROAD to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.34811819999999,
+          "lng": -71.13230999999999
+        },
+        {
+          "lat": 42.3478636,
+          "lng": -71.1320895
+        }
+      ]
+    },
+    {
+      "title": "FISKE TERR, BRAINERD ROAD to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.348835,
+          "lng": -71.13081900000002
+        },
+        {
+          "lat": 42.3484647,
+          "lng": -71.1305144
+        }
+      ]
+    },
+    {
+      "title": "BELLVISTA ROAD, ALLSTON ST to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.3466209,
+          "lng": -71.138792
+        },
+        {
+          "lat": 42.3461365,
+          "lng": -71.137299
+        }
+      ]
+    },
+    {
+      "title": "WALBRIDGE ST, COMM AVE to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.3479562,
+          "lng": -71.1359615
+        },
+        {
+          "lat": 42.3471635,
+          "lng": -71.1350493
+        }
+      ]
+    },
+    {
+      "title": "ROYCE ROAD, COMM AVE to BRAINERD ROAD",
+      "coords": [
+        {
+          "lat": 42.3496332,
+          "lng": -71.13199080000001
+        },
+        {
+          "lat": 42.3486725,
+          "lng": -71.1311611
+        }
+      ]
+    },
+    {
+      "title": "JORDAN ROAD, COREY ROAD to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.3450075,
+          "lng": -71.1371538
+        },
+        {
+          "lat": 42.3435857,
+          "lng": -71.1340139
+        }
+      ]
+    },
+    {
+      "title": "GORHAM ST, COMM AVE to BRAINERD ROAD",
+      "coords": [
+        {
+          "lat": 42.3491337,
+          "lng": -71.1330225
+        },
+        {
+          "lat": 42.3481758,
+          "lng": -71.1321865
+        }
+      ]
+    },
+    {
+      "title": "SCOTTFIELD ROAD, COMM AVE to KELTON ST",
+      "coords": [
+        {
+          "lat": 42.3481935,
+          "lng": -71.1364956
+        },
+        {
+          "lat": 42.3470634,
+          "lng": -71.1371855
+        }
+      ]
+    },
+    {
+      "title": "BOULEVARD TERR, COMM AVE to ALLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3474588,
+          "lng": -71.1403811
+        },
+        {
+          "lat": 42.34688389999999,
+          "lng": -71.1386382
+        }
+      ]
+    },
+    {
+      "title": "MANTON TERR, BRAINERD ROAD to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.3484801,
+          "lng": -71.13157559999999
+        },
+        {
+          "lat": 42.3482115,
+          "lng": -71.1313453
+        }
+      ]
+    },
+    {
+      "title": "COREY ROAD, KELTON ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.346234,
+          "lng": -71.1356107
+        },
+        {
+          "lat": 42.342401,
+          "lng": -71.1404247
+        }
+      ]
+    },
+    {
+      "title": "CAROL AVE, COMM AVE to ALLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3452765,
+          "lng": -71.1415492
+        },
+        {
+          "lat": 42.3446223,
+          "lng": -71.14032279999999
+        }
+      ]
+    },
+    {
+      "title": "VINAL ST, ALLSTON ST to WOODSTOCK AVE",
+      "coords": [
+        {
+          "lat": 42.3461253,
+          "lng": -71.13908479999999
+        },
+        {
+          "lat": 42.3456485,
+          "lng": -71.1377998
+        }
+      ]
+    },
+    {
+      "title": "KELTON ST, COMM AVE to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.34861,
+          "lng": -71.14023399999999
+        },
+        {
+          "lat": 42.3471401,
+          "lng": -71.1373379
+        }
+      ]
+    },
+    {
+      "title": "COMM TERR, COMM AVE to ALLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3469248,
+          "lng": -71.1405995
+        },
+        {
+          "lat": 42.346382,
+          "lng": -71.1389363
+        }
+      ]
+    },
+    {
+      "title": "GRIGGS ST, COMM AVE to BRAINERD ROAD",
+      "coords": [
+        {
+          "lat": 42.348628,
+          "lng": -71.1340738
+        },
+        {
+          "lat": 42.3476741,
+          "lng": -71.1332517
+        }
+      ]
+    },
+    {
+      "title": "SUMMIT AVE, COMM AVE to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.3458625,
+          "lng": -71.1412625
+        },
+        {
+          "lat": 42.3423419,
+          "lng": -71.1326182
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST (ES), COMM AVE to BROOKLINE LINE",
+      "coords": [
+        {
+          "lat": 42.3440825,
+          "lng": -71.1425553
+        },
+        {
+          "lat": 42.34296,
+          "lng": -71.1415148
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "A5",
+  "route": [
+    {
+      "title": "MERRIMAC  , NEW CHARDON to SUDBURY",
+      "coords": [
+        {
+          "lat": 42.3630298,
+          "lng": -71.06003969999999
+        },
+        {
+          "lat": 42.3624715,
+          "lng": -71.05836579999999
+        }
+      ]
+    },
+    {
+      "title": "MERRIMAC (SS), STANIFORD ST to NEW CHARDON",
+      "coords": [
+        {
+          "lat": 42.3638472,
+          "lng": -71.0616666
+        },
+        {
+          "lat": 42.3638472,
+          "lng": -71.0616666
+        }
+      ]
+    },
+    {
+      "title": "BULFINCH PLACE, NEW CHARDON to SUDBURY",
+      "coords": [
+        {
+          "lat": 42.3621821,
+          "lng": -71.0622434
+        },
+        {
+          "lat": 42.36124,
+          "lng": -71.0609413
+        }
+      ]
+    },
+    {
+      "title": "NEW CHARDON, MERRIMAC to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3630298,
+          "lng": -71.06003969999999
+        },
+        {
+          "lat": 42.361179,
+          "lng": -71.06287669999999
+        }
+      ]
+    },
+    {
+      "title": "SUDBURY, CAMBRIDGE ST to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3608662,
+          "lng": -71.0613163
+        },
+        {
+          "lat": 42.3624715,
+          "lng": -71.05836579999999
+        }
+      ]
+    },
+    {
+      "title": "CAMBRIDGE ST, STANIFORD ST to COURT ST",
+      "coords": [
+        {
+          "lat": 42.3611721,
+          "lng": -71.0637875
+        },
+        {
+          "lat": 42.359633,
+          "lng": -71.0597776
+        }
+      ]
+    },
+    {
+      "title": "CAMBRIDGE ST, BOWDOIN to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.361179,
+          "lng": -71.06287669999999
+        },
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        }
+      ]
+    },
+    {
+      "title": "STANIFORD ST (ES), MERRIMAC to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3628394,
+          "lng": -71.0638364
+        },
+        {
+          "lat": 42.3628394,
+          "lng": -71.0638364
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "name": "A2",
+  "route": [
+    {
+      "title": "HANOVER  (WS), CHARTER  to NO BENNETT ",
+      "coords": [
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        },
+        {
+          "lat": 42.3655111,
+          "lng": -71.0545431
+        }
+      ]
+    },
+    {
+      "title": "PRINCE (WS), THACHER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        },
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        }
+      ]
+    },
+    {
+      "title": "LAFAYETTE , PRINCE  to ENDICOTT ",
+      "coords": [
+        {
+          "lat": 42.366311,
+          "lng": -71.0575705
+        },
+        {
+          "lat": 42.36621299999999,
+          "lng": -71.0577871
+        }
+      ]
+    },
+    {
+      "title": "NO BENNETT , HANOVER  to SALEM ",
+      "coords": [
+        {
+          "lat": 42.3647804,
+          "lng": -71.05345849999999
+        },
+        {
+          "lat": 42.3658691,
+          "lng": -71.0550712
+        }
+      ]
+    },
+    {
+      "title": "PRINCE (ES), MARGARET  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3658485,
+          "lng": -71.0557041
+        },
+        {
+          "lat": 42.3626566,
+          "lng": -71.0520406
+        }
+      ]
+    },
+    {
+      "title": "TILESTON , SALEM  to HANOVER ",
+      "coords": [
+        {
+          "lat": 42.366162,
+          "lng": -71.0548823
+        },
+        {
+          "lat": 42.3650888,
+          "lng": -71.0531725
+        }
+      ]
+    },
+    {
+      "title": "MEDFORD , NO WASHINGTON  to CAUSEWAY ",
+      "coords": [
+        {
+          "lat": 42.365514,
+          "lng": -71.0583865
+        },
+        {
+          "lat": 42.3663594,
+          "lng": -71.059404
+        }
+      ]
+    },
+    {
+      "title": "WIGGIN , NO BENNETT  to TILESTON ",
+      "coords": [
+        {
+          "lat": 42.3655305,
+          "lng": -71.05457109999999
+        },
+        {
+          "lat": 42.3657671,
+          "lng": -71.0542526
+        }
+      ]
+    },
+    {
+      "title": "HULL , COMMERCIAL to SALEM ",
+      "coords": [
+        {
+          "lat": 42.3677482,
+          "lng": -71.0573873
+        },
+        {
+          "lat": 42.3664142,
+          "lng": -71.0547204
+        }
+      ]
+    },
+    {
+      "title": "THACHER , NO WASHINGTON  to PRINCE ",
+      "coords": [
+        {
+          "lat": 42.3652062,
+          "lng": -71.0583798
+        },
+        {
+          "lat": 42.3657294,
+          "lng": -71.0563528
+        }
+      ]
+    },
+    {
+      "title": "SALEM , SHEAFE to CHARTER ",
+      "coords": [
+        {
+          "lat": 42.3659714,
+          "lng": -71.05500860000001
+        },
+        {
+          "lat": 42.3670555,
+          "lng": -71.0542971
+        }
+      ]
+    },
+    {
+      "title": "SALEM , NO BENNETT  to CHARTER ",
+      "coords": [
+        {
+          "lat": 42.3658691,
+          "lng": -71.0550712
+        },
+        {
+          "lat": 42.3670555,
+          "lng": -71.0542971
+        }
+      ]
+    },
+    {
+      "title": "UNITY, CHARTER  to TILESTON ",
+      "coords": [
+        {
+          "lat": 42.36658389999999,
+          "lng": -71.0535675
+        },
+        {
+          "lat": 42.3658428,
+          "lng": -71.054375
+        }
+      ]
+    },
+    {
+      "title": "CLEVELAND PL, MARGARET  to SNOWHILL ",
+      "coords": [
+        {
+          "lat": 42.3659227,
+          "lng": -71.05565059999999
+        },
+        {
+          "lat": 42.3663177,
+          "lng": -71.0565288
+        }
+      ]
+    },
+    {
+      "title": "ENDICOTT , THACHER  to NO WASHINGTON ",
+      "coords": [
+        {
+          "lat": 42.3653075,
+          "lng": -71.0574106
+        },
+        {
+          "lat": 42.3668926,
+          "lng": -71.05850219999999
+        }
+      ]
+    },
+    {
+      "title": "SNOWHILL , PRINCE  to CHARTER ",
+      "coords": [
+        {
+          "lat": 42.3670257,
+          "lng": -71.056493
+        },
+        {
+          "lat": 42.368058,
+          "lng": -71.05636299999999
+        }
+      ]
+    },
+    {
+      "title": "NO WASHINGTON , MEDFORD  to CAUSEWAY ",
+      "coords": [
+        {
+          "lat": 42.365514,
+          "lng": -71.0583865
+        },
+        {
+          "lat": 42.3668926,
+          "lng": -71.05850219999999
+        }
+      ]
+    },
+    {
+      "title": "SHEAFE, SALEM  to SNOWHILL ",
+      "coords": [
+        {
+          "lat": 42.3659714,
+          "lng": -71.05500860000001
+        },
+        {
+          "lat": 42.3666321,
+          "lng": -71.0565354
+        }
+      ]
+    },
+    {
+      "title": "NO HUDSON, HULL  to SNOWHILL ",
+      "coords": [
+        {
+          "lat": 42.36741689999999,
+          "lng": -71.05698699999999
+        },
+        {
+          "lat": 42.3678116,
+          "lng": -71.0564
+        }
+      ]
+    },
+    {
+      "title": "MARGARET , PRINCE  to SHEAFE",
+      "coords": [
+        {
+          "lat": 42.3140671,
+          "lng": -71.1229315
+        },
+        {
+          "lat": 42.3666321,
+          "lng": -71.0565354
+        }
+      ]
+    },
+    {
+      "title": "CAUSEWAY, MEDFORD  to NO WASHINGTON ",
+      "coords": [
+        {
+          "lat": 42.3663594,
+          "lng": -71.059404
+        },
+        {
+          "lat": 42.3668926,
+          "lng": -71.05850219999999
+        }
+      ]
+    },
+    {
+      "title": "NO WASHINGTON , THACHER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3652062,
+          "lng": -71.0583798
+        },
+        {
+          "lat": 42.3675712,
+          "lng": -71.0588083
+        }
+      ]
+    }
+  ]
+}

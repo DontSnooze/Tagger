@@ -1,0 +1,213 @@
+{
+  "name": "E4A",
+  "route": [
+    {
+      "title": "DARTMOUTH PLACE, DARTMOUTH ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3447883,
+          "lng": -71.0747075
+        },
+        {
+          "lat": 42.3447883,
+          "lng": -71.0747075
+        }
+      ]
+    },
+    {
+      "title": "LAWRENCE ST, CLARENDON ST to DARTMOUTH ST",
+      "coords": [
+        {
+          "lat": 42.346111,
+          "lng": -71.072974
+        },
+        {
+          "lat": 42.3455445,
+          "lng": -71.0750803
+        }
+      ]
+    },
+    {
+      "title": "APPLETON ST, WEST CANTON ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.344675,
+          "lng": -71.0763304
+        },
+        {
+          "lat": 42.3456841,
+          "lng": -71.07275010000001
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS AVE (ES), CLARENDON ST to WEST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        },
+        {
+          "lat": 42.3422638,
+          "lng": -71.0774708
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST, CLARENDON ST to WEST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3438577,
+          "lng": -71.0718551
+        },
+        {
+          "lat": 42.3413308,
+          "lng": -71.0765447
+        }
+      ]
+    },
+    {
+      "title": "CLARENDON ST (SS), TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    },
+    {
+      "title": "MONTGOMERY ST, WEST CANTON ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3432031,
+          "lng": -71.0753957
+        },
+        {
+          "lat": 42.3441246,
+          "lng": -71.0719994
+        }
+      ]
+    },
+    {
+      "title": "PEMBROKE ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3416776,
+          "lng": -71.07593729999999
+        },
+        {
+          "lat": 42.3437475,
+          "lng": -71.0778952
+        }
+      ]
+    },
+    {
+      "title": "CHANDLER ST, COLUMBUS AVE to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3460737,
+          "lng": -71.0750308
+        },
+        {
+          "lat": 42.34639629999999,
+          "lng": -71.073106
+        }
+      ]
+    },
+    {
+      "title": "WEST NEWTON ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3413308,
+          "lng": -71.0765447
+        },
+        {
+          "lat": 42.3432108,
+          "lng": -71.0785535
+        }
+      ]
+    },
+    {
+      "title": "DARTMOUTH ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3428113,
+          "lng": -71.0737802
+        },
+        {
+          "lat": 42.3458766,
+          "lng": -71.0752538
+        }
+      ]
+    },
+    {
+      "title": "UNION PARK, TREMONT ST to MONTGOMERY ST",
+      "coords": [
+        {
+          "lat": 42.3436022,
+          "lng": -71.0723281
+        },
+        {
+          "lat": 42.3439449,
+          "lng": -71.0726782
+        }
+      ]
+    },
+    {
+      "title": "WEST CANTON ST, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3423865,
+          "lng": -71.074587
+        },
+        {
+          "lat": 42.3448354,
+          "lng": -71.07650459999999
+        }
+      ]
+    },
+    {
+      "title": "WEST BROOKLINE, TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3419952,
+          "lng": -71.0753263
+        },
+        {
+          "lat": 42.3415549,
+          "lng": -71.0748207
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS SQUARE, WEST NEWTON ST to PEMBROKE ST",
+      "coords": [
+        {
+          "lat": 42.3432108,
+          "lng": -71.0785535
+        },
+        {
+          "lat": 42.3434722,
+          "lng": -71.0775225
+        }
+      ]
+    },
+    {
+      "title": "WARREN AVE (BS), CLARENDON ST to COLUMBUS SQUARE",
+      "coords": [
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        },
+        {
+          "lat": 42.3446277,
+          "lng": -71.0732894
+        }
+      ]
+    }
+  ]
+}

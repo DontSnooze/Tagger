@@ -1,0 +1,239 @@
+{
+  "name": "F2A",
+  "route": [
+    {
+      "title": "WADSWORTH ST, PRATT ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3552323,
+          "lng": -71.12727939999999
+        },
+        {
+          "lat": 42.3552323,
+          "lng": -71.12727939999999
+        }
+      ]
+    },
+    {
+      "title": "HARVARD TERRACE, HARVARD AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3540481,
+          "lng": -71.13233799999999
+        },
+        {
+          "lat": 42.3540481,
+          "lng": -71.13233799999999
+        }
+      ]
+    },
+    {
+      "title": "ASHFORD ST, MALVERN ST to LINDEN ST",
+      "coords": [
+        {
+          "lat": 42.3542836,
+          "lng": -71.1247397
+        },
+        {
+          "lat": 42.3541462,
+          "lng": -71.1302267
+        }
+      ]
+    },
+    {
+      "title": "GARDNER ST, MALVERN ST to HARVARD AVE",
+      "coords": [
+        {
+          "lat": 42.353358,
+          "lng": -71.12494
+        },
+        {
+          "lat": 42.35344870000001,
+          "lng": -71.1321787
+        }
+      ]
+    },
+    {
+      "title": "ST LUKE'S RD, COMM AVE to BRIGHTON AVE",
+      "coords": [
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        },
+        {
+          "lat": 42.3528927,
+          "lng": -71.1307053
+        }
+      ]
+    },
+    {
+      "title": "HARVARD AVE, COMM AVE to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3502784,
+          "lng": -71.1309528
+        },
+        {
+          "lat": 42.3555219,
+          "lng": -71.13278850000002
+        }
+      ]
+    },
+    {
+      "title": "MALVERN ST, BRIGHTON AVE to ASHFORD ST",
+      "coords": [
+        {
+          "lat": 42.3522271,
+          "lng": -71.1251925
+        },
+        {
+          "lat": 42.3542836,
+          "lng": -71.1247397
+        }
+      ]
+    },
+    {
+      "title": "FARRINGTON AVE, HARVARD AVE to LINDEN ST",
+      "coords": [
+        {
+          "lat": 42.354219,
+          "lng": -71.1323883
+        },
+        {
+          "lat": 42.3545536,
+          "lng": -71.1304076
+        }
+      ]
+    },
+    {
+      "title": "BRIGHTON AVE, COMM AVE to HARVARD AVE",
+      "coords": [
+        {
+          "lat": 42.3521,
+          "lng": -71.1249509
+        },
+        {
+          "lat": 42.353056,
+          "lng": -71.132106
+        }
+      ]
+    },
+    {
+      "title": "PRATT ST, LINDEN ST to ASHFORD ST",
+      "coords": [
+        {
+          "lat": 42.3547717,
+          "lng": -71.1305138
+        },
+        {
+          "lat": 42.3546139,
+          "lng": -71.1271098
+        }
+      ]
+    },
+    {
+      "title": "LINDEN ST, COMM AVE to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3522989,
+          "lng": -71.1303068
+        },
+        {
+          "lat": 42.3560355,
+          "lng": -71.1313314
+        }
+      ]
+    },
+    {
+      "title": "CAMBRIDGE ST, HARVARD AVE to LINDEN ST",
+      "coords": [
+        {
+          "lat": 42.3555219,
+          "lng": -71.13278850000002
+        },
+        {
+          "lat": 42.3560355,
+          "lng": -71.1313314
+        }
+      ]
+    },
+    {
+      "title": "CHESTER ST, COMM AVE to ASHFORD ST",
+      "coords": [
+        {
+          "lat": 42.3506793,
+          "lng": -71.128929
+        },
+        {
+          "lat": 42.3544963,
+          "lng": -71.12787039999999
+        }
+      ]
+    },
+    {
+      "title": "HIGHGATE ST, CAMBRIDGE ST to FARRINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.35584009999999,
+          "lng": -71.1321634
+        },
+        {
+          "lat": 42.3543856,
+          "lng": -71.1314141
+        }
+      ]
+    },
+    {
+      "title": "HARTLEY TERRACE, WADSWORTH ST to ASHFORD ST",
+      "coords": [
+        {
+          "lat": 42.3549914,
+          "lng": -71.1255748
+        },
+        {
+          "lat": 42.3544423,
+          "lng": -71.12572879999999
+        }
+      ]
+    },
+    {
+      "title": "FORDHAM ROAD, COMM AVE to BRIGHTON AVE",
+      "coords": [
+        {
+          "lat": 42.3506565,
+          "lng": -71.12807110000001
+        },
+        {
+          "lat": 42.35242179999999,
+          "lng": -71.1277259
+        }
+      ]
+    },
+    {
+      "title": "REEDSDSALE ST, COMM AVE to BRIGHTON AVE",
+      "coords": [
+        {
+          "lat": 42.3507565,
+          "lng": -71.1298473
+        },
+        {
+          "lat": 42.3528927,
+          "lng": -71.1307053
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (NS), BRIGHTON AVE to HARVARD AVE",
+      "coords": [
+        {
+          "lat": 42.3411537,
+          "lng": -71.1506176
+        },
+        {
+          "lat": 42.3520069,
+          "lng": -71.1318014
+        }
+      ]
+    }
+  ]
+}

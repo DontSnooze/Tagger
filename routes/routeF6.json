@@ -1,0 +1,1175 @@
+{
+  "name": "F6",
+  "route": [
+    {
+      "title": "CALTHA ROAD, UNDINE ROAD to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3420484,
+          "lng": -71.1668972
+        },
+        {
+          "lat": 42.3420484,
+          "lng": -71.1668972
+        }
+      ]
+    },
+    {
+      "title": "ROSE GARDEN, FOSTER ST to FOSTER ST",
+      "coords": [
+        {
+          "lat": 42.3421471,
+          "lng": -71.1585573
+        },
+        {
+          "lat": 42.3421471,
+          "lng": -71.1585573
+        }
+      ]
+    },
+    {
+      "title": "CHISWICK ROAD, COMM AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3404247,
+          "lng": -71.1513701
+        },
+        {
+          "lat": 42.3404247,
+          "lng": -71.1513701
+        }
+      ]
+    },
+    {
+      "title": "UNDINE ROAD, LAKE ST to LAKE ST",
+      "coords": [
+        {
+          "lat": 42.3426677,
+          "lng": -71.16529179999999
+        },
+        {
+          "lat": 42.3426677,
+          "lng": -71.16529179999999
+        }
+      ]
+    },
+    {
+      "title": "FOSTER ST, COMM AVE to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3400688,
+          "lng": -71.15975089999999
+        },
+        {
+          "lat": 42.3490825,
+          "lng": -71.1570744
+        }
+      ]
+    },
+    {
+      "title": "LAROSE PLACE, MONASTERY ROAD to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3452948,
+          "lng": -71.1469632
+        },
+        {
+          "lat": 42.3452948,
+          "lng": -71.1469632
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST, MONASTERY ROAD to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3461139,
+          "lng": -71.1462662
+        },
+        {
+          "lat": 42.3437998,
+          "lng": -71.14297590000001
+        }
+      ]
+    },
+    {
+      "title": "WILTSHIRE ROAD, CHESTNUT HILL AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.343217,
+          "lng": -71.15346079999999
+        },
+        {
+          "lat": 42.343217,
+          "lng": -71.15346079999999
+        }
+      ]
+    },
+    {
+      "title": "WADE ST, COMM AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.339882,
+          "lng": -71.15959509999999
+        },
+        {
+          "lat": 42.339882,
+          "lng": -71.15959509999999
+        }
+      ]
+    },
+    {
+      "title": "GORDON ST, CAMBRIDGE ST to NO BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3525448,
+          "lng": -71.1402765
+        },
+        {
+          "lat": 42.3540131,
+          "lng": -71.1406765
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (OB), WASHINGTON ST to NEWTON LINE",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, CHESTNUT HILL AVE to NEWTON LINE",
+      "coords": [
+        {
+          "lat": 42.3359166,
+          "lng": -71.1508003
+        },
+        {
+          "lat": 42.3414939,
+          "lng": -71.1243937
+        }
+      ]
+    },
+    {
+      "title": "SPARHAWK ST, CAMBRIDGE ST to MARKET ST",
+      "coords": [
+        {
+          "lat": 42.35017089999999,
+          "lng": -71.1471055
+        },
+        {
+          "lat": 42.3516567,
+          "lng": -71.15192189999999
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST, FOSTER ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3490825,
+          "lng": -71.1570744
+        },
+        {
+          "lat": 42.3506823,
+          "lng": -71.1684975
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (IB), THOMAS MORE DRIVE to CHESTNUT HILL AVE",
+      "coords": [
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        },
+        {
+          "lat": 42.3361853,
+          "lng": -71.1510687
+        }
+      ]
+    },
+    {
+      "title": "CHISWICK TERR, CHISWICK ROAD to PORTINA ROAD",
+      "coords": [
+        {
+          "lat": 42.3418247,
+          "lng": -71.1569899
+        },
+        {
+          "lat": 42.3425425,
+          "lng": -71.15660059999999
+        }
+      ]
+    },
+    {
+      "title": "GARDENIA ST, MARKET ST to DUSTIN ST",
+      "coords": [
+        {
+          "lat": 42.3538906,
+          "lng": -71.1505131
+        },
+        {
+          "lat": 42.3529144,
+          "lng": -71.1452904
+        }
+      ]
+    },
+    {
+      "title": "MONASTERY ROAD, WASHINGTON ST to COLBORNE ROAD",
+      "coords": [
+        {
+          "lat": 42.3461139,
+          "lng": -71.1462662
+        },
+        {
+          "lat": 42.344247,
+          "lng": -71.14780929999999
+        }
+      ]
+    },
+    {
+      "title": "PORTINA ROAD, CHISWICK TERR to WILTSHIRE ROAD",
+      "coords": [
+        {
+          "lat": 42.3425425,
+          "lng": -71.15660059999999
+        },
+        {
+          "lat": 42.3440723,
+          "lng": -71.1554759
+        }
+      ]
+    },
+    {
+      "title": "KIRKWOOD ROAD, SOUTH ST to FOSTER ST",
+      "coords": [
+        {
+          "lat": 42.3402284,
+          "lng": -71.155733
+        },
+        {
+          "lat": 42.3415295,
+          "lng": -71.1589311
+        }
+      ]
+    },
+    {
+      "title": "EMBASSY ROAD, CHESTNUT HILL AVE to PORTINA ROAD",
+      "coords": [
+        {
+          "lat": 42.3415541,
+          "lng": -71.1545302
+        },
+        {
+          "lat": 42.3419287,
+          "lng": -71.155598
+        }
+      ]
+    },
+    {
+      "title": "LAKE SHORE ROAD, LAKE ST to PRIVATE WAY",
+      "coords": [
+        {
+          "lat": 42.345406,
+          "lng": -71.1628685
+        },
+        {
+          "lat": 42.3444344,
+          "lng": -71.1647503
+        }
+      ]
+    },
+    {
+      "title": "WILLOUGHBY ST, GLENMONT ROAD to ROGERS PARK AVE",
+      "coords": [
+        {
+          "lat": 42.3458128,
+          "lng": -71.1611477
+        },
+        {
+          "lat": 42.3472953,
+          "lng": -71.1604021
+        }
+      ]
+    },
+    {
+      "title": "GUEST ST, MARKET ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3574458,
+          "lng": -71.1482918
+        },
+        {
+          "lat": 42.3574458,
+          "lng": -71.1482918
+        }
+      ]
+    },
+    {
+      "title": "LANE PARK, FOSTER ST to FOSTER ST",
+      "coords": [
+        {
+          "lat": 42.3419828,
+          "lng": -71.15866179999999
+        },
+        {
+          "lat": 42.3419828,
+          "lng": -71.15866179999999
+        }
+      ]
+    },
+    {
+      "title": "MARKET ST, BIRMINGHAM PKWY to SPARHAWK ST",
+      "coords": [
+        {
+          "lat": 42.3588408,
+          "lng": -71.14742559999999
+        },
+        {
+          "lat": 42.3516567,
+          "lng": -71.15192189999999
+        }
+      ]
+    },
+    {
+      "title": "ABBEY RD, WAVERLY ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3612698,
+          "lng": -71.14123169999999
+        },
+        {
+          "lat": 42.3612698,
+          "lng": -71.14123169999999
+        }
+      ]
+    },
+    {
+      "title": "RADNOR ROAD, KIRKWOOD ROAD to FOSTER ST",
+      "coords": [
+        {
+          "lat": 42.3408471,
+          "lng": -71.1561651
+        },
+        {
+          "lat": 42.3408986,
+          "lng": -71.1592897
+        }
+      ]
+    },
+    {
+      "title": "HATHERLY ROAD, CHESTNUT HILL AVE to PORTINA ROAD",
+      "coords": [
+        {
+          "lat": 42.3426184,
+          "lng": -71.15383729999999
+        },
+        {
+          "lat": 42.3433114,
+          "lng": -71.1559764
+        }
+      ]
+    },
+    {
+      "title": "MAPLETON ST, MARKET ST to MURDOCK ST",
+      "coords": [
+        {
+          "lat": 42.3525516,
+          "lng": -71.15135409999999
+        },
+        {
+          "lat": 42.3512065,
+          "lng": -71.1473756
+        }
+      ]
+    },
+    {
+      "title": "TRAPELO ROAD, GLENMONT ROAD to LAKE ST",
+      "coords": [
+        {
+          "lat": 42.34598099999999,
+          "lng": -71.1592454
+        },
+        {
+          "lat": 42.3469603,
+          "lng": -71.16171709999999
+        }
+      ]
+    },
+    {
+      "title": "LOTHIAN ROAD, STRATHMORE ROAD to CHISWICK ROAD",
+      "coords": [
+        {
+          "lat": 42.3400044,
+          "lng": -71.1538633
+        },
+        {
+          "lat": 42.3408579,
+          "lng": -71.1537413
+        }
+      ]
+    },
+    {
+      "title": "SOUTH ST, CHESTNUT HILL AVE to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3361853,
+          "lng": -71.1510687
+        },
+        {
+          "lat": 42.3397127,
+          "lng": -71.1578219
+        }
+      ]
+    },
+    {
+      "title": "COLWELL AVE, PORTINA ROAD to CHESTNUT HILL AVE",
+      "coords": [
+        {
+          "lat": 42.3427721,
+          "lng": -71.1563755
+        },
+        {
+          "lat": 42.3361853,
+          "lng": -71.1510687
+        }
+      ]
+    },
+    {
+      "title": "GERALD ROAD, GREYCLIFF ROAD to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3415911,
+          "lng": -71.1598034
+        },
+        {
+          "lat": 42.3401378,
+          "lng": -71.1605931
+        }
+      ]
+    },
+    {
+      "title": "GLENMONT ROAD, FOSTER ST to LAKE ST",
+      "coords": [
+        {
+          "lat": 42.3461078,
+          "lng": -71.15809039999999
+        },
+        {
+          "lat": 42.3462086,
+          "lng": -71.1622375
+        }
+      ]
+    },
+    {
+      "title": "STRATHMORE ROAD, CHESTNUT HILL AVE to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3404624,
+          "lng": -71.1552392
+        },
+        {
+          "lat": 42.3388547,
+          "lng": -71.15239319999999
+        }
+      ]
+    },
+    {
+      "title": "GREYCLIFF ROAD, FOSTER ST to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3413546,
+          "lng": -71.159027
+        },
+        {
+          "lat": 42.3401693,
+          "lng": -71.1614341
+        }
+      ]
+    },
+    {
+      "title": "NEWCASTLE ROAD, FANEUIL ST to HOBSON ST",
+      "coords": [
+        {
+          "lat": 42.3535312,
+          "lng": -71.1590065
+        },
+        {
+          "lat": 42.3540701,
+          "lng": -71.1620153
+        }
+      ]
+    },
+    {
+      "title": "SAUNDERS ST, CAMBRIDGE ST to NO BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3520772,
+          "lng": -71.1416065
+        },
+        {
+          "lat": 42.3542712,
+          "lng": -71.1416653
+        }
+      ]
+    },
+    {
+      "title": "KENRICK ST, LAKE ST to NEWTON LINE",
+      "coords": [
+        {
+          "lat": 42.3463679,
+          "lng": -71.1621218
+        },
+        {
+          "lat": 42.3466744,
+          "lng": -71.1718193
+        }
+      ]
+    },
+    {
+      "title": "CHESTNUT HILL AVE, WASHINGTON ST to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3491084,
+          "lng": -71.1534289
+        },
+        {
+          "lat": 42.3381836,
+          "lng": -71.1533877
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST, WASHINGTON ST to NEWTON LINE",
+      "coords": [
+        {
+          "lat": 42.3506823,
+          "lng": -71.1684975
+        },
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        }
+      ]
+    },
+    {
+      "title": "PRISCILLA ROAD, CHESTNUT HILL AVE to BLENFORD ST",
+      "coords": [
+        {
+          "lat": 42.3451118,
+          "lng": -71.1530499
+        },
+        {
+          "lat": 42.34466339999999,
+          "lng": -71.1512808
+        }
+      ]
+    },
+    {
+      "title": "LIFE ST, GUEST ST to MARKET ST",
+      "coords": [
+        {
+          "lat": 42.3570405,
+          "lng": -71.145566
+        },
+        {
+          "lat": 42.3568394,
+          "lng": -71.145661
+        }
+      ]
+    },
+    {
+      "title": "SORRENTO ST, CAMBRIDGE ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3585747,
+          "lng": -71.1247063
+        },
+        {
+          "lat": 42.3585747,
+          "lng": -71.1247063
+        }
+      ]
+    },
+    {
+      "title": "GUEST ST, FROM 157 MARKET ST to [BLANK]",
+      "coords": [
+        {
+          "lat": 42.3572518,
+          "lng": -71.1487356
+        },
+        {
+          "lat": 42.3567028,
+          "lng": -71.1433163
+        }
+      ]
+    },
+    {
+      "title": "WESTERN AVE, SOLDIERS FIELD ROAD to BIRMINGHAM PKWY",
+      "coords": [
+        {
+          "lat": 42.3641689,
+          "lng": -71.1181561
+        },
+        {
+          "lat": 42.361618,
+          "lng": -71.1458822
+        }
+      ]
+    },
+    {
+      "title": "RAYMOND ST, EVERETT ST to FRANKLIN ST",
+      "coords": [
+        {
+          "lat": 42.3619513,
+          "lng": -71.13583179999999
+        },
+        {
+          "lat": 42.3611718,
+          "lng": -71.131554
+        }
+      ]
+    },
+    {
+      "title": "RAYMOND ST, EVERETT ST to FRANKLIN ST",
+      "coords": [
+        {
+          "lat": 42.3619513,
+          "lng": -71.13583179999999
+        },
+        {
+          "lat": 42.3611718,
+          "lng": -71.131554
+        }
+      ]
+    },
+    {
+      "title": "TRAVIS ST, WESTERN AVE to RENA ST",
+      "coords": [
+        {
+          "lat": 42.3632672,
+          "lng": -71.1287601
+        },
+        {
+          "lat": 42.361371,
+          "lng": -71.12848140000001
+        }
+      ]
+    },
+    {
+      "title": "VINELAND ST, NO BEACON ST to MARKET ST",
+      "coords": [
+        {
+          "lat": 42.3571517,
+          "lng": -71.15301889999999
+        },
+        {
+          "lat": 42.3570038,
+          "lng": -71.1485683
+        }
+      ]
+    },
+    {
+      "title": "CENACLE ROAD, WILLOUGHBY ST to LAKE ST",
+      "coords": [
+        {
+          "lat": 42.346215,
+          "lng": -71.1609629
+        },
+        {
+          "lat": 42.3465078,
+          "lng": -71.1620227
+        }
+      ]
+    },
+    {
+      "title": "FRANKLIN ST, BRAINTREE ST to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3559546,
+          "lng": -71.1328419
+        },
+        {
+          "lat": 42.3555219,
+          "lng": -71.13278850000002
+        }
+      ]
+    },
+    {
+      "title": "WILTON ST, CAMBRIDGE ST to BRAINTREE ST",
+      "coords": [
+        {
+          "lat": 42.3553196,
+          "lng": -71.1332527
+        },
+        {
+          "lat": 42.3560986,
+          "lng": -71.13389819999999
+        }
+      ]
+    },
+    {
+      "title": "WESTFORD ST, RAYMOND ST to RAYMOND ST",
+      "coords": [
+        {
+          "lat": 42.3617921,
+          "lng": -71.1350586
+        },
+        {
+          "lat": 42.3617921,
+          "lng": -71.1350586
+        }
+      ]
+    },
+    {
+      "title": "RANSOM ROAD, CLAYMOSS ROAD to COLBORNE ROAD",
+      "coords": [
+        {
+          "lat": 42.3436932,
+          "lng": -71.1444437
+        },
+        {
+          "lat": 42.3425313,
+          "lng": -71.1461661
+        }
+      ]
+    },
+    {
+      "title": "BAYARD ST, NO HARVARD ST to MYRICK ST",
+      "coords": [
+        {
+          "lat": 42.36113840000001,
+          "lng": -71.1298407
+        },
+        {
+          "lat": 42.3600732,
+          "lng": -71.1317986
+        }
+      ]
+    },
+    {
+      "title": "BLENFORD ROAD, PRISCILLA ROAD to COLBORNE ROAD",
+      "coords": [
+        {
+          "lat": 42.34466339999999,
+          "lng": -71.1512808
+        },
+        {
+          "lat": 42.3445623,
+          "lng": -71.1500489
+        }
+      ]
+    },
+    {
+      "title": "MT VERNON ST, CHESTNUT HILL AVE to FOSTER ST",
+      "coords": [
+        {
+          "lat": 42.3361853,
+          "lng": -71.1510687
+        },
+        {
+          "lat": 42.3474387,
+          "lng": -71.1576049
+        }
+      ]
+    },
+    {
+      "title": "WINDOM ST, CAMBRIDGE ST to HOPEDALE ST",
+      "coords": [
+        {
+          "lat": 42.3589991,
+          "lng": -71.1231784
+        },
+        {
+          "lat": 42.3608752,
+          "lng": -71.1245807
+        }
+      ]
+    },
+    {
+      "title": "PRISCILLA ROAD, CHESTNUT HILL AVE to WALLINGFORD ROAD",
+      "coords": [
+        {
+          "lat": 42.3451118,
+          "lng": -71.1530499
+        },
+        {
+          "lat": 42.3440314,
+          "lng": -71.1517008
+        }
+      ]
+    },
+    {
+      "title": "SIDLAW ROAD, CHISWICK ROAD to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3406252,
+          "lng": -71.1525413
+        },
+        {
+          "lat": 42.33951099999999,
+          "lng": -71.1522446
+        }
+      ]
+    },
+    {
+      "title": "RENA ST, NO HARVARD ST to TRAVIS ST",
+      "coords": [
+        {
+          "lat": 42.3610549,
+          "lng": -71.12972839999999
+        },
+        {
+          "lat": 42.361371,
+          "lng": -71.12848140000001
+        }
+      ]
+    },
+    {
+      "title": "SEATTLE ST, CAMBRIDGE ST to GODDARD ST",
+      "coords": [
+        {
+          "lat": 42.3588284,
+          "lng": -71.12394259999999
+        },
+        {
+          "lat": 42.3598101,
+          "lng": -71.1246476
+        }
+      ]
+    },
+    {
+      "title": "NO HARVARD ST, CAMBRIDGE ST to SOLDIERS FIELD ROAD",
+      "coords": [
+        {
+          "lat": 42.3578602,
+          "lng": -71.1264389
+        },
+        {
+          "lat": 42.3744368,
+          "lng": -71.1182488
+        }
+      ]
+    },
+    {
+      "title": "WEITZ ST, BAYARD ST to FRANKLIN ST",
+      "coords": [
+        {
+          "lat": 42.3607602,
+          "lng": -71.1305233
+        },
+        {
+          "lat": 42.3613213,
+          "lng": -71.1313741
+        }
+      ]
+    },
+    {
+      "title": "KINGSLEY ST, NO HARVARD ST to TRAVIS ST",
+      "coords": [
+        {
+          "lat": 42.3619862,
+          "lng": -71.13042039999999
+        },
+        {
+          "lat": 42.361928,
+          "lng": -71.1285661
+        }
+      ]
+    },
+    {
+      "title": "COLBORNE ROAD, MONASTERY ROAD to BLENFORD ST",
+      "coords": [
+        {
+          "lat": 42.344247,
+          "lng": -71.14780929999999
+        },
+        {
+          "lat": 42.3445623,
+          "lng": -71.1500489
+        }
+      ]
+    },
+    {
+      "title": "GLENCOE ST, NO BEACON ST to ELMIRA ST",
+      "coords": [
+        {
+          "lat": 42.3557634,
+          "lng": -71.14751559999999
+        },
+        {
+          "lat": 42.3529442,
+          "lng": -71.1492815
+        }
+      ]
+    },
+    {
+      "title": "BRAINTREE ST, FRANKLIN ST to EVERETT ST",
+      "coords": [
+        {
+          "lat": 42.3559546,
+          "lng": -71.1328419
+        },
+        {
+          "lat": 42.35657459999999,
+          "lng": -71.1380856
+        }
+      ]
+    },
+    {
+      "title": "EUSTON ROAD, WASHINGTON ST to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3446243,
+          "lng": -71.144537
+        },
+        {
+          "lat": 42.3418168,
+          "lng": -71.14697319999999
+        }
+      ]
+    },
+    {
+      "title": "LAKE ST, COMM AVE to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3400875,
+          "lng": -71.16613989999999
+        },
+        {
+          "lat": 42.34890619999999,
+          "lng": -71.1604728
+        }
+      ]
+    },
+    {
+      "title": "CLAYMOSS ROAD, MONASTERY ROAD to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3453898,
+          "lng": -71.1468877
+        },
+        {
+          "lat": 42.3432266,
+          "lng": -71.14360429999999
+        }
+      ]
+    },
+    {
+      "title": "WAVERLY ST, WESTERN AVE to BIRMINGHAM PKWY",
+      "coords": [
+        {
+          "lat": 42.3624506,
+          "lng": -71.140626
+        },
+        {
+          "lat": 42.360901,
+          "lng": -71.146166
+        }
+      ]
+    },
+    {
+      "title": "NO BEACON ST ST, CAMBRIDGE ST to GOODENOUGH ST",
+      "coords": [
+        {
+          "lat": 42.353536,
+          "lng": -71.1374348
+        },
+        {
+          "lat": 42.3557425,
+          "lng": -71.15434
+        }
+      ]
+    },
+    {
+      "title": "ROGERS PARK AVE, LAKE ST to FOSTER ST",
+      "coords": [
+        {
+          "lat": 42.34755670000001,
+          "lng": -71.161335
+        },
+        {
+          "lat": 42.3466216,
+          "lng": -71.15821629999999
+        }
+      ]
+    },
+    {
+      "title": "RIVERDALE, WESTERN AVE to RAYMOND ST",
+      "coords": [
+        {
+          "lat": 42.3632623,
+          "lng": -71.132209
+        },
+        {
+          "lat": 42.3614337,
+          "lng": -71.13301969999999
+        }
+      ]
+    },
+    {
+      "title": "NOTTINGHILL ROAD, BLENFORD ST to MELTON ROAD",
+      "coords": [
+        {
+          "lat": 42.3445623,
+          "lng": -71.1500489
+        },
+        {
+          "lat": 42.3445623,
+          "lng": -71.1500489
+        }
+      ]
+    },
+    {
+      "title": "ACADEMY HILL ROAD, WASHINGTON ST to CHESTNUT HILL AVE",
+      "coords": [
+        {
+          "lat": 42.3490732,
+          "lng": -71.1526524
+        },
+        {
+          "lat": 42.347201,
+          "lng": -71.1537365
+        }
+      ]
+    },
+    {
+      "title": "LIFE ST, NO BEACON ST to END OF GUEST ST",
+      "coords": [
+        {
+          "lat": 42.3554226,
+          "lng": -71.1461906
+        },
+        {
+          "lat": 42.3568394,
+          "lng": -71.145661
+        }
+      ]
+    },
+    {
+      "title": "HOPEDALE ST, NO HARVARD ST to WINDOM ST",
+      "coords": [
+        {
+          "lat": 42.35930279999999,
+          "lng": -71.1275172
+        },
+        {
+          "lat": 42.3608752,
+          "lng": -71.1245807
+        }
+      ]
+    },
+    {
+      "title": "CAMBRIDGE ST, WINDOM ST to [SPECIAL] **BRIGHTON AVE ONE SIDE\nNO. BEACON ON THE OTHER",
+      "coords": [
+        {
+          "lat": 42.3589991,
+          "lng": -71.1231784
+        },
+        {
+          "lat": 42.357187,
+          "lng": -71.152796
+        }
+      ]
+    },
+    {
+      "title": "AMBOY ST, WINDOM ST to SEATTLE ST",
+      "coords": [
+        {
+          "lat": 42.3597409,
+          "lng": -71.12369679999999
+        },
+        {
+          "lat": 42.3595167,
+          "lng": -71.1243932
+        }
+      ]
+    },
+    {
+      "title": "WALLINGFORD ROAD, CHESTNUT HILL AVE to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.34450220000001,
+          "lng": -71.15336719999999
+        },
+        {
+          "lat": 42.3409145,
+          "lng": -71.1503911
+        }
+      ]
+    },
+    {
+      "title": "LEAMINGTON ROAD, COMM AVE to WALLINGFORD ROAD",
+      "coords": [
+        {
+          "lat": 42.3418182,
+          "lng": -71.1486757
+        },
+        {
+          "lat": 42.3418831,
+          "lng": -71.1515166
+        }
+      ]
+    },
+    {
+      "title": "APPIAN WAY, RAYMOND ST to FRANKLIN ST",
+      "coords": [
+        {
+          "lat": 42.3613769,
+          "lng": -71.1326717
+        },
+        {
+          "lat": 42.3608134,
+          "lng": -71.1327643
+        }
+      ]
+    },
+    {
+      "title": "DUNBOY ST, FANEUIL ST to BIGELOW ST",
+      "coords": [
+        {
+          "lat": 42.3521072,
+          "lng": -71.164726
+        },
+        {
+          "lat": 42.3555158,
+          "lng": -71.1641925
+        }
+      ]
+    },
+    {
+      "title": "MELTON ROAD, 59 WALLINGFORD ROAD to 1 BENFORD ST",
+      "coords": [
+        {
+          "lat": 42.3436928,
+          "lng": -71.15086269999999
+        },
+        {
+          "lat": 42.3469291,
+          "lng": -71.0511403
+        }
+      ]
+    },
+    {
+      "title": "FANEUIL ST, MARKET ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3547952,
+          "lng": -71.14994279999999
+        },
+        {
+          "lat": 42.3509093,
+          "lng": -71.16764340000002
+        }
+      ]
+    }
+  ]
+}

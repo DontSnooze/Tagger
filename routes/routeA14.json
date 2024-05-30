@@ -1,0 +1,109 @@
+{
+  "name": "A14",
+  "route": [
+    {
+      "title": "BATTERYMARCH  , FRANKLIN ST to HIGH ST",
+      "coords": [
+        {
+          "lat": 42.3569504,
+          "lng": -71.0532851
+        },
+        {
+          "lat": 42.3563999,
+          "lng": -71.0528064
+        }
+      ]
+    },
+    {
+      "title": "WHARF ROAD, BROAD ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.357754,
+          "lng": -71.053478
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "WENDELL, BROAD ST to BATTERYMARCH",
+      "coords": [
+        {
+          "lat": 42.35726289999999,
+          "lng": -71.05225159999999
+        },
+        {
+          "lat": 42.3567346,
+          "lng": -71.05309540000002
+        }
+      ]
+    },
+    {
+      "title": "BROAD ST, FRANKLIN ST to HIGH ST",
+      "coords": [
+        {
+          "lat": 42.3574438,
+          "lng": -71.0526869
+        },
+        {
+          "lat": 42.357754,
+          "lng": -71.053478
+        }
+      ]
+    },
+    {
+      "title": "FRANKLIN ST (SS), CONGRESS ST to PURCHASE ST",
+      "coords": [
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        },
+        {
+          "lat": 42.3545302,
+          "lng": -71.0533566
+        }
+      ]
+    },
+    {
+      "title": "CONGRESS ST (ES), FRANKLIN ST to PURCHASE ST",
+      "coords": [
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        },
+        {
+          "lat": 42.3529409,
+          "lng": -71.052857
+        }
+      ]
+    },
+    {
+      "title": "PURCHASE ST, CONGRESS ST to HIGH ST",
+      "coords": [
+        {
+          "lat": 42.3541357,
+          "lng": -71.054125
+        },
+        {
+          "lat": 42.3566844,
+          "lng": -71.0515118
+        }
+      ]
+    },
+    {
+      "title": "PEARL ST, FRANKLIN ST to PURCHASE ST",
+      "coords": [
+        {
+          "lat": 42.356064,
+          "lng": -71.05487769999999
+        },
+        {
+          "lat": 42.3545302,
+          "lng": -71.05335660000001
+        }
+      ]
+    }
+  ]
+}

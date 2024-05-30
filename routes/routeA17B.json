@@ -1,0 +1,109 @@
+{
+  "name": "A17B",
+  "route": [
+    {
+      "title": "D ST, SUMMER ST to FARGO ST",
+      "coords": [
+        {
+          "lat": 42.3463359,
+          "lng": -71.0421475
+        },
+        {
+          "lat": 42.3455608,
+          "lng": -71.0430346
+        }
+      ]
+    },
+    {
+      "title": "FARGO ST, E ST to D ST",
+      "coords": [
+        {
+          "lat": 42.34455,
+          "lng": -71.0414237
+        },
+        {
+          "lat": 42.3455608,
+          "lng": -71.0430346
+        }
+      ]
+    },
+    {
+      "title": "MEDALLION AVE, BINFORD ST to P.O. PARKING LOT",
+      "coords": [
+        {
+          "lat": 42.346502,
+          "lng": -71.050111
+        },
+        {
+          "lat": 42.3447108,
+          "lng": -71.0515112
+        }
+      ]
+    },
+    {
+      "title": "MELCHER ST, SUMMER ST to A ST",
+      "coords": [
+        {
+          "lat": 42.3506106,
+          "lng": -71.0509553
+        },
+        {
+          "lat": 42.3490678,
+          "lng": -71.0494738
+        }
+      ]
+    },
+    {
+      "title": "BINFORD ST, A ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3469725,
+          "lng": -71.05110669999999
+        },
+        {
+          "lat": 42.3469725,
+          "lng": -71.05110669999999
+        }
+      ]
+    },
+    {
+      "title": "A ST, MT WASHINGTON to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3465194,
+          "lng": -71.05147649999999
+        },
+        {
+          "lat": 42.3503576,
+          "lng": -71.04845519999999
+        }
+      ]
+    },
+    {
+      "title": "DORCHESTER AVE, CONGRESS ST to SUMMER ST",
+      "coords": [
+        {
+          "lat": 42.3523691,
+          "lng": -71.05224249999999
+        },
+        {
+          "lat": 42.3514898,
+          "lng": -71.0528599
+        }
+      ]
+    },
+    {
+      "title": "SUMMER ST, ATLANTIC AVE to D ST",
+      "coords": [
+        {
+          "lat": 42.3525886,
+          "lng": -71.0554465
+        },
+        {
+          "lat": 42.3463359,
+          "lng": -71.0421475
+        }
+      ]
+    }
+  ]
+}

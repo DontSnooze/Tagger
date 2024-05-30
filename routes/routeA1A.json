@@ -1,0 +1,187 @@
+{
+  "name": "A1A",
+  "route": [
+    {
+      "title": "NORTH , COMMERCIAL  to FLEET ",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "HANOVER (ES), COMMERCIAL  to FLEET ",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "FOSTER ST LOT, FOSTER  to FOSTER ",
+      "coords": [
+        {
+          "lat": 42.345584,
+          "lng": -71.1578025
+        },
+        {
+          "lat": 42.345584,
+          "lng": -71.1578025
+        }
+      ]
+    },
+    {
+      "title": "CLARK , HANOVER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3639617,
+          "lng": -71.0542931
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "BATTERY , HANOVER  to BATTERY WHARF",
+      "coords": [
+        {
+          "lat": 42.3662619,
+          "lng": -71.0527704
+        },
+        {
+          "lat": 42.3668007,
+          "lng": -71.0508917
+        }
+      ]
+    },
+    {
+      "title": "COMMERCIAL (BS), ATLANTIC  to NO WASHINGTON ",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3677564,
+          "lng": -71.0592058
+        }
+      ]
+    },
+    {
+      "title": "FOSTER , CHARTER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3671509,
+          "lng": -71.0545068
+        },
+        {
+          "lat": 42.3677306,
+          "lng": -71.0540367
+        }
+      ]
+    },
+    {
+      "title": "HENCHMEN, COMMERCIAL  to CHARTER ",
+      "coords": [
+        {
+          "lat": 42.367504,
+          "lng": -71.053426
+        },
+        {
+          "lat": 42.3669187,
+          "lng": -71.05397649999999
+        }
+      ]
+    },
+    {
+      "title": "HANOVER AVE, HANOVER  to NORTH ",
+      "coords": [
+        {
+          "lat": 42.3658461,
+          "lng": -71.0528547
+        },
+        {
+          "lat": 42.3657566,
+          "lng": -71.0522471
+        }
+      ]
+    },
+    {
+      "title": "SALUTATION , HANOVER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3660624,
+          "lng": -71.0528099
+        },
+        {
+          "lat": 42.3661831,
+          "lng": -71.0513246
+        }
+      ]
+    },
+    {
+      "title": "HARRIS , HANOVER  to NORTH ",
+      "coords": [
+        {
+          "lat": 42.3639617,
+          "lng": -71.0542931
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "HANOVER (WS), CHARTER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        },
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        }
+      ]
+    },
+    {
+      "title": "CHARTER, HANOVER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3658461,
+          "lng": -71.0528547
+        },
+        {
+          "lat": 42.36822,
+          "lng": -71.05664689999999
+        }
+      ]
+    },
+    {
+      "title": "FLEET (NS), HANOVER  to COMMERCIAL ",
+      "coords": [
+        {
+          "lat": 42.3639617,
+          "lng": -71.0542931
+        },
+        {
+          "lat": 42.238849,
+          "lng": -71.1353808
+        }
+      ]
+    }
+  ]
+}

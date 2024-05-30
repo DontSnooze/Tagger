@@ -1,0 +1,148 @@
+{
+  "name": "E6",
+  "route": [
+    {
+      "title": "SAN JUAN, SHAWMUT AVE to SHAWMUT AVE",
+      "coords": [
+        {
+          "lat": 42.3400266,
+          "lng": -71.0739923
+        },
+        {
+          "lat": 42.3400266,
+          "lng": -71.0739923
+        }
+      ]
+    },
+    {
+      "title": "AQUADILLA, TREMONT ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3423865,
+          "lng": -71.074587
+        },
+        {
+          "lat": 42.3423865,
+          "lng": -71.074587
+        }
+      ]
+    },
+    {
+      "title": "NEWLAND ST, SAN JUAN to WEST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3411469,
+          "lng": -71.0730931
+        },
+        {
+          "lat": 42.3399448,
+          "lng": -71.0748976
+        }
+      ]
+    },
+    {
+      "title": "SHAWMUT AVE, WEST DEDHAM ST to WEST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3413012,
+          "lng": -71.07205739999999
+        },
+        {
+          "lat": 42.3396502,
+          "lng": -71.0745603
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST, WEST NEWTON ST to WEST DEDHAM ST",
+      "coords": [
+        {
+          "lat": 42.3388596,
+          "lng": -71.07360249999999
+        },
+        {
+          "lat": 42.3407293,
+          "lng": -71.0707892
+        }
+      ]
+    },
+    {
+      "title": "WEST BROOKLINE ST, TREMONT ST to AQUADILLA",
+      "coords": [
+        {
+          "lat": 42.3419952,
+          "lng": -71.0753263
+        },
+        {
+          "lat": 42.3414767,
+          "lng": -71.0747232
+        }
+      ]
+    },
+    {
+      "title": "PELHAM ST, WASHINGTON ST to SHAWMUT AVE",
+      "coords": [
+        {
+          "lat": 42.3588422,
+          "lng": -71.0578337
+        },
+        {
+          "lat": 42.3415826,
+          "lng": -71.0715912
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST (ES), WEST DEDHAM ST to WEST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.3415809,
+          "lng": -71.0723885
+        },
+        {
+          "lat": 42.3422638,
+          "lng": -71.0774708
+        }
+      ]
+    },
+    {
+      "title": "WEST NEWTON ST (SS), WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.3422638,
+          "lng": -71.0774708
+        }
+      ]
+    },
+    {
+      "title": "WEST BROOKLINE ST, SHAWMUT AVE to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3403988,
+          "lng": -71.0734392
+        },
+        {
+          "lat": 42.3396115,
+          "lng": -71.07248530000001
+        }
+      ]
+    },
+    {
+      "title": "WEST DEDHAM ST, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3407293,
+          "lng": -71.0707892
+        },
+        {
+          "lat": 42.3428113,
+          "lng": -71.0737802
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "name": "F5",
+  "route": [
+    {
+      "title": "WASHINGTON ST, MONASTERY ROAD to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3461139,
+          "lng": -71.1462662
+        },
+        {
+          "lat": 42.34900700000001,
+          "lng": -71.1504104
+        }
+      ]
+    },
+    {
+      "title": "NEVINS ST, CAMBRIDGE ST to PRIVATE PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3500661,
+          "lng": -71.1464326
+        },
+        {
+          "lat": 42.348576,
+          "lng": -71.1470694
+        }
+      ]
+    },
+    {
+      "title": "*SPARHAWK ST, CAMBRIDGE ST to MARKET ST",
+      "coords": [
+        {
+          "lat": 42.35017089999999,
+          "lng": -71.1471055
+        },
+        {
+          "lat": 42.3516567,
+          "lng": -71.15192189999999
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST, CAMBRIDGE ST to FOSTER ST",
+      "coords": [
+        {
+          "lat": 42.34900700000001,
+          "lng": -71.1504104
+        },
+        {
+          "lat": 42.3490825,
+          "lng": -71.1570744
+        }
+      ]
+    },
+    {
+      "title": "UNION ST, MONASTERY ROAD to CHESTNUT HILL AVE",
+      "coords": [
+        {
+          "lat": 42.3448388,
+          "lng": -71.1473463
+        },
+        {
+          "lat": 42.3361853,
+          "lng": -71.1510687
+        }
+      ]
+    },
+    {
+      "title": "ELKO ST, CAMBRIDGE ST to SPARHAWK ST",
+      "coords": [
+        {
+          "lat": 42.3494298,
+          "lng": -71.1489924
+        },
+        {
+          "lat": 42.3507216,
+          "lng": -71.1490492
+        }
+      ]
+    },
+    {
+      "title": "CAMBRIDGE ST, WASHINGTON ST to NEVINS ST",
+      "coords": [
+        {
+          "lat": 42.3821448,
+          "lng": -71.0808691
+        },
+        {
+          "lat": 42.3500661,
+          "lng": -71.1464326
+        }
+      ]
+    },
+    {
+      "title": "BENTLEY ST, HENSHAW ST to SPARHAWK ST",
+      "coords": [
+        {
+          "lat": 42.3499003,
+          "lng": -71.1515008
+        },
+        {
+          "lat": 42.3513334,
+          "lng": -71.1509495
+        }
+      ]
+    },
+    {
+      "title": "SURREY ST, MARKET ST to FOSTER ST",
+      "coords": [
+        {
+          "lat": 42.3498909,
+          "lng": -71.153059
+        },
+        {
+          "lat": 42.3508927,
+          "lng": -71.1569188
+        }
+      ]
+    },
+    {
+      "title": "WIRT ST, WASHINGTON ST to HENSHAW ST",
+      "coords": [
+        {
+          "lat": 42.3490057,
+          "lng": -71.1509813
+        },
+        {
+          "lat": 42.3498395,
+          "lng": -71.15090330000001
+        }
+      ]
+    },
+    {
+      "title": "FOSTER ST, WASHINGTON ST to SURREY ST",
+      "coords": [
+        {
+          "lat": 42.3490825,
+          "lng": -71.1570744
+        },
+        {
+          "lat": 42.3508927,
+          "lng": -71.1569188
+        }
+      ]
+    },
+    {
+      "title": "WALDO TERR, WASHINGTON ST to HENSHAW ST",
+      "coords": [
+        {
+          "lat": 42.3490463,
+          "lng": -71.1520919
+        },
+        {
+          "lat": 42.3499358,
+          "lng": -71.1519981
+        }
+      ]
+    },
+    {
+      "title": "MENLO ST, HENSHAW ST to SPARHAWK ST",
+      "coords": [
+        {
+          "lat": 42.3498212,
+          "lng": -71.1505766
+        },
+        {
+          "lat": 42.351115,
+          "lng": -71.150274
+        }
+      ]
+    },
+    {
+      "title": "SNOW ST , UNION ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.345348,
+          "lng": -71.14940469999999
+        },
+        {
+          "lat": 42.3470185,
+          "lng": -71.14834689999999
+        }
+      ]
+    },
+    {
+      "title": "SHANNON ST, UNION ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3455599,
+          "lng": -71.1502569
+        },
+        {
+          "lat": 42.3474685,
+          "lng": -71.14903199999999
+        }
+      ]
+    },
+    {
+      "title": "MARKET ST, SPARHAWK ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3516567,
+          "lng": -71.15192189999999
+        },
+        {
+          "lat": 42.3491084,
+          "lng": -71.1534289
+        }
+      ]
+    },
+    {
+      "title": "WINSHIP ST, UNION ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3460958,
+          "lng": -71.1524494
+        },
+        {
+          "lat": 42.3489953,
+          "lng": -71.1506953
+        }
+      ]
+    },
+    {
+      "title": "LEICESTER ST, SURREY ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3503488,
+          "lng": -71.1543581
+        },
+        {
+          "lat": 42.3491314,
+          "lng": -71.1546168
+        }
+      ]
+    },
+    {
+      "title": "PARSONS ST, SURREY ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3505985,
+          "lng": -71.1552885
+        },
+        {
+          "lat": 42.3491084,
+          "lng": -71.1557677
+        }
+      ]
+    },
+    {
+      "title": "SHEPARD ST, UNION ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3458055,
+          "lng": -71.1512465
+        },
+        {
+          "lat": 42.348163,
+          "lng": -71.14972449999999
+        }
+      ]
+    },
+    {
+      "title": "HENSHAW ST, CAMBRIDGE ST to MARKET ST",
+      "coords": [
+        {
+          "lat": 42.349194,
+          "lng": -71.1495885
+        },
+        {
+          "lat": 42.3500303,
+          "lng": -71.15296040000001
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "name": "E5A",
+  "route": [
+    {
+      "title": "TREMONT ST, MASS AVE to WEST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.339276,
+          "lng": -71.0802703
+        },
+        {
+          "lat": 42.3413308,
+          "lng": -71.0765447
+        }
+      ]
+    },
+    {
+      "title": "CHESTER PARK, MASS AVE to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3381834,
+          "lng": -71.07893299999999
+        },
+        {
+          "lat": 42.3381834,
+          "lng": -71.07893299999999
+        }
+      ]
+    },
+    {
+      "title": "WORCESTER ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3401342,
+          "lng": -71.07884969999999
+        },
+        {
+          "lat": 42.3374431,
+          "lng": -71.0756485
+        }
+      ]
+    },
+    {
+      "title": "MASS AVE, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3364645,
+          "lng": -71.0770129
+        },
+        {
+          "lat": 42.339276,
+          "lng": -71.0802703
+        }
+      ]
+    },
+    {
+      "title": "WEST SPRINGFIELD ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.339656,
+          "lng": -71.079551
+        },
+        {
+          "lat": 42.336972,
+          "lng": -71.0763053
+        }
+      ]
+    },
+    {
+      "title": "WEST NEWTON ST, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3388596,
+          "lng": -71.07360249999999
+        },
+        {
+          "lat": 42.3413308,
+          "lng": -71.0765447
+        }
+      ]
+    },
+    {
+      "title": "RUTLAND ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3409295,
+          "lng": -71.0773135
+        },
+        {
+          "lat": 42.3384079,
+          "lng": -71.0742803
+        }
+      ]
+    },
+    {
+      "title": "SHAWMUT AVE, WEST NEWTON ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3396502,
+          "lng": -71.0745603
+        },
+        {
+          "lat": 42.3373814,
+          "lng": -71.0779822
+        }
+      ]
+    },
+    {
+      "title": "NEWLAND ST, WEST SPRINGFIELD ST to WEST NEWTON ST",
+      "coords": [
+        {
+          "lat": 42.338085,
+          "lng": -71.07767539999999
+        },
+        {
+          "lat": 42.3399448,
+          "lng": -71.0748976
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST, WEST NEWTON ST to MASS AVE",
+      "coords": [
+        {
+          "lat": 42.3388596,
+          "lng": -71.07360249999999
+        },
+        {
+          "lat": 42.3364645,
+          "lng": -71.0770129
+        }
+      ]
+    },
+    {
+      "title": "WEST CONCORD ST, TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3405202,
+          "lng": -71.0780659
+        },
+        {
+          "lat": 42.337936,
+          "lng": -71.0749768
+        }
+      ]
+    }
+  ]
+}

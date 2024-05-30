@@ -1,0 +1,148 @@
+{
+  "name": "A19",
+  "route": [
+    {
+      "title": "COLUMBIA, ESSEX to BEDFORD",
+      "coords": [
+        {
+          "lat": 42.3525088,
+          "lng": -71.0593808
+        },
+        {
+          "lat": 42.3533251,
+          "lng": -71.0590928
+        }
+      ]
+    },
+    {
+      "title": "ESSEX (NS), WASHINGTON to LINCOLN",
+      "coords": [
+        {
+          "lat": 45.07784729999999,
+          "lng": -63.5466822
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON (ES), SUMMER to ESSEX",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "SUMMER (SS), WASHINGTON to LINCOLN",
+      "coords": [
+        {
+          "lat": 42.2858098,
+          "lng": -71.1284956
+        },
+        {
+          "lat": 42.33631500000001,
+          "lng": -71.047597
+        }
+      ]
+    },
+    {
+      "title": "KINGSTON, ESSEX to SUMMER",
+      "coords": [
+        {
+          "lat": 42.3525088,
+          "lng": -71.05938080000001
+        },
+        {
+          "lat": 42.3541079,
+          "lng": -71.05862739999999
+        }
+      ]
+    },
+    {
+      "title": "CHAUNCY, ESSEX to SUMMER",
+      "coords": [
+        {
+          "lat": 42.3525299,
+          "lng": -71.0611346
+        },
+        {
+          "lat": 42.3544981,
+          "lng": -71.0591457
+        }
+      ]
+    },
+    {
+      "title": "BEDFORD, CHAUNCY to LINCOLN",
+      "coords": [
+        {
+          "lat": 42.3536091,
+          "lng": -71.0602804
+        },
+        {
+          "lat": 42.3533172,
+          "lng": -71.057842
+        }
+      ]
+    },
+    {
+      "title": "LINCOLN, ESSEX to BEDFORD",
+      "coords": [
+        {
+          "lat": 42.3523716,
+          "lng": -71.05799209999999
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "HARRISON AVE EXT, AVE DE LAFAYETTE to ESSEX",
+      "coords": [
+        {
+          "lat": 42.3534695,
+          "lng": -71.06131210000001
+        },
+        {
+          "lat": 42.3525047,
+          "lng": -71.0614014
+        }
+      ]
+    },
+    {
+      "title": "AVE DE LAFAYETTE, WASHINGTON to KINGSTON",
+      "coords": [
+        {
+          "lat": 42.3538893,
+          "lng": -71.06215019999999
+        },
+        {
+          "lat": 42.3527411,
+          "lng": -71.0594187
+        }
+      ]
+    },
+    {
+      "title": "HAYWARD PL, HARRISON AVE EXT to WASHINGTON",
+      "coords": [
+        {
+          "lat": 42.3531343,
+          "lng": -71.06143469999999
+        },
+        {
+          "lat": 42.3530937,
+          "lng": -71.0625259
+        }
+      ]
+    }
+  ]
+}

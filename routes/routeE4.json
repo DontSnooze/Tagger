@@ -1,0 +1,148 @@
+{
+  "name": "E4",
+  "route": [
+    {
+      "title": "CHANDLER ST, CLARENDON ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.34639629999999,
+          "lng": -71.073106
+        },
+        {
+          "lat": 42.34639629999999,
+          "lng": -71.073106
+        }
+      ]
+    },
+    {
+      "title": "ST CHARLES ST, CHANDLER ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3467399,
+          "lng": -71.0718184
+        },
+        {
+          "lat": 42.3467399,
+          "lng": -71.0718184
+        }
+      ]
+    },
+    {
+      "title": "CAZENOVE, CHANDLER ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.346584,
+          "lng": -71.0724247
+        },
+        {
+          "lat": 42.346584,
+          "lng": -71.0724247
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST (WS), HERALD ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        }
+      ]
+    },
+    {
+      "title": "BERKELEY ST (BS), TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3451704,
+          "lng": -71.0697842
+        },
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        }
+      ]
+    },
+    {
+      "title": "CLARENDON ST (NS), TREMONT ST to COLUMBUS AVE",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    },
+    {
+      "title": "APPLETON ST, CLARENDON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3456841,
+          "lng": -71.07275010000001
+        },
+        {
+          "lat": 42.3465382,
+          "lng": -71.0691382
+        }
+      ]
+    },
+    {
+      "title": "LAWRENCE ST, BERKELEY ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3466941,
+          "lng": -71.0708265
+        },
+        {
+          "lat": 42.346111,
+          "lng": -71.072974
+        }
+      ]
+    },
+    {
+      "title": "GRAY ST, BERKELEY ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3458587,
+          "lng": -71.07042799999999
+        },
+        {
+          "lat": 42.345282,
+          "lng": -71.072564
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS AVE (ES), BERKELEY ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        },
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        }
+      ]
+    },
+    {
+      "title": "WARREN ST (BS), BERKELEY ST to CLARENDON ST",
+      "coords": [
+        {
+          "lat": 42.3504366,
+          "lng": -71.0726569
+        },
+        {
+          "lat": 42.3494172,
+          "lng": -71.0745911
+        }
+      ]
+    }
+  ]
+}

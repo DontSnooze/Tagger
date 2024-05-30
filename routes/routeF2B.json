@@ -1,0 +1,304 @@
+{
+  "name": "F2B",
+  "route": [
+    {
+      "title": "BRIGHTON AVE, HARVARD AVE to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.353056,
+          "lng": -71.132106
+        },
+        {
+          "lat": 42.353536,
+          "lng": -71.1374348
+        }
+      ]
+    },
+    {
+      "title": "IMRIE ROAD, CAMBRIDGE ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3529981,
+          "lng": -71.1389908
+        },
+        {
+          "lat": 42.3529981,
+          "lng": -71.1389908
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (NS), HARVARD AVE to WARREN ST",
+      "coords": [
+        {
+          "lat": 42.3520069,
+          "lng": -71.1318014
+        },
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        }
+      ]
+    },
+    {
+      "title": "RIDGEMONT ST, GORDON ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3515008,
+          "lng": -71.14008609999999
+        },
+        {
+          "lat": 42.3515008,
+          "lng": -71.14008609999999
+        }
+      ]
+    },
+    {
+      "title": "WEBLEY ST, ARMINGTON ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3525239,
+          "lng": -71.1372389
+        },
+        {
+          "lat": 42.3525239,
+          "lng": -71.1372389
+        }
+      ]
+    },
+    {
+      "title": "ARMINGTON ST, IMRIE ROAD to ISLINGTON ST",
+      "coords": [
+        {
+          "lat": 42.352293,
+          "lng": -71.1387158
+        },
+        {
+          "lat": 42.3526455,
+          "lng": -71.1366075
+        }
+      ]
+    },
+    {
+      "title": "WARREN ST, COMM AVE to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.34861,
+          "lng": -71.14023399999999
+        },
+        {
+          "lat": 42.35017089999999,
+          "lng": -71.1471055
+        }
+      ]
+    },
+    {
+      "title": "CAMBRIDGE ST, WARREN ST to BRIGHTON AVE",
+      "coords": [
+        {
+          "lat": 42.35017089999999,
+          "lng": -71.1471055
+        },
+        {
+          "lat": 42.353536,
+          "lng": -71.1374348
+        }
+      ]
+    },
+    {
+      "title": "ISLINGTON ST, ARMINGTON ST to BRIGHTON AVE",
+      "coords": [
+        {
+          "lat": 42.3526455,
+          "lng": -71.1366075
+        },
+        {
+          "lat": 42.3534395,
+          "lng": -71.136798
+        }
+      ]
+    },
+    {
+      "title": "QUINT AVE, BRIGHTON AVE to GLENVILLE AVE",
+      "coords": [
+        {
+          "lat": 42.3531799,
+          "lng": -71.134024
+        },
+        {
+          "lat": 42.3503135,
+          "lng": -71.1332551
+        }
+      ]
+    },
+    {
+      "title": "SPOFFORD ROAD, COMM AVE to GLENVILLE AVE",
+      "coords": [
+        {
+          "lat": 42.349592,
+          "lng": -71.13296559999999
+        },
+        {
+          "lat": 42.3502019,
+          "lng": -71.1334948
+        }
+      ]
+    },
+    {
+      "title": "PRICE ROAD, LONG AVE to GLENVILLE AVE",
+      "coords": [
+        {
+          "lat": 42.3499645,
+          "lng": -71.13562879999999
+        },
+        {
+          "lat": 42.3495383,
+          "lng": -71.1346981
+        }
+      ]
+    },
+    {
+      "title": "HIGGINS ST, ALLSTON ST to BRIGHTON AVE",
+      "coords": [
+        {
+          "lat": 42.3523813,
+          "lng": -71.135098
+        },
+        {
+          "lat": 42.3533741,
+          "lng": -71.1356393
+        }
+      ]
+    },
+    {
+      "title": "BARROWS ST, CAMBRIDGE ST to ARMINGTON ST",
+      "coords": [
+        {
+          "lat": 42.35322379999999,
+          "lng": -71.1383267
+        },
+        {
+          "lat": 42.3524035,
+          "lng": -71.13801389999999
+        }
+      ]
+    },
+    {
+      "title": "ELEANOR ST, RIDGEMONT ST to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3510904,
+          "lng": -71.142825
+        },
+        {
+          "lat": 42.3516436,
+          "lng": -71.1429953
+        }
+      ]
+    },
+    {
+      "title": "GREYLOCK ROAD, ALLSTON ST to GLENVILLE AVE",
+      "coords": [
+        {
+          "lat": 42.3507983,
+          "lng": -71.1361552
+        },
+        {
+          "lat": 42.3500611,
+          "lng": -71.1337954
+        }
+      ]
+    },
+    {
+      "title": "GLENVILLE AVE, HARVARD AVE to ALLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3511603,
+          "lng": -71.1314475
+        },
+        {
+          "lat": 42.3492741,
+          "lng": -71.1372058
+        }
+      ]
+    },
+    {
+      "title": "PARKVALE AVE, BRIGHTON AVE to GLENVILLE AVE",
+      "coords": [
+        {
+          "lat": 42.3530772,
+          "lng": -71.1331591
+        },
+        {
+          "lat": 42.35067,
+          "lng": -71.132516
+        }
+      ]
+    },
+    {
+      "title": "HIGH ROCK WAY, GORDON ST to IMRIE ROAD",
+      "coords": [
+        {
+          "lat": 42.3516758,
+          "lng": -71.14008609999999
+        },
+        {
+          "lat": 42.351477,
+          "lng": -71.1383694
+        }
+      ]
+    },
+    {
+      "title": "ALLSTON ST, COMM AVE to BRIGHTON AVE",
+      "coords": [
+        {
+          "lat": 42.3483343,
+          "lng": -71.13779199999999
+        },
+        {
+          "lat": 42.3533439,
+          "lng": -71.1344414
+        }
+      ]
+    },
+    {
+      "title": "LONG AVE, COMM AVE to ALLSTON ST",
+      "coords": [
+        {
+          "lat": 42.3484945,
+          "lng": -71.13528
+        },
+        {
+          "lat": 42.3504041,
+          "lng": -71.136395
+        }
+      ]
+    },
+    {
+      "title": "CAMELOT COURT, WARREN ST to GORDON ST",
+      "coords": [
+        {
+          "lat": 42.34918020000001,
+          "lng": -71.14138679999999
+        },
+        {
+          "lat": 42.3503501,
+          "lng": -71.14007219999999
+        }
+      ]
+    },
+    {
+      "title": "GORDON ST, CAMBRIDGE ST to COMM AVE",
+      "coords": [
+        {
+          "lat": 42.3525448,
+          "lng": -71.1402765
+        },
+        {
+          "lat": 42.3489802,
+          "lng": -71.139714
+        }
+      ]
+    }
+  ]
+}

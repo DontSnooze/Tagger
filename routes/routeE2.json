@@ -1,0 +1,187 @@
+{
+  "name": "E2",
+  "route": [
+    {
+      "title": "TREMONT ST, CHARLES ST SO to MARGINAL ROAD",
+      "coords": [
+        {
+          "lat": 42.3487853,
+          "lng": -71.0666322
+        },
+        {
+          "lat": 42.3479984,
+          "lng": -71.0680094
+        }
+      ]
+    },
+    {
+      "title": "PIEDMONT ST, ARLINGTON ST to BROADWAY",
+      "coords": [
+        {
+          "lat": 42.34965820000001,
+          "lng": -71.0697204
+        },
+        {
+          "lat": 42.3500896,
+          "lng": -71.0673557
+        }
+      ]
+    },
+    {
+      "title": "BROADWAY, PIEDMONT ST to MELROSE",
+      "coords": [
+        {
+          "lat": 42.3500896,
+          "lng": -71.0673557
+        },
+        {
+          "lat": 42.3496347,
+          "lng": -71.0669178
+        }
+      ]
+    },
+    {
+      "title": "WINCHESTER ST, ARLINGTON ST to BROADWAY",
+      "coords": [
+        {
+          "lat": 42.3493481,
+          "lng": -71.06961849999999
+        },
+        {
+          "lat": 42.3498718,
+          "lng": -71.06719
+        }
+      ]
+    },
+    {
+      "title": "STUART ST (SS), CHARLES ST to ARLINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3500269,
+          "lng": -71.0703664
+        },
+        {
+          "lat": 42.3500269,
+          "lng": -71.0703664
+        }
+      ]
+    },
+    {
+      "title": "ISABELLA ST, COLUMBUS AVE to ARLINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3488101,
+          "lng": -71.07159829999999
+        },
+        {
+          "lat": 42.3487465,
+          "lng": -71.0694218
+        }
+      ]
+    },
+    {
+      "title": "CHURCH ST, STUART ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3505059,
+          "lng": -71.0686541
+        },
+        {
+          "lat": 42.3482829,
+          "lng": -71.06752929999999
+        }
+      ]
+    },
+    {
+      "title": "SHAWMUT AVE, PIEDMONT ST to CHURCH ST",
+      "coords": [
+        {
+          "lat": 42.3389581,
+          "lng": -71.0756059
+        },
+        {
+          "lat": 42.35021940000001,
+          "lng": -71.0685614
+        }
+      ]
+    },
+    {
+      "title": "ARLINGTON ST, MARGINAL ROAD to STUART ST",
+      "coords": [
+        {
+          "lat": 42.3480861,
+          "lng": -71.0691935
+        },
+        {
+          "lat": 42.3501267,
+          "lng": -71.0698893
+        }
+      ]
+    },
+    {
+      "title": "MELROSE ST, ARLINGTON ST to CHARLES ST SO",
+      "coords": [
+        {
+          "lat": 42.3486029,
+          "lng": -71.06938339999999
+        },
+        {
+          "lat": 42.3469082,
+          "lng": -71.0719043
+        }
+      ]
+    },
+    {
+      "title": "CHARLES ST SO (WS), TREMONT ST to STUART ST",
+      "coords": [
+        {
+          "lat": 42.350714,
+          "lng": -71.066796
+        },
+        {
+          "lat": 42.350714,
+          "lng": -71.066796
+        }
+      ]
+    },
+    {
+      "title": "COLUMBUS AVE (SS), ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        },
+        {
+          "lat": 42.3350081,
+          "lng": -71.0885664
+        }
+      ]
+    },
+    {
+      "title": "CORTES ST, ARLINGTON ST to BERKELEY ST",
+      "coords": [
+        {
+          "lat": 42.3484615,
+          "lng": -71.0693364
+        },
+        {
+          "lat": 42.3482771,
+          "lng": -71.07159279999999
+        }
+      ]
+    },
+    {
+      "title": "FAYETTE ST, ARLINGTON ST to CHARLES ST SO",
+      "coords": [
+        {
+          "lat": 42.3488295,
+          "lng": -71.067568
+        },
+        {
+          "lat": 42.3494118,
+          "lng": -71.0665015
+        }
+      ]
+    }
+  ]
+}

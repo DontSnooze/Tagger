@@ -1,0 +1,122 @@
+{
+  "name": "E1",
+  "route": [
+    {
+      "title": "SHAWMUT AVE (WS), TREMONT ST to MARGINAL ROAD",
+      "coords": [
+        {
+          "lat": 42.33841290000001,
+          "lng": -71.076041
+        },
+        {
+          "lat": 42.3389581,
+          "lng": -71.0756059
+        }
+      ]
+    },
+    {
+      "title": "BOYLSTON ST (SS), TREMONT ST to CHARLES ST SOUTH",
+      "coords": [
+        {
+          "lat": 42.3525917,
+          "lng": -71.0646778
+        },
+        {
+          "lat": 42.3525917,
+          "lng": -71.0646778
+        }
+      ]
+    },
+    {
+      "title": "SEAVER PLACE, TREMONT ST to PRIVATE PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3502235,
+          "lng": -71.0651687
+        },
+        {
+          "lat": 42.3502844,
+          "lng": -71.0656543
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST  , SHAWMUT AVE to CHARLES ST SOUTH",
+      "coords": [
+        {
+          "lat": 42.3486156,
+          "lng": -71.0655192
+        },
+        {
+          "lat": 42.3487853,
+          "lng": -71.0666322
+        }
+      ]
+    },
+    {
+      "title": "WARRENTON ST, STUART ST to CHARLES ST SOUTH",
+      "coords": [
+        {
+          "lat": 42.3510616,
+          "lng": -71.0660707
+        },
+        {
+          "lat": 42.3496859,
+          "lng": -71.0665648
+        }
+      ]
+    },
+    {
+      "title": "STUART ST, TREMONT ST to CHARLES ST SOUTH",
+      "coords": [
+        {
+          "lat": 42.3510503,
+          "lng": -71.0649358
+        },
+        {
+          "lat": 42.350941,
+          "lng": -71.0668638
+        }
+      ]
+    },
+    {
+      "title": "MARGINAL ROAD, SHAWMUT AVE to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3476657,
+          "lng": -71.06570789999999
+        },
+        {
+          "lat": 42.3479984,
+          "lng": -71.0680094
+        }
+      ]
+    },
+    {
+      "title": "CHARLES ST SO (ES), BOYLSTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3301327,
+          "lng": -71.1258976
+        },
+        {
+          "lat": 42.350714,
+          "lng": -71.066796
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST (WS), BOYLSTON ST to SHAWMUT AVE",
+      "coords": [
+        {
+          "lat": 42.3475995,
+          "lng": -71.0685283
+        },
+        {
+          "lat": 42.34345,
+          "lng": -71.06869019999999
+        }
+      ]
+    }
+  ]
+}

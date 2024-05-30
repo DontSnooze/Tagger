@@ -1,0 +1,174 @@
+{
+  "name": "A10",
+  "route": [
+    {
+      "title": "COURT SQUARE, COURT ST to COURT ST",
+      "coords": [
+        {
+          "lat": 42.3589924,
+          "lng": -71.0586319
+        },
+        {
+          "lat": 42.3589924,
+          "lng": -71.0586319
+        }
+      ]
+    },
+    {
+      "title": "BOSWORTH, TREMONT ST to CHAPMAN",
+      "coords": [
+        {
+          "lat": 42.3573721,
+          "lng": -71.0610634
+        },
+        {
+          "lat": 42.357027,
+          "lng": -71.06038389999999
+        }
+      ]
+    },
+    {
+      "title": "COURT ST, WASHINGTON ST to CAMBRIDGE ST",
+      "coords": [
+        {
+          "lat": 42.3588422,
+          "lng": -71.0578337
+        },
+        {
+          "lat": 42.359633,
+          "lng": -71.0597776
+        }
+      ]
+    },
+    {
+      "title": "PROVINCE ST, SCHOOL ST to BROMFIELD",
+      "coords": [
+        {
+          "lat": 42.3576923,
+          "lng": -71.0593676
+        },
+        {
+          "lat": 42.356721,
+          "lng": -71.06025509999999
+        }
+      ]
+    },
+    {
+      "title": "TREMONT ST, WINTER  to COURT ST",
+      "coords": [
+        {
+          "lat": 42.3562686,
+          "lng": -71.06227539999999
+        },
+        {
+          "lat": 42.3592388,
+          "lng": -71.05936679999999
+        }
+      ]
+    },
+    {
+      "title": "SOMERSET ST, CAMBRIDGE ST to BEACON ST",
+      "coords": [
+        {
+          "lat": 42.3608662,
+          "lng": -71.0613163
+        },
+        {
+          "lat": 42.3582931,
+          "lng": -71.06149409999999
+        }
+      ]
+    },
+    {
+      "title": "CHAPMAN PLACE, BOSWORTH to SCHOOL ST",
+      "coords": [
+        {
+          "lat": 42.357027,
+          "lng": -71.06038389999999
+        },
+        {
+          "lat": 42.3578223,
+          "lng": -71.0597078
+        }
+      ]
+    },
+    {
+      "title": "PARK ST, BEACON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3577293,
+          "lng": -71.06319909999999
+        },
+        {
+          "lat": 42.356509,
+          "lng": -71.0620091
+        }
+      ]
+    },
+    {
+      "title": "SCHOOL ST, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3574093,
+          "lng": -71.05832989999999
+        },
+        {
+          "lat": 42.3580141,
+          "lng": -71.0604374
+        }
+      ]
+    },
+    {
+      "title": "BROMFIELD, WASHINGTON ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3563674,
+          "lng": -71.0594644
+        },
+        {
+          "lat": 42.3571687,
+          "lng": -71.0612732
+        }
+      ]
+    },
+    {
+      "title": "BEACON ST, PARK ST to TREMONT ST",
+      "coords": [
+        {
+          "lat": 42.3577293,
+          "lng": -71.06319909999999
+        },
+        {
+          "lat": 42.3580141,
+          "lng": -71.0604374
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST (WS), WINTER  to COURT ST",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        }
+      ]
+    },
+    {
+      "title": "WINTER (NS), TREMONT ST to WASHINGTON ST",
+      "coords": [
+        {
+          "lat": 42.3484915,
+          "lng": -71.0668156
+        },
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        }
+      ]
+    }
+  ]
+}

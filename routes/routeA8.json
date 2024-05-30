@@ -1,0 +1,135 @@
+{
+  "name": "A8",
+  "route": [
+    {
+      "title": "CHARLES ST (ES), MOUNT VERNON ST to REVERE",
+      "coords": [
+        {
+          "lat": 42.35790009999999,
+          "lng": -71.0705505
+        },
+        {
+          "lat": 42.3662886,
+          "lng": -71.0681788
+        }
+      ]
+    },
+    {
+      "title": "REVERE (ES), CHARLES ST (ES) to IRVING",
+      "coords": [
+        {
+          "lat": 42.3003975,
+          "lng": -71.0624575
+        },
+        {
+          "lat": 42.4084302,
+          "lng": -71.0119948
+        }
+      ]
+    },
+    {
+      "title": "HANCOCK, MOUNT VERNON ST to DERNE",
+      "coords": [
+        {
+          "lat": 42.3583987,
+          "lng": -71.0644474
+        },
+        {
+          "lat": 42.3593834,
+          "lng": -71.064385
+        }
+      ]
+    },
+    {
+      "title": "ANDERSON, REVERE to PINCKNEY",
+      "coords": [
+        {
+          "lat": 42.3106128,
+          "lng": -71.1109303
+        },
+        {
+          "lat": 42.3588414,
+          "lng": -71.0687136
+        }
+      ]
+    },
+    {
+      "title": "WEST CEDAR, MOUNT VERNON ST to REVERE",
+      "coords": [
+        {
+          "lat": 42.35790009999999,
+          "lng": -71.06948489999999
+        },
+        {
+          "lat": 42.359497,
+          "lng": -71.0701401
+        }
+      ]
+    },
+    {
+      "title": "MOUNT VERNON ST, CHARLES ST (ES) to JOY",
+      "coords": [
+        {
+          "lat": 42.3577769,
+          "lng": -71.0702888
+        },
+        {
+          "lat": 42.3204068,
+          "lng": -71.0498029
+        }
+      ]
+    },
+    {
+      "title": "JOY, MOUNT VERNON ST to MYRTLE",
+      "coords": [
+        {
+          "lat": 42.3583987,
+          "lng": -71.0644474
+        },
+        {
+          "lat": 42.3593492,
+          "lng": -71.0650354
+        }
+      ]
+    },
+    {
+      "title": "CEADRT LANE, MOUNT VERNON ST to CHESTNUT",
+      "coords": [
+        {
+          "lat": 42.3578527,
+          "lng": -71.0698492
+        },
+        {
+          "lat": 42.357107,
+          "lng": -71.0694662
+        }
+      ]
+    },
+    {
+      "title": "MYRTLE , REVERE to HANCOCK",
+      "coords": [
+        {
+          "lat": 42.35950829999999,
+          "lng": -71.06973479999999
+        },
+        {
+          "lat": 42.3593513,
+          "lng": -71.06438299999999
+        }
+      ]
+    },
+    {
+      "title": "PINCKNEY, CHARLES ST (ES) to JOY",
+      "coords": [
+        {
+          "lat": 42.3587858,
+          "lng": -71.0707192
+        },
+        {
+          "lat": 42.3588362,
+          "lng": -71.0650706
+        }
+      ]
+    }
+  ]
+}

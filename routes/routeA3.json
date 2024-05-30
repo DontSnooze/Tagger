@@ -1,0 +1,239 @@
+{
+  "name": "A3",
+  "route": [
+    {
+      "title": "PRINCE (ES), MARGARET  to HANOVER ",
+      "coords": [
+        {
+          "lat": 42.3658485,
+          "lng": -71.0557041
+        },
+        {
+          "lat": 42.3639617,
+          "lng": -71.0542931
+        }
+      ]
+    },
+    {
+      "title": "CROSS, HANOVER  to CAUSEWAY",
+      "coords": [
+        {
+          "lat": 42.3625486,
+          "lng": -71.0557948
+        },
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        }
+      ]
+    },
+    {
+      "title": "SALEM , SHEAFE to CROSS ",
+      "coords": [
+        {
+          "lat": 42.3659714,
+          "lng": -71.05500860000001
+        },
+        {
+          "lat": 42.3628611,
+          "lng": -71.0563616
+        }
+      ]
+    },
+    {
+      "title": "SALEM , NO BENNETT to CROSS ",
+      "coords": [
+        {
+          "lat": 42.3658691,
+          "lng": -71.0550712
+        },
+        {
+          "lat": 42.3628611,
+          "lng": -71.0563616
+        }
+      ]
+    },
+    {
+      "title": "HANOVER (WS), CROSS  to NO BENNETT",
+      "coords": [
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        },
+        {
+          "lat": 42.3655111,
+          "lng": -71.0545431
+        }
+      ]
+    },
+    {
+      "title": "NO WASHINGTON, THACHER to CROSS ",
+      "coords": [
+        {
+          "lat": 42.3652062,
+          "lng": -71.0583798
+        },
+        {
+          "lat": 42.3677564,
+          "lng": -71.0592058
+        }
+      ]
+    },
+    {
+      "title": "ENDICOTT, THACHER to CROSS ",
+      "coords": [
+        {
+          "lat": 42.3653075,
+          "lng": -71.0574106
+        },
+        {
+          "lat": 42.3633932,
+          "lng": -71.0572281
+        }
+      ]
+    },
+    {
+      "title": "LYNN , THACHER  to COOPER ",
+      "coords": [
+        {
+          "lat": 42.3653075,
+          "lng": -71.0574106
+        },
+        {
+          "lat": 42.3644525,
+          "lng": -71.0568966
+        }
+      ]
+    },
+    {
+      "title": "NO WASHINGTON , MEDFORD  to CAUSEWAY",
+      "coords": [
+        {
+          "lat": 42.365514,
+          "lng": -71.0583865
+        },
+        {
+          "lat": 42.3668926,
+          "lng": -71.05850219999999
+        }
+      ]
+    },
+    {
+      "title": "STILLMAN , SALEM  to NO WASHINGTON ",
+      "coords": [
+        {
+          "lat": 42.3636059,
+          "lng": -71.05587020000002
+        },
+        {
+          "lat": 42.3677564,
+          "lng": -71.0592058
+        }
+      ]
+    },
+    {
+      "title": "NO MARGIN, THACHER  to STILLMAN ",
+      "coords": [
+        {
+          "lat": 42.3653395,
+          "lng": -71.0567617
+        },
+        {
+          "lat": 42.3638568,
+          "lng": -71.05662079999999
+        }
+      ]
+    },
+    {
+      "title": "THACHER (SS), NO WASHINGTON  to PRINCE ST",
+      "coords": [
+        {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        {
+          "lat": 42.3655006,
+          "lng": -71.0559551
+        }
+      ]
+    },
+    {
+      "title": "PARMENTER, HANOVER  to SALEM ",
+      "coords": [
+        {
+          "lat": 42.3636425,
+          "lng": -71.05465980000001
+        },
+        {
+          "lat": 42.3641327,
+          "lng": -71.0555711
+        }
+      ]
+    },
+    {
+      "title": "NOYES PL, SALEM  to PRIVATE PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3650396,
+          "lng": -71.0554954
+        },
+        {
+          "lat": 42.3650538,
+          "lng": -71.0558576
+        }
+      ]
+    },
+    {
+      "title": "WIGET , NO MARGIN  to SALEM ",
+      "coords": [
+        {
+          "lat": 42.3641288,
+          "lng": -71.05665259999999
+        },
+        {
+          "lat": 42.3638791,
+          "lng": -71.05569059999999
+        }
+      ]
+    },
+    {
+      "title": "BARTLETT PL, SALEM  to PRIVATE PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3641142,
+          "lng": -71.0555688
+        },
+        {
+          "lat": 42.3641654,
+          "lng": -71.0558671
+        }
+      ]
+    },
+    {
+      "title": "COOPER ST, SALEM  to NO WASHINGTON ",
+      "coords": [
+        {
+          "lat": 42.364363,
+          "lng": -71.0555518
+        },
+        {
+          "lat": 42.3643489,
+          "lng": -71.0582719
+        }
+      ]
+    },
+    {
+      "title": "PRINCE (WS), THACHER to HANOVER ",
+      "coords": [
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        },
+        {
+          "lat": 42.3798651,
+          "lng": -71.0654916
+        }
+      ]
+    }
+  ]
+}

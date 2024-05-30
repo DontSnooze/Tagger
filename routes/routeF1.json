@@ -1,0 +1,109 @@
+{
+  "name": "F1",
+  "route": [
+    {
+      "title": "BABCOCK ST, COMM AVE to DEAD END",
+      "coords": [
+        {
+          "lat": 42.351863,
+          "lng": -71.1212724
+        },
+        {
+          "lat": 42.351863,
+          "lng": -71.1212724
+        }
+      ]
+    },
+    {
+      "title": "GARDNER ST, MALVERN ST to BABCOCK ST",
+      "coords": [
+        {
+          "lat": 42.353358,
+          "lng": -71.12494
+        },
+        {
+          "lat": 42.3528928,
+          "lng": -71.1210552
+        }
+      ]
+    },
+    {
+      "title": "ASHFORD ST, MALVERN ST to BABCOCK ST",
+      "coords": [
+        {
+          "lat": 42.3542836,
+          "lng": -71.1247397
+        },
+        {
+          "lat": 42.3538184,
+          "lng": -71.12084899999999
+        }
+      ]
+    },
+    {
+      "title": "MALVERN ST (ES), BRIGHTON AVE to ASHFORD ST",
+      "coords": [
+        {
+          "lat": 42.353358,
+          "lng": -71.12494
+        },
+        {
+          "lat": 42.3543769,
+          "lng": -71.1253097
+        }
+      ]
+    },
+    {
+      "title": "ALCORN ST, COMM AVE to ASHFORD ST",
+      "coords": [
+        {
+          "lat": 42.3520951,
+          "lng": -71.12320629999999
+        },
+        {
+          "lat": 42.3540532,
+          "lng": -71.1227865
+        }
+      ]
+    },
+    {
+      "title": "HARRY AGGANIS WAY, COMM AVE to BU PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3513615,
+          "lng": -71.1185623
+        },
+        {
+          "lat": 42.3531043,
+          "lng": -71.1165682
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (SS), FULLER ST to OPP BU BRIDGE",
+      "coords": [
+        {
+          "lat": 42.3481724,
+          "lng": -71.1350352
+        },
+        {
+          "lat": 42.3526623,
+          "lng": -71.1106101
+        }
+      ]
+    },
+    {
+      "title": "COMM AVE (NS), BU BRIDGE to MALVERN ST",
+      "coords": [
+        {
+          "lat": 42.3526623,
+          "lng": -71.1106101
+        },
+        {
+          "lat": 42.353358,
+          "lng": -71.12494
+        }
+      ]
+    }
+  ]
+}

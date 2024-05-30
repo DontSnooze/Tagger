@@ -1,0 +1,187 @@
+{
+  "name": "A20",
+  "route": [
+    {
+      "title": "BEACH, WASHINGTON ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ES, ESSEX ST to KNEELAND ST",
+      "coords": [
+        {
+          "lat": 42.3525088,
+          "lng": -71.0593808
+        },
+        {
+          "lat": 42.3501859,
+          "lng": -71.0598846
+        }
+      ]
+    },
+    {
+      "title": "KINGSTON, ESSEX ST to EDINBORO",
+      "coords": [
+        {
+          "lat": 42.3525088,
+          "lng": -71.05938080000001
+        },
+        {
+          "lat": 42.3516354,
+          "lng": -71.05956189999999
+        }
+      ]
+    },
+    {
+      "title": "ESSEX ST (SS), WASHINGTON ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.2858098,
+          "lng": -71.1284956
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "TYLER, BEACH ST to KNEELAND ST",
+      "coords": [
+        {
+          "lat": 42.3511814,
+          "lng": -71.0596717
+        },
+        {
+          "lat": 42.3501859,
+          "lng": -71.0598846
+        }
+      ]
+    },
+    {
+      "title": "SURFACE ROAD (WS), KNEELAND ST to ESSEX ST",
+      "coords": [
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "OXFORD, ESSEX ST to BEACH ST",
+      "coords": [
+        {
+          "lat": 42.35256649999999,
+          "lng": -71.0606717
+        },
+        {
+          "lat": 42.3513044,
+          "lng": -71.0602857
+        }
+      ]
+    },
+    {
+      "title": "KNAPP, BEACH ST to HARRISON AVE",
+      "coords": [
+        {
+          "lat": 42.3514638,
+          "lng": -71.0621685
+        },
+        {
+          "lat": 42.3508457,
+          "lng": -71.0614374
+        }
+      ]
+    },
+    {
+      "title": "KNEELAND ST (NS), WASHINGTON ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.3501859,
+          "lng": -71.0598846
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "HUDSON, BEACH ST to KNEELAND ST",
+      "coords": [
+        {
+          "lat": 42.3512144,
+          "lng": -71.059873
+        },
+        {
+          "lat": 42.3502958,
+          "lng": -71.06026109999999
+        }
+      ]
+    },
+    {
+      "title": "PING-ON, ESSEX ST to PRIVATE PROPERTY",
+      "coords": [
+        {
+          "lat": 42.3525761,
+          "lng": -71.0601491
+        },
+        {
+          "lat": 42.3521371,
+          "lng": -71.060076
+        }
+      ]
+    },
+    {
+      "title": "KNAPP, BEACH ST to KNEELAND ST",
+      "coords": [
+        {
+          "lat": 42.3514638,
+          "lng": -71.0621685
+        },
+        {
+          "lat": 42.35083969999999,
+          "lng": -71.0621608
+        }
+      ]
+    },
+    {
+      "title": "EDINBORO, ESSEX ST to BEACH ST",
+      "coords": [
+        {
+          "lat": 42.3525529,
+          "lng": -71.0598354
+        },
+        {
+          "lat": 42.3521263,
+          "lng": -71.0597558
+        }
+      ]
+    },
+    {
+      "title": "HARRISON AVE, ESSEX ST to KNEELAND ST",
+      "coords": [
+        {
+          "lat": 42.3525047,
+          "lng": -71.0614014
+        },
+        {
+          "lat": 42.3506396,
+          "lng": -71.0615198
+        }
+      ]
+    }
+  ]
+}

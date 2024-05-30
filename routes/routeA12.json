@@ -1,0 +1,265 @@
+{
+  "name": "A12",
+  "route": [
+    {
+      "title": "SURFACE ROAD, STATE ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "CONGRESS ST, STATE ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3588726,
+          "lng": -71.0568983
+        },
+        {
+          "lat": 42.3568028,
+          "lng": -71.05632589999999
+        }
+      ]
+    },
+    {
+      "title": "HAWES, CONGRESS ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3577169,
+          "lng": -71.0564514
+        },
+        {
+          "lat": 42.3575531,
+          "lng": -71.0545985
+        }
+      ]
+    },
+    {
+      "title": "CENTRAL, BROAD ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.357754,
+          "lng": -71.053478
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "MILK ST  , ATLANTIC AVE to OLD ATLANTIC AVE",
+      "coords": [
+        {
+          "lat": 42.3587689,
+          "lng": -71.0515612
+        },
+        {
+          "lat": 42.35886929999999,
+          "lng": -71.0509239
+        }
+      ]
+    },
+    {
+      "title": "MILK ST (NS), WASHINGTON ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.358818,
+          "lng": -71.057611
+        },
+        {
+          "lat": 42.3575531,
+          "lng": -71.0545985
+        }
+      ]
+    },
+    {
+      "title": "DEVONSHIRE, STATE ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3588726,
+          "lng": -71.0568983
+        },
+        {
+          "lat": 42.3567595,
+          "lng": -71.05731329999999
+        }
+      ]
+    },
+    {
+      "title": "WASHINGTON ST (ES), STATE ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.2936815,
+          "lng": -71.1204151
+        },
+        {
+          "lat": 42.3575531,
+          "lng": -71.0545985
+        }
+      ]
+    },
+    {
+      "title": "CENTRAL, ATLANTIC AVE to OLD ATLANTIC AVE",
+      "coords": [
+        {
+          "lat": 42.3576194,
+          "lng": -71.0511537
+        },
+        {
+          "lat": 42.3592353,
+          "lng": -71.0508916
+        }
+      ]
+    },
+    {
+      "title": "PEARL ST, MILK ST to CONGRESS ST",
+      "coords": [
+        {
+          "lat": 42.3568998,
+          "lng": -71.0557482
+        },
+        {
+          "lat": 42.3901157,
+          "lng": -71.0368529
+        }
+      ]
+    },
+    {
+      "title": "BATTERY MARCH, WATER ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3579331,
+          "lng": -71.055092
+        },
+        {
+          "lat": 42.3576685,
+          "lng": -71.0544395
+        }
+      ]
+    },
+    {
+      "title": "KILBY, STATE ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3589938,
+          "lng": -71.0559215
+        },
+        {
+          "lat": 42.3571748,
+          "lng": -71.0551184
+        }
+      ]
+    },
+    {
+      "title": "STATE ST (SS), WASHINGTON ST to SURFACE ROAD",
+      "coords": [
+        {
+          "lat": 42.358818,
+          "lng": -71.057611
+        },
+        {
+          "lat": 42.352014,
+          "lng": -71.0586569
+        }
+      ]
+    },
+    {
+      "title": "INDIA ST, STATE ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3592798,
+          "lng": -71.05408229999999
+        },
+        {
+          "lat": 42.3584582,
+          "lng": -71.0532956
+        }
+      ]
+    },
+    {
+      "title": "BROAD, STATE ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3592001,
+          "lng": -71.0546708
+        },
+        {
+          "lat": 42.3579651,
+          "lng": -71.05400019999999
+        }
+      ]
+    },
+    {
+      "title": "OLD ATLANTIC AVE, MILK ST to STATE ST",
+      "coords": [
+        {
+          "lat": 42.3587689,
+          "lng": -71.0515612
+        },
+        {
+          "lat": 42.3596153,
+          "lng": -71.0517929
+        }
+      ]
+    },
+    {
+      "title": "EXCHANGE PLACE, CONGRESS ST to MILK ST",
+      "coords": [
+        {
+          "lat": 42.3580482,
+          "lng": -71.0565517
+        },
+        {
+          "lat": 42.3585737,
+          "lng": -71.0564569
+        }
+      ]
+    },
+    {
+      "title": "WATER ST, WASHINGTON ST to BROAD ST",
+      "coords": [
+        {
+          "lat": 42.3576541,
+          "lng": -71.0581073
+        },
+        {
+          "lat": 42.3583605,
+          "lng": -71.0542153
+        }
+      ]
+    },
+    {
+      "title": "STATE ST  , ATLANTIC AVE to OLD ATLANTIC AVE",
+      "coords": [
+        {
+          "lat": 42.3596153,
+          "lng": -71.0517929
+        },
+        {
+          "lat": 42.3597632,
+          "lng": -71.05096259999999
+        }
+      ]
+    },
+    {
+      "title": "ATLANTIC AVE, EAST INDIA ROW to CROSS ST",
+      "coords": [
+        {
+          "lat": 42.3578944,
+          "lng": -71.051315
+        },
+        {
+          "lat": 42.3609535,
+          "lng": -71.05282919999999
+        }
+      ]
+    }
+  ]
+}
