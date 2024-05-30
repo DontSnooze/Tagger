@@ -1,0 +1,161 @@
+{
+  "name": "D3",
+  "route": [
+    {
+      "title": "VINING ST, FRANCIS ST to DEAD END",
+      "coords": [
+        {
+          "lat": 42.3358303,
+          "lng": -71.1074521
+        },
+        {
+          "lat": 42.3358303,
+          "lng": -71.1074521
+        }
+      ]
+    },
+    {
+      "title": "DEACONESS ROAD, BINNEY ST to BROOKLINE AVE",
+      "coords": [
+        {
+          "lat": 42.3381775,
+          "lng": -71.108692
+        },
+        {
+          "lat": 42.33797,
+          "lng": -71.1083172
+        }
+      ]
+    },
+    {
+      "title": "HUNTINGTON AVE, EVANS WAY to LONGWOOD AVE",
+      "coords": [
+        {
+          "lat": 42.3367806,
+          "lng": -71.09814659999999
+        },
+        {
+          "lat": 42.3359381,
+          "lng": -71.100352
+        }
+      ]
+    },
+    {
+      "title": "FENWOOD ROAD, HUNTINGTON AVE to BROOKLINE AVE",
+      "coords": [
+        {
+          "lat": 42.33378829999999,
+          "lng": -71.1056096
+        },
+        {
+          "lat": 42.3364859,
+          "lng": -71.10978870000001
+        }
+      ]
+    },
+    {
+      "title": "LONGWOOD AVE, HUNTINGTON AVE to BROOKLINE AVE",
+      "coords": [
+        {
+          "lat": 42.3359381,
+          "lng": -71.100352
+        },
+        {
+          "lat": 42.3389133,
+          "lng": -71.10727430000001
+        }
+      ]
+    },
+    {
+      "title": "EVANS WAY, FENWAY to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3384412,
+          "lng": -71.09730669999999
+        },
+        {
+          "lat": 42.3367806,
+          "lng": -71.09814659999999
+        }
+      ]
+    },
+    {
+      "title": "BINNEY ST, LONGWOOD AVE to FENWOOD ROAD",
+      "coords": [
+        {
+          "lat": 42.3382693,
+          "lng": -71.1061508
+        },
+        {
+          "lat": 42.335816,
+          "lng": -71.1087342
+        }
+      ]
+    },
+    {
+      "title": "PALACE ROAD, LONGWOOD AVE to FENWAY",
+      "coords": [
+        {
+          "lat": 42.3361574,
+          "lng": -71.100897
+        },
+        {
+          "lat": 42.339082,
+          "lng": -71.09893300000002
+        }
+      ]
+    },
+    {
+      "title": "FRANCIS ST, HUNTINGTON AVE to BROOKLINE AVE",
+      "coords": [
+        {
+          "lat": 42.3341422,
+          "lng": -71.10463279999999
+        },
+        {
+          "lat": 42.3369704,
+          "lng": -71.1092822
+        }
+      ]
+    },
+    {
+      "title": "ST ALBANS ROAD, FRANCIS ST to HUNTINGTON AVE",
+      "coords": [
+        {
+          "lat": 42.3349497,
+          "lng": -71.1060897
+        },
+        {
+          "lat": 42.3332632,
+          "lng": -71.10707
+        }
+      ]
+    },
+    {
+      "title": "TETLOW ST, EVANS WAY to PALACE ROAD",
+      "coords": [
+        {
+          "lat": 42.3374019,
+          "lng": -71.0990558
+        },
+        {
+          "lat": 42.3377351,
+          "lng": -71.09985089999999
+        }
+      ]
+    },
+    {
+      "title": "AVE LOUIS PASTEUR, LONGWOOD AVE to FENWAY",
+      "coords": [
+        {
+          "lat": 42.3371161,
+          "lng": -71.10342399999999
+        },
+        {
+          "lat": 42.3403135,
+          "lng": -71.1007612
+        }
+      ]
+    }
+  ]
+}
