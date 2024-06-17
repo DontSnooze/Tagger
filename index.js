@@ -45,6 +45,7 @@ async function initMap() {
     }
 
     setupSideNav()
+    setupCommentsNav()
     setupGetCurrentPosition()
     monitor_position(map)
 }
@@ -82,6 +83,13 @@ function setupSideNav() {
     const navControl = document.getElementById("left-nav-control");
 
     map.controls[google.maps.ControlPosition.TOP_LEFT].push(navControl);
+}
+
+function setupCommentsNav() {
+    // Add controls to the map, allowing users to hide/show features.
+    const commentsNavControl = document.getElementById("comments-nav-control");
+
+    map.controls[google.maps.ControlPosition.TOP_LEFT].push(commentsNavControl);
 }
 
 function addLineBreak(element) {

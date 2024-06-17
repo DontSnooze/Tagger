@@ -14,10 +14,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="nav.css">
-
-    <!-- <script type="module" src="index.js"></script> -->
-    
+    <link rel="stylesheet" type="text/css" href="nav.css">    
   </head>
   <body>
     <div id="leftNav" class="sideNav">
@@ -41,12 +38,20 @@
       </div>
     </div>
 
+    <div id="commentsNav" class="sideNav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeCommentsNav()">&times;</a>
+      <div class="container giscus">
+        
+      </div>
+    </div>
+
     <div id="consoleDiv" class="console">
       <div id="consoleText" class="consoleHighlighted"></div>
     </div>
     
     <!-- Use any element to open the sidenav -->
     <button id="left-nav-control" class="map-control" onclick="openNav()">Settings</button>
+    <button id="comments-nav-control" class="map-control" onclick="openCommentsNav()">Comments</button>
     
     <div id="map">Loading...</div>
 
@@ -58,6 +63,20 @@
     <script src="settings.js"></script>    
     <script src="index.js"></script>
 
-    <!-- <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4nTBbKWNXckMt4KLNbiIBLUremHTxGXw&loading=async&callback=initMap"></script> -->
+    <script src="https://giscus.app/client.js"
+        data-repo="dontsnooze/Tagger"
+        data-repo-id="R_kgDOMAs40w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOMAs4084CgIiv"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+    </script>
   </body>
 </html>
