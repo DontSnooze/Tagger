@@ -1,5 +1,11 @@
 {
   "name": "B2",
+  "meter_g_zones": [
+    "DC",
+    "DE",
+    "MS",
+    "AB"
+  ],
   "route": [
     {
       "title": "MARLBOROUGH ST **, BERKELEY ST (WS) to CLARENDON ST",

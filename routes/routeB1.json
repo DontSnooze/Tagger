@@ -1,5 +1,11 @@
 {
   "name": "B1",
+  "meter_g_zones": [
+    "DC",
+    "DE",
+    "MS",
+    "AB"
+  ],
   "route": [
     {
       "title": "COMM AVE (OUT), ARLINGTON ST to BERKELEY ST",

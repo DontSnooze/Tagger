@@ -1,6 +1,8 @@
 var map;
 var geocoder;
 var shouldShowAreaHighlight = false
+var meterGZones = []
+var parkingMeters = []
 
 const initialPosition = { lat: 42.3507752636, lng: -71.0748797005 };
 const taggerMapId = "67a3f6d5605a8cd"
@@ -23,6 +25,8 @@ async function initMap() {
     geocoder = new google.maps.Geocoder();
     
     var colorIndex = 0
+    var meterColorIndex = 0
+    var gZoneColorsDict = []
 
     let locationsFromQuery = getLocationsFromQuery()
     getSettingsFromQuery()
@@ -38,10 +42,87 @@ async function initMap() {
         let color = colors[colorIndex]
         addMarkers(locations, color, infoWindow)
 
+        // update the gZone array, not adding duplicates (or use a set)
+        for (let i in locations.meter_g_zones) {
+            let gZone = locations.meter_g_zones[i]
+            if (!meterGZones.includes(gZone)) {
+                meterGZones.push(gZone)
+            }
+        }
+
         colorIndex++
         if (colorIndex == colors.length) {
             colorIndex = 0
         }
+    }
+
+    // add meters if wanted
+    for (let i in parkingMeters) {
+        let meter = parkingMeters[i]
+        
+        var gZone = meter.properties.G_ZONE
+
+        if (!meterGZones.includes(gZone)) {
+            continue
+        }
+        
+        let objectId = meter.properties.OBJECTID
+        let meterId = meter.properties.METER_ID
+        let blkNo = meter.properties.BLK_NO
+        let meterType = meter.properties.METER_TYPE
+        let streetName = meter.properties.STREET
+        let gPmZone = meter.properties.G_PM_ZONE
+        let gDistrict = meter.properties.G_DISTRICT
+        let gPassportZones = meter.properties.G_PASSPORT_ZONES
+        let payPolicy = meter.properties.PAY_POLICY
+
+        var color = ""
+
+        // color by gZone
+        if (gZone == null) {
+            gZone = "null"
+            gZoneColorsDict[gZone] = "Gray"
+            color = "Gray"
+        }
+
+        if (gZoneColorsDict[gZone] == null) {
+            meterColorIndex++
+
+            if (meterColorIndex >= colors.length) {
+                meterColorIndex = 0
+            }
+
+            gZoneColorsDict[gZone] = colors[meterColorIndex]
+        }
+
+        color = gZoneColorsDict[gZone]
+
+        var title = ""
+        title += "[objectId: " + objectId + "]\n"
+        title += "[meterId: " + meterId + "]\n"
+        title += "[blkNo: " + blkNo + "]\n"
+        title += "[meterType: " + meterType + "]\n"
+        title += "[streetName: " + streetName + "]\n"
+        title += "[gZone: " + gZone + "]\n"
+        title += "[gPmZone: " + gPmZone + "]\n"
+        title += "[gDistrict: " + gDistrict + "]\n"
+        title += "[gPassportZones: " + gPassportZones + "]\n"
+        title += "[payPolicy: " + payPolicy + "]\n"
+        
+
+        let geo = meter.geometry
+
+        if (!geo) {
+            console.log(i + ": geometry is null")
+            continue
+        }
+
+        var coords = geo.coordinates
+
+        let location = { lng: coords[0], lat: coords[1] }
+        
+        
+        addMeter(location, title, color, infoWindow)
     }
 
     setupSideNav()
@@ -121,6 +202,7 @@ function getSettingsFromQuery() {
 function addMarkers(locations, color, infoWindow) {
     var colorIndex = 0
     var areaMarkers = []
+
     for (let i in locations.route) {
         let path = locations.route[i]
 
@@ -143,6 +225,30 @@ function addMarkers(locations, color, infoWindow) {
 }
 
 async function addMarker(location, title, color, infoWindow) {
+    const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
+    
+    const pinBackground = new PinElement({
+        background: color,
+    });
+    
+    var marker = new AdvancedMarkerElement({
+      position: location,
+      map: map,
+      title: title,
+      content: pinBackground.element,
+      gmpClickable: true,
+    });
+
+    marker.addListener("click", ({ domEvent, latLng }) => {
+        const { target } = domEvent;
+      
+        infoWindow.close();
+        infoWindow.setContent(marker.title);
+        infoWindow.open(marker.map, marker);
+    });
+}
+
+async function addMeter(location, title, color, infoWindow) {
     const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
     
     const pinBackground = new PinElement({
@@ -344,7 +450,19 @@ function loadLocationsFromFile() {
 
 function handleLocationFinishedLoading() {
     includedLocations.sort((a, b) => a.name.localeCompare(b.name));
-    initMap();
+    loadParkingMetersFromFile()
+}
+
+function loadParkingMetersFromFile() {
+    $.getJSON("meters/Parking_Meters.geojson", function(meterData) {
+        parkingMeters = meterData.features
+        handleParkingMetersFinishedLoading()
+    })
+}
+
+function handleParkingMetersFinishedLoading() {
+    // init map
+    initMap()
 }
 
 loadLocationsFromFile()
