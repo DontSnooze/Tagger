@@ -1,8 +1,6 @@
 var map;
 var geocoder;
 var shouldShowAreaHighlight = false
-var meterGZones = []
-var parkingMeters = []
 
 const initialPosition = { lat: 42.3507752636, lng: -71.0748797005 };
 const taggerMapId = "67a3f6d5605a8cd"
@@ -251,33 +249,16 @@ async function addMarker(location, title, color, infoWindow) {
 async function addMeter(location, title, color, infoWindow) {
     const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
     
-    // const icon = document.createElement('img');
-    // icon.src = 'images/meter-dot-white-black.png';
-
-
-    const parser = new DOMParser();
-
-    // A marker with a custom inline SVG.
-
-    var iconStrokeColor = "black"
-    var iconStrokeColorOpacity = "0.1"
-
-    // change this color based off time - 6pm or 8pm? or more!
-    var iconFillColor = color
-    var iconFillColorOpacity = "0.3"
+    const pinBackground = new PinElement({
+        background: color,
+    });
     
-    // create hollow circle svg image
-    const iconSvgString = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="8" stroke="' + iconStrokeColor + '" stroke-width="3" stroke-opacity="' + iconStrokeColorOpacity + '" fill-opacity="' + iconFillColorOpacity + '" fill="' + iconFillColor + '" /></svg>';
-
-    const icon = parser.parseFromString(iconSvgString, 'image/svg+xml').documentElement;
-
     var marker = new AdvancedMarkerElement({
       position: location,
       map: map,
       title: title,
-      content: icon,
+      content: pinBackground.element,
       gmpClickable: true,
-      zIndex: -99999999
     });
 
     marker.addListener("click", ({ domEvent, latLng }) => {
