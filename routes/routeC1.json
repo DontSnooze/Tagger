@@ -1,5 +1,11 @@
 {
   "name": "C1",
+  "meter_g_zones": [
+    "KA",
+    "KB",
+    "KC",
+    "KE"
+  ],
   "route": [
     {
       "title": "Deerfield, Comm Ave (Outbound) to Dead End",

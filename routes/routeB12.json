@@ -1,5 +1,9 @@
 {
   "name": "B12",
+  "meter_g_zones": [
+    "CD",
+    "DA"
+  ],
   "route": [
     {
       "title": "CLARENDON ST (WS), COLUMBUS AVE to BOYLSTON ST",

@@ -1,5 +1,10 @@
 {
   "name": "E7",
+  "meter_g_zones": [
+    "CE",
+    "CF",
+    "HA"
+  ],
   "route": [
     {
       "title": "HERALD ST, WASHINGTON ST to ALBANY ST",

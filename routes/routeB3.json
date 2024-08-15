@@ -1,5 +1,10 @@
 {
   "name": "B3",
+  "meter_g_zones": [
+    "DE",
+    "DF",
+    "MS"
+  ],
   "route": [
     {
       "title": "COMM AVE (IN), CLARENDON ST to DARTMOUTH ST",

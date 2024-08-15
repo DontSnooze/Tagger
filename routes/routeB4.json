@@ -1,5 +1,11 @@
 {
   "name": "B4",
+  "meter_g_zones": [
+    "AB",
+    "DE",
+    "DF",
+    "MS"
+  ],
   "route": [
     {
       "title": "NEWBURY ST, DARTMOUTH ST to EXETER ST",

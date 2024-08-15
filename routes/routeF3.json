@@ -1,5 +1,9 @@
 {
   "name": "F3",
+  "meter_g_zones": [
+    "GC",
+    "GD"
+  ],
   "route": [
     {
       "title": "HARVARD AVE, COMM AVE to BROOKLINE LINE",

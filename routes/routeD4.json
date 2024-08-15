@@ -1,5 +1,8 @@
 {
   "name": "D4",
+  "meter_g_zones": [
+    "FC"
+  ],
   "route": [
     {
       "title": "ELLINGWOOD, 6 ESTEY to DEAD END",

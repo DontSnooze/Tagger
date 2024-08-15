@@ -1,5 +1,10 @@
 {
   "name": "B9",
+  "meter_g_zones": [
+    "ED",
+    "EE",
+    "MS"
+  ],
   "route": [
     {
       "title": "Boylston (SS), Hemenway to Dalton",

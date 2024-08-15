@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Tagger Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="nav.css">    
+  </head>
+  <body>
+    <div id="leftNav" class="sideNav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="container">
+        
+        <form id="route-form">
+          <h4>Routes</h4>
+          <button type="button" onClick="selectAllRoutes()">All</button>
+          <button type="button" onClick="deselectAllRoutes()">None</button>
+          <div id="route-form-checkboxes"></div>
+          <hr>
+          <div id="route-form-settings-checkboxes">
+            <label>
+              <input type="checkbox" name="showParkingMeters" id="settings-showParkingMeters" value="true">
+              <div class="navCheckBoxDiv">Meters</div>
+            </label>
+            <br>
+            <label>
+              <input type="checkbox" name="showAreaShade" id="settings-showAreaShade" value="true">
+              <div class="navCheckBoxDiv">Shade</div>
+            </label>
+          </div>
+          <button type="submit" class="btn btn-default">Go</button>
+        </form>
+      </div>
+    </div>
+
+    <div id="commentsNav" class="sideNav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeCommentsNav()">&times;</a>
+      <div class="container giscus">
+        
+      </div>
+    </div>
+
+    <div id="consoleDiv" class="console">
+      <div id="consoleText" class="consoleHighlighted"></div>
+    </div>
+    
+    <!-- Use any element to open the sidenav -->
+    <button id="left-nav-control" class="map-control" onclick="openNav()">Settings</button>
+    <button id="comments-nav-control" class="map-control" onclick="openCommentsNav()">Comments</button>
+    
+    <div id="map">Loading...</div>
+
+    <!-- prettier-ignore -->
+    <script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
+        ({key: "AIzaSyDcjKPH9e11XtJ3zsfkgzPvW5Y-xnjDaEQ", v: "weekly"});</script>
+
+    <script src="nav.js"></script>
+    <script src="settings.js"></script>    
+    <script src="index2.js"></script>
+
+    <script src="https://giscus.app/client.js"
+        data-repo="dontsnooze/Tagger"
+        data-repo-id="R_kgDOMAs40w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOMAs4084CgIiv"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+    </script>
+  </body>
+</html>

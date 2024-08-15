@@ -1,5 +1,8 @@
 {
   "name": "B11",
+  "meter_g_zones": [
+    "EE"
+  ],
   "route": [
     {
       "title": "Huntington Ave, Exeter to West Newton",

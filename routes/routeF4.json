@@ -1,5 +1,8 @@
 {
   "name": "F4",
+  "meter_g_zones": [
+    "GE"
+  ],
   "route": [
     {
       "title": "COREY ROAD, WASHINGTON ST to BROOKLINE LINE",

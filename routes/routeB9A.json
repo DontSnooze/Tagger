@@ -1,5 +1,8 @@
 {
   "name": "B9A",
+  "meter_g_zones": [
+    "ED"
+  ],
   "route": [
     {
       "title": "BOYLSTON ST (NS), IPSWICH ST to MASS AVE",

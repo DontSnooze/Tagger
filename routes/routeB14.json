@@ -1,5 +1,11 @@
 {
   "name": "B14",
+  "meter_g_zones": [
+    "CC",
+    "DA",
+    "DD",
+    "0"
+  ],
   "route": [
     {
       "title": "BOYLSTON ST (SS), CHARLES ST to BERKELEY ST",

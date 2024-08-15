@@ -1,5 +1,8 @@
 {
   "name": "B10",
+  "meter_g_zones": [
+    "EE"
+  ],
   "route": [
     {
       "title": "MASS AVE (ES), HUNTINGTON AVE to COLUMBUS AVE",

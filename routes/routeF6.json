@@ -1,5 +1,8 @@
 {
   "name": "F6",
+  "meter_g_zones": [
+    "GE"
+  ],
   "route": [
     {
       "title": "CALTHA ROAD, UNDINE ROAD to DEAD END",

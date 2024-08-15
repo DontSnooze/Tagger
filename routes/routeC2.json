@@ -1,5 +1,8 @@
 {
   "name": "C2",
+  "meter_g_zones": [
+    "FF"
+  ],
   "route": [
     {
       "title": "Park Drive, Beacon St to Mountfort",

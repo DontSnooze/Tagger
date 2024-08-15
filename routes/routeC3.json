@@ -1,5 +1,12 @@
 {
   "name": "C3",
+  "meter_g_zones": [
+    "ED",
+    "FE",
+    "FF",
+    "EA",
+    "KC"
+  ],
   "route": [
     {
       "title": "Boylston St, Park Drive to Park Drive",

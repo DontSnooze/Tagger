@@ -1,5 +1,11 @@
 {
   "name": "B6",
+  "meter_g_zones": [
+    "AB",
+    "DE",
+    "DF",
+    "MS"
+  ],
   "route": [
     {
       "title": "BOYLSTON ST, FAIRFIELD ST to GLOUCESTER ST",

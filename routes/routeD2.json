@@ -1,5 +1,10 @@
 {
   "name": "D2",
+  "meter_g_zones": [
+    "FA",
+    "FB",
+    "FC"
+  ],
   "route": [
     {
       "title": "GAINESBOROUGH ST, HEMENWAY ST to DEAD END",

@@ -1,5 +1,9 @@
 {
   "name": "E4A",
+  "meter_g_zones": [
+    "CD",
+    "CG"
+  ],
   "route": [
     {
       "title": "DARTMOUTH PLACE, DARTMOUTH ST to DEAD END",

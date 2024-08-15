@@ -1,5 +1,11 @@
 {
   "name": "B5",
+  "meter_g_zones": [
+    "AB",
+    "DE",
+    "DF",
+    "MS"
+  ],
   "route": [
     {
       "title": "COMM AVE (OUT), EXETER ST to FAIRFIELD ST",

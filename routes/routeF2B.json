@@ -1,5 +1,9 @@
 {
   "name": "F2B",
+  "meter_g_zones": [
+    "GC",
+    "GD"
+  ],
   "route": [
     {
       "title": "BRIGHTON AVE, HARVARD AVE to CAMBRIDGE ST",

@@ -1,5 +1,9 @@
 {
   "name": "E5A",
+  "meter_g_zones": [
+    "CE",
+    "CG"
+  ],
   "route": [
     {
       "title": "TREMONT ST, MASS AVE to WEST NEWTON ST",

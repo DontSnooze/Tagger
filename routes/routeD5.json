@@ -1,5 +1,9 @@
 {
   "name": "D5",
+  "meter_g_zones": [
+    "CE",
+    "HA"
+  ],
   "route": [
     {
       "title": "COLUMBUS AVE, MASS AVE to TREMONT ST",

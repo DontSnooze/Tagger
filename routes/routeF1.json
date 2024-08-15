@@ -1,5 +1,9 @@
 {
   "name": "F1",
+  "meter_g_zones": [
+    "KD",
+    "KE"
+  ],
   "route": [
     {
       "title": "BABCOCK ST, COMM AVE to DEAD END",

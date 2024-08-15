@@ -1,5 +1,10 @@
 {
   "name": "E6A",
+  "meter_g_zones": [
+    "CE",
+    "CF",
+    "CG"
+  ],
   "route": [
     {
       "title": "WEST DEDHAM ST, WASHINGTON ST to TREMONT ST",

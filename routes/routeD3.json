@@ -1,5 +1,10 @@
 {
   "name": "D3",
+  "meter_g_zones": [
+    "FB",
+    "FC",
+    "FD"
+  ],
   "route": [
     {
       "title": "VINING ST, FRANCIS ST to DEAD END",

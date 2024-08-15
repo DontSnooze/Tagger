@@ -1,5 +1,9 @@
 {
   "name": "E2",
+  "meter_g_zones": [
+    "CC",
+    "CD"
+  ],
   "route": [
     {
       "title": "TREMONT ST, CHARLES ST SO to MARGINAL ROAD",

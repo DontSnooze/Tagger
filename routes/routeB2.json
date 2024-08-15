@@ -2,6 +2,7 @@
   "name": "B2",
   "meter_g_zones": [
     "DC",
+    "DF",
     "DE",
     "MS",
     "AB"

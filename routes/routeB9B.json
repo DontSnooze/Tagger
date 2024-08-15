@@ -1,5 +1,10 @@
 {
   "name": "B9B",
+  "meter_g_zones": [
+    "ED",
+    "EE",
+    "MS"
+  ],
   "route": [
     {
       "title": "BOYLSTON ST (SS), MASS AVE to DALTON",

@@ -1,5 +1,10 @@
 {
   "name": "F2A",
+  "meter_g_zones": [
+    "GC",
+    "GD",
+    "KE"
+  ],
   "route": [
     {
       "title": "WADSWORTH ST, PRATT ST to DEAD END",

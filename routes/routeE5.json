@@ -1,5 +1,8 @@
 {
   "name": "E5",
+  "meter_g_zones": [
+    "CG"
+  ],
   "route": [
     {
       "title": "WEST NEWTON ST, COLUMBUS AVE to TREMONT ST",

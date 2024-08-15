@@ -1,5 +1,11 @@
 {
   "name": "B7",
+  "meter_g_zones": [
+    "DE",
+    "DF",
+    "EC",
+    "MS"
+  ],
   "route": [
     {
       "title": "COMM AVE (OUT), GLOUCESTER ST to HEREFORD ST",

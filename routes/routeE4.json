@@ -1,5 +1,9 @@
 {
   "name": "E4",
+  "meter_g_zones": [
+    "CD",
+    "CG"
+  ],
   "route": [
     {
       "title": "CHANDLER ST, CLARENDON ST to DEAD END",

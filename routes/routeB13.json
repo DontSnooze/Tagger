@@ -1,5 +1,10 @@
 {
   "name": "B13",
+  "meter_g_zones": [
+    "AB",
+    "CD",
+    "DA"
+  ],
   "route": [
     {
       "title": "COLUMBUS AVE (NS), ARLINGTON ST to CLARENDON ST",

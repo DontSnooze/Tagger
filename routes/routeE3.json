@@ -1,5 +1,10 @@
 {
   "name": "E3",
+  "meter_g_zones": [
+    "CB",
+    "CC",
+    "CF"
+  ],
   "route": [
     {
       "title": "MARGINAL ROAD, TREMONT ST to HUDSON ST",

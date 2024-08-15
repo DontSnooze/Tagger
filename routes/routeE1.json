@@ -1,5 +1,8 @@
 {
   "name": "E1",
+  "meter_g_zones": [
+    "CF"
+  ],
   "route": [
     {
       "title": "SHAWMUT AVE (WS), TREMONT ST to MARGINAL ROAD",

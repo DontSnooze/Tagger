@@ -1,5 +1,9 @@
 {
   "name": "E6",
+  "meter_g_zones": [
+    "CE",
+    "CG"
+  ],
   "route": [
     {
       "title": "SAN JUAN, SHAWMUT AVE to SHAWMUT AVE",

@@ -1,5 +1,10 @@
 {
   "name": "C4",
+  "meter_g_zones": [
+    "KA",
+    "KC",
+
+  ],
   "route": [
     {
       "title": "BROOKLINE AVE, LANSDOWNE ST to COMM AVE",

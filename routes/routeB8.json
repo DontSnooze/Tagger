@@ -1,5 +1,10 @@
 {
   "name": "B8",
+  "meter_g_zones": [
+    "DE",
+    "EC",
+    "ED"
+  ],
   "route": [
     {
       "title": "NEWBURY ST, MASS AVE to CHARLESGATE",

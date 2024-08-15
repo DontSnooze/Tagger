@@ -1,5 +1,10 @@
 {
   "name": "E8",
+  "meter_g_zones": [
+    "CE",
+    "HA",
+    "HB"
+  ],
   "route": [
     {
       "title": "WASHINGTON ST, MASS AVE to EAST NEWTON ST",

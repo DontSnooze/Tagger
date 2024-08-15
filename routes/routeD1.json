@@ -1,5 +1,8 @@
 {
   "name": "D1",
+  "meter_g_zones": [
+    "FD"
+  ],
   "route": [
     {
       "title": "FRANCIS ST, BROOKLINE AVE to DEAD END",
