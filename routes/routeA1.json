@@ -1,5 +1,8 @@
 {
   "name": "A1",
+  "meter_g_zones": [
+    "AA"
+  ],
   "route": [
     {
       "title": "NORTH , CROSS  to FLEET ",

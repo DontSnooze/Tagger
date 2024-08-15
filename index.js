@@ -1,6 +1,9 @@
 var map;
 var geocoder;
 var shouldShowAreaHighlight = false
+var shouldShowParkingMeters = false
+var meterGZones = []
+var parkingMeters = []
 
 const initialPosition = { lat: 42.3507752636, lng: -71.0748797005 };
 const taggerMapId = "67a3f6d5605a8cd"
@@ -55,72 +58,74 @@ async function initMap() {
     }
 
     // add meters if wanted
-    for (let i in parkingMeters) {
-        let meter = parkingMeters[i]
-        
-        var gZone = meter.properties.G_ZONE
+    if (shouldShowParkingMeters) {
+        for (let i in parkingMeters) {
+            let meter = parkingMeters[i]
+            
+            var gZone = meter.properties.G_ZONE
+            
+            if (!meterGZones.includes(gZone)) {
+                continue
+            }
+            
+            let objectId = meter.properties.OBJECTID
+            let meterId = meter.properties.METER_ID
+            let blkNo = meter.properties.BLK_NO
+            let meterType = meter.properties.METER_TYPE
+            let streetName = meter.properties.STREET
+            let gPmZone = meter.properties.G_PM_ZONE
+            let gDistrict = meter.properties.G_DISTRICT
+            let gPassportZones = meter.properties.G_PASSPORT_ZONES
+            let payPolicy = meter.properties.PAY_POLICY
 
-        if (!meterGZones.includes(gZone)) {
-            continue
-        }
-        
-        let objectId = meter.properties.OBJECTID
-        let meterId = meter.properties.METER_ID
-        let blkNo = meter.properties.BLK_NO
-        let meterType = meter.properties.METER_TYPE
-        let streetName = meter.properties.STREET
-        let gPmZone = meter.properties.G_PM_ZONE
-        let gDistrict = meter.properties.G_DISTRICT
-        let gPassportZones = meter.properties.G_PASSPORT_ZONES
-        let payPolicy = meter.properties.PAY_POLICY
+            var color = ""
 
-        var color = ""
-
-        // color by gZone
-        if (gZone == null) {
-            gZone = "null"
-            gZoneColorsDict[gZone] = "Gray"
-            color = "Gray"
-        }
-
-        if (gZoneColorsDict[gZone] == null) {
-            meterColorIndex++
-
-            if (meterColorIndex >= colors.length) {
-                meterColorIndex = 0
+            // color by gZone
+            if (gZone == null) {
+                gZone = "null"
+                gZoneColorsDict[gZone] = "Gray"
+                color = "Gray"
             }
 
-            gZoneColorsDict[gZone] = colors[meterColorIndex]
+            if (gZoneColorsDict[gZone] == null) {
+                meterColorIndex++
+
+                if (meterColorIndex >= colors.length) {
+                    meterColorIndex = 0
+                }
+
+                gZoneColorsDict[gZone] = colors[meterColorIndex]
+            }
+
+            color = gZoneColorsDict[gZone]
+
+            var title = ""
+            title += "[objectId: " + objectId + "]\n"
+            title += "[meterId: " + meterId + "]\n"
+            title += "[blkNo: " + blkNo + "]\n"
+            title += "[meterType: " + meterType + "]\n"
+            title += "[streetName: " + streetName + "]\n"
+            title += "[gZone: " + gZone + "]\n"
+            title += "[gPmZone: " + gPmZone + "]\n"
+            title += "[gDistrict: " + gDistrict + "]\n"
+            title += "[gPassportZones: " + gPassportZones + "]\n"
+            title += "[payPolicy: " + payPolicy + "]\n"
+            
+
+            let geo = meter.geometry
+
+            if (!geo) {
+                console.log(i + ": geometry is null")
+                continue
+            }
+
+            var coords = geo.coordinates
+
+            let location = { lng: coords[0], lat: coords[1] }
+            
+            
+            addMeter(location, title, color, infoWindow)
         }
-
-        color = gZoneColorsDict[gZone]
-
-        var title = ""
-        title += "[objectId: " + objectId + "]\n"
-        title += "[meterId: " + meterId + "]\n"
-        title += "[blkNo: " + blkNo + "]\n"
-        title += "[meterType: " + meterType + "]\n"
-        title += "[streetName: " + streetName + "]\n"
-        title += "[gZone: " + gZone + "]\n"
-        title += "[gPmZone: " + gPmZone + "]\n"
-        title += "[gDistrict: " + gDistrict + "]\n"
-        title += "[gPassportZones: " + gPassportZones + "]\n"
-        title += "[payPolicy: " + payPolicy + "]\n"
-        
-
-        let geo = meter.geometry
-
-        if (!geo) {
-            console.log(i + ": geometry is null")
-            continue
-        }
-
-        var coords = geo.coordinates
-
-        let location = { lng: coords[0], lat: coords[1] }
-        
-        
-        addMeter(location, title, color, infoWindow)
     }
 
     setupSideNav()
@@ -189,8 +194,16 @@ function getLocationsFromQuery() {
 
 function getSettingsFromQuery() {
     const searchParams = new URLSearchParams(window.location.search)
+    const parkingMetersSettingsCheckbox = document.getElementById("settings-showParkingMeters")
     const shadeAreaSettingsCheckbox = document.getElementById("settings-showAreaShade")
-    var showAreaString = searchParams.get("showArea")
+
+    var showAreaString = searchParams.get("showAreaShade")
+    var showParkingMetersString = searchParams.get("showParkingMeters")
+    
+    if (showParkingMetersString == "true") {
+        shouldShowParkingMeters = true
+        parkingMetersSettingsCheckbox.setAttribute("checked", "true")
+    }
     if (showAreaString == "true") {
         shouldShowAreaHighlight = true
         shadeAreaSettingsCheckbox.setAttribute("checked", "true")
@@ -249,16 +262,33 @@ async function addMarker(location, title, color, infoWindow) {
 async function addMeter(location, title, color, infoWindow) {
     const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
     
-    const pinBackground = new PinElement({
-        background: color,
-    });
+    // const icon = document.createElement('img');
+    // icon.src = 'images/meter-dot-white-black.png';
+
+
+    const parser = new DOMParser();
+
+    // A marker with a custom inline SVG.
+
+    var iconStrokeColor = "black"
+    var iconStrokeColorOpacity = "0.1"
+
+    // change this color based off time - 6pm or 8pm? or more!
+    var iconFillColor = color
+    var iconFillColorOpacity = "0.3"
     
+    // create hollow circle svg image
+    const iconSvgString = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="8" stroke="' + iconStrokeColor + '" stroke-width="3" stroke-opacity="' + iconStrokeColorOpacity + '" fill-opacity="' + iconFillColorOpacity + '" fill="' + iconFillColor + '" /></svg>';
+
+    const icon = parser.parseFromString(iconSvgString, 'image/svg+xml').documentElement;
+
     var marker = new AdvancedMarkerElement({
       position: location,
       map: map,
       title: title,
-      content: pinBackground.element,
+      content: icon,
       gmpClickable: true,
+      zIndex: -99999999
     });
 
     marker.addListener("click", ({ domEvent, latLng }) => {

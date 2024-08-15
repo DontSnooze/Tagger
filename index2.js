@@ -64,9 +64,10 @@ async function initMap() {
             
             var gZone = meter.properties.G_ZONE
 
-            if (!meterGZones.includes(gZone)) {
-                continue
-            }
+            // TODO: PUT THIS BACK
+            // if (!meterGZones.includes(gZone)) {
+            //     continue
+            // }
             
             let objectId = meter.properties.OBJECTID
             let meterId = meter.properties.METER_ID
