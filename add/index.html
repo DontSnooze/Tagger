@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Tagger Map - Update</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+
+    <div id="consoleDiv" class="console">
+      <div id="consoleText" class="consoleHighlighted"></div>
+      <div id="selectedText" class="consoleHighlighted"></div>
+
+      <div class="container">
+        
+        <form id="tag-type-form">
+          <label for="route">Route:</label>
+
+          <select name="route" id="cars">
+            <option value="B1">B1</option>
+            <option value="B2">B2</option>
+          </select>
+
+          <label for="cars">Choose a violation:</label>
+
+          <select name="violation" id="cars">
+            <option value="noParking">No Parking</option>
+            <option value="rpp">Residential Permit Parking</option>
+            <option value="loadingZone">Loading Zone</option>
+          </select>
+
+          <label for="coordinates">Coordinatess:</label>
+          <input type="text" id="tag-type-form-coordinates" name="coordinates" disabled>
+
+          <br>
+
+          <label for="comment">Comment:</label>
+          <input type="text" id="tag-type-form-ccomment" name="comment">
+
+          <br>
+          
+          <button type="submit" class="btn btn-default">Go</button>
+
+          <br>
+
+        </form>
+
+      </div>
+
+    </div>
+
+    <div id="map">Loading...</div>
+
+    <!-- prettier-ignore -->
+    <script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
+        ({key: "AIzaSyDcjKPH9e11XtJ3zsfkgzPvW5Y-xnjDaEQ", v: "weekly"});</script>
+    
+    <script src="index.js"></script>
+  </body>
+</html>
