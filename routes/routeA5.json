@@ -1,5 +1,11 @@
 {
   "name": "A5",
+  "meter_g_zones": [
+    "AC",
+    "AE",
+    "BA",
+    "MS"
+  ],
   "route": [
     {
       "title": "MERRIMAC  , NEW CHARDON to SUDBURY",

@@ -1,5 +1,8 @@
 {
   "name": "A10",
+  "meter_g_zones": [
+    "BA"
+  ],
   "route": [
     {
       "title": "COURT SQUARE, COURT ST to COURT ST",

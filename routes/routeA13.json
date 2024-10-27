@@ -1,5 +1,10 @@
 {
   "name": "A13",
+  "meter_g_zones": [
+    "BB",
+    "BD",
+    "MS"
+  ],
   "route": [
     {
       "title": "BROAD, MILK ST to FRANKLIN ST",

@@ -1,5 +1,9 @@
 {
   "name": "A7",
+  "meter_g_zones": [
+    "AE",
+    "DD"
+  ],
   "route": [
     {
       "title": "CAMBRIDGE ST, WEST CEDAR to BOWDOIN",

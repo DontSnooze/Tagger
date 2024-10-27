@@ -1,5 +1,9 @@
 {
   "name": "A4",
+  "meter_g_zones": [
+    "AC",
+    "MS"
+  ],
   "route": [
     {
       "title": "FRIEND ST, CAUSEWAY ST to MARKET ST",

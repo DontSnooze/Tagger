@@ -1,5 +1,8 @@
 {
   "name": "A8",
+  "meter_g_zones": [
+    "DD"
+  ],
   "route": [
     {
       "title": "CHARLES ST (ES), MOUNT VERNON ST to REVERE",

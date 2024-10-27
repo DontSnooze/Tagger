@@ -1,5 +1,8 @@
 {
   "name": "A3",
+  "meter_g_zones": [
+    "AC"
+  ],
   "route": [
     {
       "title": "PRINCE (ES), MARGARET  to HANOVER ",

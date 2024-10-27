@@ -1,5 +1,8 @@
 {
   "name": "A7A",
+  "meter_g_zones": [
+    "DD"
+  ],
   "route": [
     {
       "title": "CHESTNUT, CHARLES ST (WS) to MUGAR WAY",

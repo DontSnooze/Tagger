@@ -1,5 +1,12 @@
 {
   "name": "A17B",
+  "meter_g_zones": [
+    "AD",
+    "AF",
+    "AH",
+    "CA",
+    "MS"
+  ],
   "route": [
     {
       "title": "D ST, SUMMER ST to FARGO ST",

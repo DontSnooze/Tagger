@@ -1,5 +1,12 @@
 {
   "name": "A6",
+  "meter_g_zones": [
+    "AC",
+    "AE",
+    "BA",
+    "DD",
+    "MS"
+  ],
   "route": [
     {
       "title": "LYNDE, CAMBRIDGE ST to DEAD END",

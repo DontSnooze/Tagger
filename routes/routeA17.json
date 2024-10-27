@@ -1,5 +1,14 @@
 {
   "name": "A17",
+  "meter_g_zones": [
+    "AA",
+    "AD",
+    "AF",
+    "AH",
+    "BC",
+    "BD",
+    "MS"
+  ],
   "route": [
     {
       "title": "EAST INDIA ROW, ATLANTIC AVE to DEAD END",

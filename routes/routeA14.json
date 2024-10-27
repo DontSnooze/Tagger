@@ -1,5 +1,11 @@
 {
   "name": "A14",
+  "meter_g_zones": [
+    "AA",
+    "BB",
+    "BD",
+    "MS"
+  ],
   "route": [
     {
       "title": "BATTERYMARCH  , FRANKLIN ST to HIGH ST",
@@ -18,12 +24,12 @@
       "title": "WHARF ROAD, BROAD ST to SURFACE ROAD",
       "coords": [
         {
-          "lat": 42.357754,
-          "lng": -71.053478
+          "lat": 42.357362575508326,
+          "lng": -71.05230473429442
         },
         {
-          "lat": 42.352014,
-          "lng": -71.0586569
+          "lat": 42.35769436767767,
+          "lng": -71.05201508886596
         }
       ]
     },
@@ -44,12 +50,12 @@
       "title": "BROAD ST, FRANKLIN ST to HIGH ST",
       "coords": [
         {
-          "lat": 42.3574438,
-          "lng": -71.0526869
+          "lat": 42.35740244106982,
+          "lng": -71.05261126810605
         },
         {
-          "lat": 42.357754,
-          "lng": -71.053478
+          "lat": 42.357154215017665,
+          "lng": -71.0517544448884
         }
       ]
     },

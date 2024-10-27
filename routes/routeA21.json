@@ -1,5 +1,8 @@
 {
   "name": "A21",
+  "meter_g_zones": [
+    "CA"
+  ],
   "route": [
     {
       "title": "BEACH, SURFACE RD to ATLANTIC",

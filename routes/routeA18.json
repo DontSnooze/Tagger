@@ -1,5 +1,10 @@
 {
   "name": "A18",
+  "meter_g_zones": [
+    "BE",
+    "CB",
+    "MS"
+  ],
   "route": [
     {
       "title": "AVERY, TREMONT ST to WASHINGTON ST",

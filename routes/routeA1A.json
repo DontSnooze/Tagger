@@ -1,5 +1,8 @@
 {
   "name": "A1A",
+  "meter_g_zones": [
+    "AA"
+  ],
   "route": [
     {
       "title": "NORTH , COMMERCIAL  to FLEET ",

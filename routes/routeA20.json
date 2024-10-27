@@ -1,5 +1,10 @@
 {
   "name": "A20",
+  "meter_g_zones": [
+    "BE",
+    "CA",
+    "CB"
+  ],
   "route": [
     {
       "title": "BEACH, WASHINGTON ST to SURFACE ROAD",

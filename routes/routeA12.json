@@ -1,5 +1,12 @@
 {
   "name": "A12",
+  "meter_g_zones": [
+    "AA",
+    "BA",
+    "BB",
+    "BD",
+    "MS"
+  ],
   "route": [
     {
       "title": "SURFACE ROAD, STATE ST to MILK ST",

@@ -1,5 +1,12 @@
 {
   "name": "A17A",
+  "meter_g_zones": [
+    "AA",
+    "AF",
+    "BC",
+    "BD",
+    "MS"
+  ],
   "route": [
     {
       "title": "NORTHERN AVE, ATLANTIC AVE to SEAPORT BLVD",

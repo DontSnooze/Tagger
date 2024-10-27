@@ -1,5 +1,11 @@
 {
   "name": "A11",
+  "meter_g_zones": [
+    "AA",
+    "BA",
+    "BB",
+    "MS"
+  ],
   "route": [
     {
       "title": "CHATHAM ROW, STATE ST to CHATHAM",

@@ -1,5 +1,12 @@
 {
   "name": "A16",
+  "meter_g_zones": [
+    "BA",
+    "BD",
+    "BE",
+    "CA",
+    "CF"
+  ],
   "route": [
     {
       "title": "HIGH, SUMMER to CONGRESS",

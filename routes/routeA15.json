@@ -1,5 +1,9 @@
 {
   "name": "A15",
+  "meter_g_zones": [
+    "BA",
+    "BE"
+  ],
   "route": [
     {
       "title": "MILK ST (SS), CONGRESS ST to WASHINGTON ST",

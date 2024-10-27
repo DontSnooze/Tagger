@@ -1,5 +1,8 @@
 {
   "name": "A9",
+  "meter_g_zones": [
+    "DD"
+  ],
   "route": [
     {
       "title": "MOUNT VERNON ST, CHARLES ST (ES) to JOY **",
