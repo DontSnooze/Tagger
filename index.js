@@ -402,7 +402,7 @@ const monitor_position = async (map) => {
             };
         }
 
-        geocodeLatLng()
+        // geocodeLatLng() // <-- getting charged!?
     },
     (err) => {
         console.error(err);
